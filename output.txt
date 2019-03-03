@@ -1,0 +1,10783 @@
+===== 1 =====
+FILE: g:\Scan\Data\1.td
+ARCHIVE: yes
+PACKERS: 
+   - NSIS
+INFECTED: yes
+INFILTRATIONS: 
+   - Win32/Induc virus
+   - a variant of Win32/Induc.A virus
+   - a variant of Win32/TrojanDownloader.Delf.PWL trojan
+
+===== 2 =====
+FILE: g:\Scan\Data\10.čťš.($%^@!
+ARCHIVE: no
+INFECTED: no
+
+===== 3 =====
+FILE: g:\Scan\Data\100. '''
+ARCHIVE: no
+INFECTED: no
+
+===== 4 =====
+FILE: g:\Scan\Data\1000. 
+ARCHIVE: no
+INFECTED: no
+
+===== 5 =====
+FILE: g:\Scan\Data\1001
+ARCHIVE: yes
+PACKERS: 
+   - CHROMEEXTENSION
+   - NSIS
+   - UPX v12_m2_dll
+   - ZIP
+INFECTED: yes
+INFILTRATIONS: 
+   - a variant of Win32/Adware.WinPump.AH application
+   - a variant of Win32/Toolbar.Babylon.A potentially unwanted application
+
+===== 6 =====
+FILE: g:\Scan\Data\1002
+ARCHIVE: no
+INFECTED: no
+
+===== 7 =====
+FILE: g:\Scan\Data\1003
+ARCHIVE: no
+INFECTED: no
+
+===== 8 =====
+FILE: g:\Scan\Data\1004
+ARCHIVE: no
+INFECTED: no
+
+===== 9 =====
+FILE: g:\Scan\Data\1005
+ARCHIVE: no
+INFECTED: no
+
+===== 10 =====
+FILE: g:\Scan\Data\1006
+ARCHIVE: no
+INFECTED: no
+
+===== 11 =====
+FILE: g:\Scan\Data\1007.
+ARCHIVE: no
+INFECTED: no
+
+===== 12 =====
+FILE: g:\Scan\Data\1008
+ARCHIVE: no
+INFECTED: no
+
+===== 13 =====
+FILE: g:\Scan\Data\1009
+ARCHIVE: no
+INFECTED: no
+
+===== 14 =====
+FILE: g:\Scan\Data\1009:2074
+ARCHIVE: yes
+PACKERS: 
+   - ZIP
+INFECTED: yes
+INFILTRATIONS: 
+   - Win32/Spy.Agent.NOM trojan
+
+===== 15 =====
+FILE: g:\Scan\Data\101
+ARCHIVE: no
+INFECTED: no
+
+===== 16 =====
+FILE: g:\Scan\Data\1010
+ARCHIVE: no
+INFECTED: no
+
+===== 17 =====
+FILE: g:\Scan\Data\1011
+ARCHIVE: no
+INFECTED: no
+
+===== 18 =====
+FILE: g:\Scan\Data\1012
+ARCHIVE: yes
+PACKERS: 
+   - NSIS
+INFECTED: no
+
+===== 19 =====
+FILE: g:\Scan\Data\1013
+ARCHIVE: no
+INFECTED: no
+
+===== 20 =====
+FILE: g:\Scan\Data\1014
+ARCHIVE: no
+INFECTED: no
+
+===== 21 =====
+FILE: g:\Scan\Data\1015
+ARCHIVE: no
+INFECTED: no
+
+===== 22 =====
+FILE: g:\Scan\Data\1016
+ARCHIVE: no
+INFECTED: no
+
+===== 23 =====
+FILE: g:\Scan\Data\1017
+ARCHIVE: no
+INFECTED: no
+
+===== 24 =====
+FILE: g:\Scan\Data\1018
+ARCHIVE: no
+INFECTED: no
+
+===== 25 =====
+FILE: g:\Scan\Data\1019
+ARCHIVE: no
+INFECTED: no
+
+===== 26 =====
+FILE: g:\Scan\Data\102
+ARCHIVE: no
+INFECTED: no
+
+===== 27 =====
+FILE: g:\Scan\Data\1020
+ARCHIVE: no
+INFECTED: no
+
+===== 28 =====
+FILE: g:\Scan\Data\1021
+ARCHIVE: no
+INFECTED: no
+
+===== 29 =====
+FILE: g:\Scan\Data\1022
+ARCHIVE: no
+INFECTED: no
+
+===== 30 =====
+FILE: g:\Scan\Data\1023
+ARCHIVE: no
+INFECTED: no
+
+===== 31 =====
+FILE: g:\Scan\Data\1024
+ARCHIVE: no
+INFECTED: no
+
+===== 32 =====
+FILE: g:\Scan\Data\1025
+ARCHIVE: no
+INFECTED: no
+
+===== 33 =====
+FILE: g:\Scan\Data\1026
+ARCHIVE: no
+INFECTED: no
+
+===== 34 =====
+FILE: g:\Scan\Data\1027
+ARCHIVE: no
+INFECTED: no
+
+===== 35 =====
+FILE: g:\Scan\Data\1028
+ARCHIVE: no
+INFECTED: no
+
+===== 36 =====
+FILE: g:\Scan\Data\1029
+ARCHIVE: no
+INFECTED: no
+
+===== 37 =====
+FILE: g:\Scan\Data\103
+ARCHIVE: no
+INFECTED: no
+
+===== 38 =====
+FILE: g:\Scan\Data\1030
+ARCHIVE: no
+INFECTED: no
+
+===== 39 =====
+FILE: g:\Scan\Data\1031
+ARCHIVE: no
+INFECTED: no
+
+===== 40 =====
+FILE: g:\Scan\Data\1032
+ARCHIVE: no
+INFECTED: no
+
+===== 41 =====
+FILE: g:\Scan\Data\1033
+ARCHIVE: no
+INFECTED: no
+
+===== 42 =====
+FILE: g:\Scan\Data\1034
+ARCHIVE: no
+INFECTED: no
+
+===== 43 =====
+FILE: g:\Scan\Data\1035
+ARCHIVE: yes
+PACKERS: 
+   - UPack v0.39
+INFECTED: no
+
+===== 44 =====
+FILE: g:\Scan\Data\1036
+ARCHIVE: no
+INFECTED: no
+
+===== 45 =====
+FILE: g:\Scan\Data\1037
+ARCHIVE: no
+INFECTED: no
+
+===== 46 =====
+FILE: g:\Scan\Data\1038
+ARCHIVE: no
+INFECTED: no
+
+===== 47 =====
+FILE: g:\Scan\Data\1039
+ARCHIVE: no
+INFECTED: no
+
+===== 48 =====
+FILE: g:\Scan\Data\104
+ARCHIVE: no
+INFECTED: no
+
+===== 49 =====
+FILE: g:\Scan\Data\1040
+ARCHIVE: no
+INFECTED: no
+
+===== 50 =====
+FILE: g:\Scan\Data\1041
+ARCHIVE: no
+INFECTED: no
+
+===== 51 =====
+FILE: g:\Scan\Data\1042
+ARCHIVE: no
+INFECTED: no
+
+===== 52 =====
+FILE: g:\Scan\Data\1043
+ARCHIVE: no
+INFECTED: no
+
+===== 53 =====
+FILE: g:\Scan\Data\1044
+ARCHIVE: no
+INFECTED: no
+
+===== 54 =====
+FILE: g:\Scan\Data\1045
+ARCHIVE: no
+INFECTED: no
+
+===== 55 =====
+FILE: g:\Scan\Data\1046
+ARCHIVE: no
+INFECTED: no
+
+===== 56 =====
+FILE: g:\Scan\Data\1047
+ARCHIVE: no
+INFECTED: no
+
+===== 57 =====
+FILE: g:\Scan\Data\1048
+ARCHIVE: no
+INFECTED: no
+
+===== 58 =====
+FILE: g:\Scan\Data\1049
+ARCHIVE: no
+INFECTED: no
+
+===== 59 =====
+FILE: g:\Scan\Data\105
+ARCHIVE: no
+INFECTED: no
+
+===== 60 =====
+FILE: g:\Scan\Data\1050
+ARCHIVE: no
+INFECTED: no
+
+===== 61 =====
+FILE: g:\Scan\Data\1051
+ARCHIVE: no
+INFECTED: no
+
+===== 62 =====
+FILE: g:\Scan\Data\1052
+ARCHIVE: no
+INFECTED: no
+
+===== 63 =====
+FILE: g:\Scan\Data\1053
+ARCHIVE: no
+INFECTED: no
+
+===== 64 =====
+FILE: g:\Scan\Data\1054
+ARCHIVE: no
+INFECTED: no
+
+===== 65 =====
+FILE: g:\Scan\Data\1055
+ARCHIVE: no
+INFECTED: no
+
+===== 66 =====
+FILE: g:\Scan\Data\1056
+ARCHIVE: no
+INFECTED: no
+
+===== 67 =====
+FILE: g:\Scan\Data\1057
+ARCHIVE: no
+INFECTED: no
+
+===== 68 =====
+FILE: g:\Scan\Data\1058
+ARCHIVE: no
+INFECTED: no
+
+===== 69 =====
+FILE: g:\Scan\Data\1059
+ARCHIVE: no
+INFECTED: no
+
+===== 70 =====
+FILE: g:\Scan\Data\106
+ARCHIVE: no
+INFECTED: no
+
+===== 71 =====
+FILE: g:\Scan\Data\1060
+ARCHIVE: no
+INFECTED: no
+
+===== 72 =====
+FILE: g:\Scan\Data\1061
+ARCHIVE: no
+INFECTED: no
+
+===== 73 =====
+FILE: g:\Scan\Data\1062
+ARCHIVE: no
+INFECTED: no
+
+===== 74 =====
+FILE: g:\Scan\Data\1063
+ARCHIVE: no
+INFECTED: no
+
+===== 75 =====
+FILE: g:\Scan\Data\1064
+ARCHIVE: no
+INFECTED: no
+
+===== 76 =====
+FILE: g:\Scan\Data\1065
+ARCHIVE: no
+INFECTED: no
+
+===== 77 =====
+FILE: g:\Scan\Data\1066
+ARCHIVE: no
+INFECTED: no
+
+===== 78 =====
+FILE: g:\Scan\Data\1067
+ARCHIVE: no
+INFECTED: no
+
+===== 79 =====
+FILE: g:\Scan\Data\1068
+ARCHIVE: no
+INFECTED: no
+
+===== 80 =====
+FILE: g:\Scan\Data\1069
+ARCHIVE: no
+INFECTED: no
+
+===== 81 =====
+FILE: g:\Scan\Data\107
+ARCHIVE: no
+INFECTED: no
+
+===== 82 =====
+FILE: g:\Scan\Data\1070
+ARCHIVE: no
+INFECTED: no
+
+===== 83 =====
+FILE: g:\Scan\Data\1071
+ARCHIVE: no
+INFECTED: no
+
+===== 84 =====
+FILE: g:\Scan\Data\1072
+ARCHIVE: no
+INFECTED: no
+
+===== 85 =====
+FILE: g:\Scan\Data\1073
+ARCHIVE: no
+INFECTED: no
+
+===== 86 =====
+FILE: g:\Scan\Data\1074
+ARCHIVE: no
+INFECTED: no
+
+===== 87 =====
+FILE: g:\Scan\Data\1075
+ARCHIVE: no
+INFECTED: no
+
+===== 88 =====
+FILE: g:\Scan\Data\1076
+ARCHIVE: no
+INFECTED: no
+
+===== 89 =====
+FILE: g:\Scan\Data\1077
+ARCHIVE: no
+INFECTED: no
+
+===== 90 =====
+FILE: g:\Scan\Data\1078
+ARCHIVE: no
+INFECTED: no
+
+===== 91 =====
+FILE: g:\Scan\Data\1079
+ARCHIVE: no
+INFECTED: no
+
+===== 92 =====
+FILE: g:\Scan\Data\108
+ARCHIVE: no
+INFECTED: no
+
+===== 93 =====
+FILE: g:\Scan\Data\1080
+ARCHIVE: no
+INFECTED: no
+
+===== 94 =====
+FILE: g:\Scan\Data\1081
+ARCHIVE: no
+INFECTED: no
+
+===== 95 =====
+FILE: g:\Scan\Data\1082
+ARCHIVE: no
+INFECTED: no
+
+===== 96 =====
+FILE: g:\Scan\Data\1083
+ARCHIVE: no
+INFECTED: no
+
+===== 97 =====
+FILE: g:\Scan\Data\1084
+ARCHIVE: no
+INFECTED: no
+
+===== 98 =====
+FILE: g:\Scan\Data\1085
+ARCHIVE: no
+INFECTED: no
+
+===== 99 =====
+FILE: g:\Scan\Data\1086
+ARCHIVE: no
+INFECTED: no
+
+===== 100 =====
+FILE: g:\Scan\Data\1087
+ARCHIVE: no
+INFECTED: no
+
+===== 101 =====
+FILE: g:\Scan\Data\1088
+ARCHIVE: no
+INFECTED: no
+
+===== 102 =====
+FILE: g:\Scan\Data\1089
+ARCHIVE: no
+INFECTED: no
+
+===== 103 =====
+FILE: g:\Scan\Data\109
+ARCHIVE: no
+INFECTED: no
+
+===== 104 =====
+FILE: g:\Scan\Data\1090
+ARCHIVE: no
+INFECTED: no
+
+===== 105 =====
+FILE: g:\Scan\Data\1091
+ARCHIVE: no
+INFECTED: no
+
+===== 106 =====
+FILE: g:\Scan\Data\1092
+ARCHIVE: yes
+PACKERS: 
+   - tElock v0.98
+INFECTED: no
+
+===== 107 =====
+FILE: g:\Scan\Data\1093
+ARCHIVE: no
+INFECTED: no
+
+===== 108 =====
+FILE: g:\Scan\Data\1094
+ARCHIVE: yes
+PACKERS: 
+   - ASPack v2.12
+INFECTED: no
+
+===== 109 =====
+FILE: g:\Scan\Data\1095
+ARCHIVE: no
+INFECTED: no
+
+===== 110 =====
+FILE: g:\Scan\Data\1096
+ARCHIVE: no
+INFECTED: no
+
+===== 111 =====
+FILE: g:\Scan\Data\1097
+ARCHIVE: no
+INFECTED: no
+
+===== 112 =====
+FILE: g:\Scan\Data\1098
+ARCHIVE: no
+INFECTED: no
+
+===== 113 =====
+FILE: g:\Scan\Data\1099
+ARCHIVE: no
+INFECTED: no
+
+===== 114 =====
+FILE: g:\Scan\Data\11
+ARCHIVE: no
+INFECTED: no
+
+===== 115 =====
+FILE: g:\Scan\Data\110
+ARCHIVE: no
+INFECTED: no
+
+===== 116 =====
+FILE: g:\Scan\Data\1100
+ARCHIVE: no
+INFECTED: no
+
+===== 117 =====
+FILE: g:\Scan\Data\1101
+ARCHIVE: no
+INFECTED: no
+
+===== 118 =====
+FILE: g:\Scan\Data\1102
+ARCHIVE: no
+INFECTED: no
+
+===== 119 =====
+FILE: g:\Scan\Data\1103
+ARCHIVE: no
+INFECTED: no
+
+===== 120 =====
+FILE: g:\Scan\Data\1104
+ARCHIVE: no
+INFECTED: no
+
+===== 121 =====
+FILE: g:\Scan\Data\1105
+ARCHIVE: no
+INFECTED: no
+
+===== 122 =====
+FILE: g:\Scan\Data\1106
+ARCHIVE: no
+INFECTED: no
+
+===== 123 =====
+FILE: g:\Scan\Data\1107
+ARCHIVE: no
+INFECTED: no
+
+===== 124 =====
+FILE: g:\Scan\Data\1108
+ARCHIVE: no
+INFECTED: no
+
+===== 125 =====
+FILE: g:\Scan\Data\1109
+ARCHIVE: yes
+PACKERS: 
+   - ASPack v2.12
+   - CAB
+   - RAR
+INFECTED: yes
+INFILTRATIONS: 
+   - a variant of Win32/GameHack.DU potentially unsafe application
+   - a variant of Win32/HackTool.Inject.O potentially unsafe application
+
+===== 126 =====
+FILE: g:\Scan\Data\111
+ARCHIVE: no
+INFECTED: no
+
+===== 127 =====
+FILE: g:\Scan\Data\1110
+ARCHIVE: no
+INFECTED: no
+
+===== 128 =====
+FILE: g:\Scan\Data\1111
+ARCHIVE: no
+INFECTED: no
+
+===== 129 =====
+FILE: g:\Scan\Data\1112
+ARCHIVE: no
+INFECTED: no
+
+===== 130 =====
+FILE: g:\Scan\Data\1113
+ARCHIVE: no
+INFECTED: no
+
+===== 131 =====
+FILE: g:\Scan\Data\1114
+ARCHIVE: no
+INFECTED: no
+
+===== 132 =====
+FILE: g:\Scan\Data\1115
+ARCHIVE: no
+INFECTED: no
+
+===== 133 =====
+FILE: g:\Scan\Data\1116
+ARCHIVE: no
+INFECTED: no
+
+===== 134 =====
+FILE: g:\Scan\Data\1117
+ARCHIVE: no
+INFECTED: no
+
+===== 135 =====
+FILE: g:\Scan\Data\1118
+ARCHIVE: no
+INFECTED: no
+
+===== 136 =====
+FILE: g:\Scan\Data\1119
+ARCHIVE: no
+INFECTED: no
+
+===== 137 =====
+FILE: g:\Scan\Data\112
+ARCHIVE: no
+INFECTED: no
+
+===== 138 =====
+FILE: g:\Scan\Data\1120
+ARCHIVE: no
+INFECTED: no
+
+===== 139 =====
+FILE: g:\Scan\Data\1121
+ARCHIVE: no
+INFECTED: no
+
+===== 140 =====
+FILE: g:\Scan\Data\1122
+ARCHIVE: no
+INFECTED: no
+
+===== 141 =====
+FILE: g:\Scan\Data\1123
+ARCHIVE: no
+INFECTED: no
+
+===== 142 =====
+FILE: g:\Scan\Data\1124
+ARCHIVE: no
+INFECTED: no
+
+===== 143 =====
+FILE: g:\Scan\Data\1125
+ARCHIVE: no
+INFECTED: no
+
+===== 144 =====
+FILE: g:\Scan\Data\1126
+ARCHIVE: no
+INFECTED: no
+
+===== 145 =====
+FILE: g:\Scan\Data\1127
+ARCHIVE: no
+INFECTED: no
+
+===== 146 =====
+FILE: g:\Scan\Data\1128
+ARCHIVE: no
+INFECTED: no
+
+===== 147 =====
+FILE: g:\Scan\Data\1129
+ARCHIVE: no
+INFECTED: no
+
+===== 148 =====
+FILE: g:\Scan\Data\113
+ARCHIVE: no
+INFECTED: no
+
+===== 149 =====
+FILE: g:\Scan\Data\1130
+ARCHIVE: no
+INFECTED: no
+
+===== 150 =====
+FILE: g:\Scan\Data\1131
+ARCHIVE: no
+INFECTED: no
+
+===== 151 =====
+FILE: g:\Scan\Data\1132
+ARCHIVE: no
+INFECTED: no
+
+===== 152 =====
+FILE: g:\Scan\Data\1133
+ARCHIVE: no
+INFECTED: no
+
+===== 153 =====
+FILE: g:\Scan\Data\1134
+ARCHIVE: no
+INFECTED: no
+
+===== 154 =====
+FILE: g:\Scan\Data\1135
+ARCHIVE: no
+INFECTED: no
+
+===== 155 =====
+FILE: g:\Scan\Data\1136
+ARCHIVE: yes
+PACKERS: 
+   - PECompact v2.xx
+   - ZIP
+INFECTED: no
+
+===== 156 =====
+FILE: g:\Scan\Data\1137
+ARCHIVE: no
+INFECTED: no
+
+===== 157 =====
+FILE: g:\Scan\Data\1138
+ARCHIVE: no
+INFECTED: no
+
+===== 158 =====
+FILE: g:\Scan\Data\1139
+ARCHIVE: no
+INFECTED: no
+
+===== 159 =====
+FILE: g:\Scan\Data\114
+ARCHIVE: no
+INFECTED: no
+
+===== 160 =====
+FILE: g:\Scan\Data\1140
+ARCHIVE: yes
+PACKERS: 
+   - NSIS
+INFECTED: yes
+INFILTRATIONS: 
+   - Win32/Toggle.A potentially unwanted application
+
+===== 161 =====
+FILE: g:\Scan\Data\1141
+ARCHIVE: no
+INFECTED: no
+
+===== 162 =====
+FILE: g:\Scan\Data\1142
+ARCHIVE: no
+INFECTED: no
+
+===== 163 =====
+FILE: g:\Scan\Data\1143
+ARCHIVE: no
+INFECTED: no
+
+===== 164 =====
+FILE: g:\Scan\Data\1144
+ARCHIVE: no
+INFECTED: no
+
+===== 165 =====
+FILE: g:\Scan\Data\1145
+ARCHIVE: no
+INFECTED: no
+
+===== 166 =====
+FILE: g:\Scan\Data\1146
+ARCHIVE: no
+INFECTED: no
+
+===== 167 =====
+FILE: g:\Scan\Data\1147
+ARCHIVE: no
+INFECTED: no
+
+===== 168 =====
+FILE: g:\Scan\Data\1148
+ARCHIVE: no
+INFECTED: no
+
+===== 169 =====
+FILE: g:\Scan\Data\1149
+ARCHIVE: no
+INFECTED: no
+
+===== 170 =====
+FILE: g:\Scan\Data\115
+ARCHIVE: no
+INFECTED: no
+
+===== 171 =====
+FILE: g:\Scan\Data\1150
+ARCHIVE: no
+INFECTED: no
+
+===== 172 =====
+FILE: g:\Scan\Data\1151
+ARCHIVE: yes
+PACKERS: 
+   - AUTOIT
+   - UPX v13_m8
+INFECTED: yes
+INFILTRATIONS: 
+   - Win32/Packed.Autoit.E.Gen suspicious application
+   - a variant of Win32/Tifaut.C worm
+
+===== 173 =====
+FILE: g:\Scan\Data\1152
+ARCHIVE: no
+INFECTED: no
+
+===== 174 =====
+FILE: g:\Scan\Data\1153
+ARCHIVE: no
+INFECTED: no
+
+===== 175 =====
+FILE: g:\Scan\Data\1154
+ARCHIVE: no
+INFECTED: no
+
+===== 176 =====
+FILE: g:\Scan\Data\1155
+ARCHIVE: no
+INFECTED: no
+
+===== 177 =====
+FILE: g:\Scan\Data\1156
+ARCHIVE: no
+INFECTED: no
+
+===== 178 =====
+FILE: g:\Scan\Data\1157
+ARCHIVE: no
+INFECTED: no
+
+===== 179 =====
+FILE: g:\Scan\Data\1158
+ARCHIVE: no
+INFECTED: no
+
+===== 180 =====
+FILE: g:\Scan\Data\1159
+ARCHIVE: no
+INFECTED: no
+
+===== 181 =====
+FILE: g:\Scan\Data\116
+ARCHIVE: no
+INFECTED: no
+
+===== 182 =====
+FILE: g:\Scan\Data\1160
+ARCHIVE: no
+INFECTED: no
+
+===== 183 =====
+FILE: g:\Scan\Data\1161
+ARCHIVE: no
+INFECTED: no
+
+===== 184 =====
+FILE: g:\Scan\Data\1162
+ARCHIVE: no
+INFECTED: no
+
+===== 185 =====
+FILE: g:\Scan\Data\1163
+ARCHIVE: no
+INFECTED: no
+
+===== 186 =====
+FILE: g:\Scan\Data\1164
+ARCHIVE: no
+INFECTED: no
+
+===== 187 =====
+FILE: g:\Scan\Data\1165
+ARCHIVE: no
+INFECTED: no
+
+===== 188 =====
+FILE: g:\Scan\Data\1166
+ARCHIVE: no
+INFECTED: no
+
+===== 189 =====
+FILE: g:\Scan\Data\1167
+ARCHIVE: no
+INFECTED: no
+
+===== 190 =====
+FILE: g:\Scan\Data\1168
+ARCHIVE: no
+INFECTED: no
+
+===== 191 =====
+FILE: g:\Scan\Data\1169
+ARCHIVE: no
+INFECTED: no
+
+===== 192 =====
+FILE: g:\Scan\Data\117
+ARCHIVE: no
+INFECTED: no
+
+===== 193 =====
+FILE: g:\Scan\Data\1170
+ARCHIVE: no
+INFECTED: no
+
+===== 194 =====
+FILE: g:\Scan\Data\1171
+ARCHIVE: no
+INFECTED: no
+
+===== 195 =====
+FILE: g:\Scan\Data\1172
+ARCHIVE: no
+INFECTED: no
+
+===== 196 =====
+FILE: g:\Scan\Data\1173
+ARCHIVE: no
+INFECTED: no
+
+===== 197 =====
+FILE: g:\Scan\Data\1174
+ARCHIVE: yes
+PACKERS: 
+   - NSIS
+INFECTED: yes
+INFILTRATIONS: 
+   - Win32/Toggle potentially unwanted application
+
+===== 198 =====
+FILE: g:\Scan\Data\1175
+ARCHIVE: no
+INFECTED: no
+
+===== 199 =====
+FILE: g:\Scan\Data\1176
+ARCHIVE: no
+INFECTED: no
+
+===== 200 =====
+FILE: g:\Scan\Data\1177
+ARCHIVE: no
+INFECTED: no
+
+===== 201 =====
+FILE: g:\Scan\Data\1178
+ARCHIVE: no
+INFECTED: no
+
+===== 202 =====
+FILE: g:\Scan\Data\1179
+ARCHIVE: no
+INFECTED: no
+
+===== 203 =====
+FILE: g:\Scan\Data\118
+ARCHIVE: no
+INFECTED: no
+
+===== 204 =====
+FILE: g:\Scan\Data\1180
+ARCHIVE: no
+INFECTED: no
+
+===== 205 =====
+FILE: g:\Scan\Data\1181
+ARCHIVE: no
+INFECTED: no
+
+===== 206 =====
+FILE: g:\Scan\Data\1182
+ARCHIVE: no
+INFECTED: no
+
+===== 207 =====
+FILE: g:\Scan\Data\1183
+ARCHIVE: yes
+PACKERS: 
+   - NSIS
+INFECTED: no
+
+===== 208 =====
+FILE: g:\Scan\Data\1184
+ARCHIVE: no
+INFECTED: no
+
+===== 209 =====
+FILE: g:\Scan\Data\1185
+ARCHIVE: no
+INFECTED: no
+
+===== 210 =====
+FILE: g:\Scan\Data\1186
+ARCHIVE: no
+INFECTED: no
+
+===== 211 =====
+FILE: g:\Scan\Data\1187
+ARCHIVE: no
+INFECTED: no
+
+===== 212 =====
+FILE: g:\Scan\Data\1188
+ARCHIVE: no
+INFECTED: no
+
+===== 213 =====
+FILE: g:\Scan\Data\1189
+ARCHIVE: no
+INFECTED: no
+
+===== 214 =====
+FILE: g:\Scan\Data\119
+ARCHIVE: no
+INFECTED: no
+
+===== 215 =====
+FILE: g:\Scan\Data\1190
+ARCHIVE: no
+INFECTED: no
+
+===== 216 =====
+FILE: g:\Scan\Data\1191
+ARCHIVE: no
+INFECTED: no
+
+===== 217 =====
+FILE: g:\Scan\Data\1192
+ARCHIVE: no
+INFECTED: no
+
+===== 218 =====
+FILE: g:\Scan\Data\1193
+ARCHIVE: no
+INFECTED: no
+
+===== 219 =====
+FILE: g:\Scan\Data\1194
+ARCHIVE: no
+INFECTED: no
+
+===== 220 =====
+FILE: g:\Scan\Data\1195
+ARCHIVE: no
+INFECTED: no
+
+===== 221 =====
+FILE: g:\Scan\Data\1196
+ARCHIVE: no
+INFECTED: no
+
+===== 222 =====
+FILE: g:\Scan\Data\1197
+ARCHIVE: no
+INFECTED: no
+
+===== 223 =====
+FILE: g:\Scan\Data\1198
+ARCHIVE: no
+INFECTED: no
+
+===== 224 =====
+FILE: g:\Scan\Data\1199
+ARCHIVE: no
+INFECTED: no
+
+===== 225 =====
+FILE: g:\Scan\Data\12
+ARCHIVE: no
+INFECTED: no
+
+===== 226 =====
+FILE: g:\Scan\Data\120
+ARCHIVE: no
+INFECTED: no
+
+===== 227 =====
+FILE: g:\Scan\Data\1200
+ARCHIVE: no
+INFECTED: no
+
+===== 228 =====
+FILE: g:\Scan\Data\1201
+ARCHIVE: no
+INFECTED: no
+
+===== 229 =====
+FILE: g:\Scan\Data\1202
+ARCHIVE: no
+INFECTED: no
+
+===== 230 =====
+FILE: g:\Scan\Data\1203
+ARCHIVE: no
+INFECTED: no
+
+===== 231 =====
+FILE: g:\Scan\Data\1204
+ARCHIVE: no
+INFECTED: no
+
+===== 232 =====
+FILE: g:\Scan\Data\1205
+ARCHIVE: no
+INFECTED: no
+
+===== 233 =====
+FILE: g:\Scan\Data\1206
+ARCHIVE: no
+INFECTED: no
+
+===== 234 =====
+FILE: g:\Scan\Data\1207
+ARCHIVE: no
+INFECTED: no
+
+===== 235 =====
+FILE: g:\Scan\Data\1208
+ARCHIVE: no
+INFECTED: no
+
+===== 236 =====
+FILE: g:\Scan\Data\1209
+ARCHIVE: no
+INFECTED: no
+
+===== 237 =====
+FILE: g:\Scan\Data\121
+ARCHIVE: no
+INFECTED: no
+
+===== 238 =====
+FILE: g:\Scan\Data\1210
+ARCHIVE: no
+INFECTED: no
+
+===== 239 =====
+FILE: g:\Scan\Data\1211
+ARCHIVE: yes
+PACKERS: 
+   - 7ZSD
+   - CHROMEEXTENSION
+   - ZIP
+INFECTED: yes
+INFILTRATIONS: 
+   - Win32/Adware.MultiPlug.A application
+
+===== 240 =====
+FILE: g:\Scan\Data\1212
+ARCHIVE: no
+INFECTED: no
+
+===== 241 =====
+FILE: g:\Scan\Data\1213
+ARCHIVE: no
+INFECTED: no
+
+===== 242 =====
+FILE: g:\Scan\Data\1214
+ARCHIVE: no
+INFECTED: no
+
+===== 243 =====
+FILE: g:\Scan\Data\1215
+ARCHIVE: no
+INFECTED: no
+
+===== 244 =====
+FILE: g:\Scan\Data\1216
+ARCHIVE: no
+INFECTED: no
+
+===== 245 =====
+FILE: g:\Scan\Data\1217
+ARCHIVE: no
+INFECTED: no
+
+===== 246 =====
+FILE: g:\Scan\Data\1218
+ARCHIVE: no
+INFECTED: no
+
+===== 247 =====
+FILE: g:\Scan\Data\1219
+ARCHIVE: no
+INFECTED: no
+
+===== 248 =====
+FILE: g:\Scan\Data\122
+ARCHIVE: no
+INFECTED: no
+
+===== 249 =====
+FILE: g:\Scan\Data\1220
+ARCHIVE: no
+INFECTED: no
+
+===== 250 =====
+FILE: g:\Scan\Data\1221
+ARCHIVE: yes
+PACKERS: 
+   - NSIS
+INFECTED: yes
+INFILTRATIONS: 
+   - Win32/Toggle.A potentially unwanted application
+
+===== 251 =====
+FILE: g:\Scan\Data\1222
+ARCHIVE: no
+INFECTED: no
+
+===== 252 =====
+FILE: g:\Scan\Data\1223
+ARCHIVE: no
+INFECTED: no
+
+===== 253 =====
+FILE: g:\Scan\Data\1224
+ARCHIVE: no
+INFECTED: no
+
+===== 254 =====
+FILE: g:\Scan\Data\1225
+ARCHIVE: no
+INFECTED: no
+
+===== 255 =====
+FILE: g:\Scan\Data\1226
+ARCHIVE: no
+INFECTED: no
+
+===== 256 =====
+FILE: g:\Scan\Data\1227
+ARCHIVE: no
+INFECTED: no
+
+===== 257 =====
+FILE: g:\Scan\Data\1228
+ARCHIVE: no
+INFECTED: no
+
+===== 258 =====
+FILE: g:\Scan\Data\1229
+ARCHIVE: no
+INFECTED: no
+
+===== 259 =====
+FILE: g:\Scan\Data\123.exe
+ARCHIVE: yes
+PACKERS: 
+   - ASPack v2.12
+   - RAR
+INFECTED: no
+
+===== 260 =====
+FILE: g:\Scan\Data\1230
+ARCHIVE: no
+INFECTED: no
+
+===== 261 =====
+FILE: g:\Scan\Data\1231
+ARCHIVE: no
+INFECTED: no
+
+===== 262 =====
+FILE: g:\Scan\Data\1232
+ARCHIVE: no
+INFECTED: no
+
+===== 263 =====
+FILE: g:\Scan\Data\1233
+ARCHIVE: no
+INFECTED: no
+
+===== 264 =====
+FILE: g:\Scan\Data\1234
+ARCHIVE: no
+INFECTED: no
+
+===== 265 =====
+FILE: g:\Scan\Data\1235
+ARCHIVE: no
+INFECTED: no
+
+===== 266 =====
+FILE: g:\Scan\Data\1236
+ARCHIVE: no
+INFECTED: no
+
+===== 267 =====
+FILE: g:\Scan\Data\1237
+ARCHIVE: no
+INFECTED: no
+
+===== 268 =====
+FILE: g:\Scan\Data\1238
+ARCHIVE: no
+INFECTED: no
+
+===== 269 =====
+FILE: g:\Scan\Data\1239
+ARCHIVE: no
+INFECTED: no
+
+===== 270 =====
+FILE: g:\Scan\Data\124
+ARCHIVE: no
+INFECTED: no
+
+===== 271 =====
+FILE: g:\Scan\Data\1240
+ARCHIVE: no
+INFECTED: no
+
+===== 272 =====
+FILE: g:\Scan\Data\1241
+ARCHIVE: no
+INFECTED: no
+
+===== 273 =====
+FILE: g:\Scan\Data\1242
+ARCHIVE: no
+INFECTED: no
+
+===== 274 =====
+FILE: g:\Scan\Data\1243
+ARCHIVE: no
+INFECTED: no
+
+===== 275 =====
+FILE: g:\Scan\Data\1244
+ARCHIVE: no
+INFECTED: no
+
+===== 276 =====
+FILE: g:\Scan\Data\1245
+ARCHIVE: no
+INFECTED: no
+
+===== 277 =====
+FILE: g:\Scan\Data\1246
+ARCHIVE: no
+INFECTED: no
+
+===== 278 =====
+FILE: g:\Scan\Data\1247
+ARCHIVE: no
+INFECTED: no
+
+===== 279 =====
+FILE: g:\Scan\Data\1248
+ARCHIVE: yes
+PACKERS: 
+   - 7ZSD
+INFECTED: no
+
+===== 280 =====
+FILE: g:\Scan\Data\1249
+ARCHIVE: no
+INFECTED: no
+
+===== 281 =====
+FILE: g:\Scan\Data\125
+ARCHIVE: no
+INFECTED: no
+
+===== 282 =====
+FILE: g:\Scan\Data\1250
+ARCHIVE: yes
+PACKERS: 
+   - NSIS
+INFECTED: yes
+INFILTRATIONS: 
+   - Win32/Adware.1ClickDownload.C application
+   - a variant of Generik.CAQIEXB potentially unwanted application
+
+===== 283 =====
+FILE: g:\Scan\Data\1251
+ARCHIVE: no
+INFECTED: no
+
+===== 284 =====
+FILE: g:\Scan\Data\1252
+ARCHIVE: no
+INFECTED: no
+
+===== 285 =====
+FILE: g:\Scan\Data\1253
+ARCHIVE: no
+INFECTED: no
+
+===== 286 =====
+FILE: g:\Scan\Data\1254
+ARCHIVE: no
+INFECTED: no
+
+===== 287 =====
+FILE: g:\Scan\Data\1255
+ARCHIVE: no
+INFECTED: no
+
+===== 288 =====
+FILE: g:\Scan\Data\1256
+ARCHIVE: no
+INFECTED: no
+
+===== 289 =====
+FILE: g:\Scan\Data\1257
+ARCHIVE: no
+INFECTED: no
+
+===== 290 =====
+FILE: g:\Scan\Data\1258
+ARCHIVE: no
+INFECTED: no
+
+===== 291 =====
+FILE: g:\Scan\Data\1259
+ARCHIVE: no
+INFECTED: no
+
+===== 292 =====
+FILE: g:\Scan\Data\126
+ARCHIVE: no
+INFECTED: no
+
+===== 293 =====
+FILE: g:\Scan\Data\1260
+ARCHIVE: no
+INFECTED: no
+
+===== 294 =====
+FILE: g:\Scan\Data\1261
+ARCHIVE: no
+INFECTED: no
+
+===== 295 =====
+FILE: g:\Scan\Data\1262
+ARCHIVE: no
+INFECTED: no
+
+===== 296 =====
+FILE: g:\Scan\Data\1263
+ARCHIVE: no
+INFECTED: no
+
+===== 297 =====
+FILE: g:\Scan\Data\1264
+ARCHIVE: no
+INFECTED: no
+
+===== 298 =====
+FILE: g:\Scan\Data\1265
+ARCHIVE: no
+INFECTED: no
+
+===== 299 =====
+FILE: g:\Scan\Data\1266
+ARCHIVE: no
+INFECTED: no
+
+===== 300 =====
+FILE: g:\Scan\Data\1267
+ARCHIVE: yes
+PACKERS: 
+   - RAR
+INFECTED: no
+
+===== 301 =====
+FILE: g:\Scan\Data\1268
+ARCHIVE: no
+INFECTED: no
+
+===== 302 =====
+FILE: g:\Scan\Data\1269
+ARCHIVE: no
+INFECTED: no
+
+===== 303 =====
+FILE: g:\Scan\Data\127
+ARCHIVE: no
+INFECTED: no
+
+===== 304 =====
+FILE: g:\Scan\Data\1270
+ARCHIVE: no
+INFECTED: no
+
+===== 305 =====
+FILE: g:\Scan\Data\1271
+ARCHIVE: no
+INFECTED: no
+
+===== 306 =====
+FILE: g:\Scan\Data\1272
+ARCHIVE: no
+INFECTED: no
+
+===== 307 =====
+FILE: g:\Scan\Data\1273
+ARCHIVE: no
+INFECTED: no
+
+===== 308 =====
+FILE: g:\Scan\Data\1274
+ARCHIVE: no
+INFECTED: no
+
+===== 309 =====
+FILE: g:\Scan\Data\1275
+ARCHIVE: no
+INFECTED: no
+
+===== 310 =====
+FILE: g:\Scan\Data\1276
+ARCHIVE: no
+INFECTED: no
+
+===== 311 =====
+FILE: g:\Scan\Data\1277
+ARCHIVE: no
+INFECTED: no
+
+===== 312 =====
+FILE: g:\Scan\Data\1278
+ARCHIVE: no
+INFECTED: no
+
+===== 313 =====
+FILE: g:\Scan\Data\1279
+ARCHIVE: no
+INFECTED: no
+
+===== 314 =====
+FILE: g:\Scan\Data\128
+ARCHIVE: no
+INFECTED: no
+
+===== 315 =====
+FILE: g:\Scan\Data\1280.dll
+ARCHIVE: no
+INFECTED: no
+
+===== 316 =====
+FILE: g:\Scan\Data\1281
+ARCHIVE: no
+INFECTED: no
+
+===== 317 =====
+FILE: g:\Scan\Data\1282
+ARCHIVE: no
+INFECTED: no
+
+===== 318 =====
+FILE: g:\Scan\Data\1283
+ARCHIVE: no
+INFECTED: no
+
+===== 319 =====
+FILE: g:\Scan\Data\1284
+ARCHIVE: no
+INFECTED: no
+
+===== 320 =====
+FILE: g:\Scan\Data\1285
+ARCHIVE: no
+INFECTED: no
+
+===== 321 =====
+FILE: g:\Scan\Data\1286
+ARCHIVE: no
+INFECTED: no
+
+===== 322 =====
+FILE: g:\Scan\Data\1287
+ARCHIVE: no
+INFECTED: no
+
+===== 323 =====
+FILE: g:\Scan\Data\1288
+ARCHIVE: no
+INFECTED: no
+
+===== 324 =====
+FILE: g:\Scan\Data\1289
+ARCHIVE: no
+INFECTED: no
+
+===== 325 =====
+FILE: g:\Scan\Data\129
+ARCHIVE: no
+INFECTED: no
+
+===== 326 =====
+FILE: g:\Scan\Data\1290
+ARCHIVE: no
+INFECTED: no
+
+===== 327 =====
+FILE: g:\Scan\Data\1291
+ARCHIVE: no
+INFECTED: no
+
+===== 328 =====
+FILE: g:\Scan\Data\1292
+ARCHIVE: no
+INFECTED: no
+
+===== 329 =====
+FILE: g:\Scan\Data\1293
+ARCHIVE: no
+INFECTED: no
+
+===== 330 =====
+FILE: g:\Scan\Data\1294
+ARCHIVE: no
+INFECTED: no
+
+===== 331 =====
+FILE: g:\Scan\Data\1295
+ARCHIVE: no
+INFECTED: no
+
+===== 332 =====
+FILE: g:\Scan\Data\1296
+ARCHIVE: no
+INFECTED: no
+
+===== 333 =====
+FILE: g:\Scan\Data\1297
+ARCHIVE: no
+INFECTED: no
+
+===== 334 =====
+FILE: g:\Scan\Data\1298
+ARCHIVE: no
+INFECTED: no
+
+===== 335 =====
+FILE: g:\Scan\Data\1299
+ARCHIVE: no
+INFECTED: no
+
+===== 336 =====
+FILE: g:\Scan\Data\13.vbin
+ARCHIVE: yes
+PACKERS: 
+   - ASPack v2.12
+INFECTED: no
+
+===== 337 =====
+FILE: g:\Scan\Data\13.vbin:dalsiasvina.bin
+ARCHIVE: yes
+PACKERS: 
+   - ASPack v2.12
+INFECTED: no
+
+===== 338 =====
+FILE: g:\Scan\Data\130
+ARCHIVE: no
+INFECTED: no
+
+===== 339 =====
+FILE: g:\Scan\Data\1300
+ARCHIVE: no
+INFECTED: no
+
+===== 340 =====
+FILE: g:\Scan\Data\1301
+ARCHIVE: no
+INFECTED: no
+
+===== 341 =====
+FILE: g:\Scan\Data\1302
+ARCHIVE: no
+INFECTED: no
+
+===== 342 =====
+FILE: g:\Scan\Data\1303
+ARCHIVE: yes
+PACKERS: 
+   - UPX v13_m8_dll
+INFECTED: no
+
+===== 343 =====
+FILE: g:\Scan\Data\1304
+ARCHIVE: no
+INFECTED: no
+
+===== 344 =====
+FILE: g:\Scan\Data\1305
+ARCHIVE: no
+INFECTED: no
+
+===== 345 =====
+FILE: g:\Scan\Data\1306
+ARCHIVE: no
+INFECTED: no
+
+===== 346 =====
+FILE: g:\Scan\Data\1307
+ARCHIVE: no
+INFECTED: no
+
+===== 347 =====
+FILE: g:\Scan\Data\1308
+ARCHIVE: no
+INFECTED: no
+
+===== 348 =====
+FILE: g:\Scan\Data\1309
+ARCHIVE: no
+INFECTED: no
+
+===== 349 =====
+FILE: g:\Scan\Data\131
+ARCHIVE: no
+INFECTED: no
+
+===== 350 =====
+FILE: g:\Scan\Data\1310
+ARCHIVE: no
+INFECTED: no
+
+===== 351 =====
+FILE: g:\Scan\Data\1311
+ARCHIVE: no
+INFECTED: no
+
+===== 352 =====
+FILE: g:\Scan\Data\1312
+ARCHIVE: no
+INFECTED: no
+
+===== 353 =====
+FILE: g:\Scan\Data\1313
+ARCHIVE: no
+INFECTED: no
+
+===== 354 =====
+FILE: g:\Scan\Data\1314
+ARCHIVE: no
+INFECTED: no
+
+===== 355 =====
+FILE: g:\Scan\Data\1315
+ARCHIVE: no
+INFECTED: no
+
+===== 356 =====
+FILE: g:\Scan\Data\1316
+ARCHIVE: no
+INFECTED: no
+
+===== 357 =====
+FILE: g:\Scan\Data\1317
+ARCHIVE: no
+INFECTED: no
+
+===== 358 =====
+FILE: g:\Scan\Data\1318
+ARCHIVE: no
+INFECTED: no
+
+===== 359 =====
+FILE: g:\Scan\Data\1319
+ARCHIVE: no
+INFECTED: no
+
+===== 360 =====
+FILE: g:\Scan\Data\132
+ARCHIVE: no
+INFECTED: no
+
+===== 361 =====
+FILE: g:\Scan\Data\1320
+ARCHIVE: no
+INFECTED: no
+
+===== 362 =====
+FILE: g:\Scan\Data\1321
+ARCHIVE: no
+INFECTED: no
+
+===== 363 =====
+FILE: g:\Scan\Data\1322
+ARCHIVE: no
+INFECTED: no
+
+===== 364 =====
+FILE: g:\Scan\Data\1323
+ARCHIVE: no
+INFECTED: no
+
+===== 365 =====
+FILE: g:\Scan\Data\1324
+ARCHIVE: no
+INFECTED: no
+
+===== 366 =====
+FILE: g:\Scan\Data\1325
+ARCHIVE: no
+INFECTED: no
+
+===== 367 =====
+FILE: g:\Scan\Data\1326
+ARCHIVE: no
+INFECTED: no
+
+===== 368 =====
+FILE: g:\Scan\Data\1327
+ARCHIVE: no
+INFECTED: no
+
+===== 369 =====
+FILE: g:\Scan\Data\1328
+ARCHIVE: no
+INFECTED: no
+
+===== 370 =====
+FILE: g:\Scan\Data\1329
+ARCHIVE: no
+INFECTED: no
+
+===== 371 =====
+FILE: g:\Scan\Data\133
+ARCHIVE: no
+INFECTED: no
+
+===== 372 =====
+FILE: g:\Scan\Data\1330
+ARCHIVE: no
+INFECTED: no
+
+===== 373 =====
+FILE: g:\Scan\Data\1331
+ARCHIVE: no
+INFECTED: no
+
+===== 374 =====
+FILE: g:\Scan\Data\1332
+ARCHIVE: no
+INFECTED: no
+
+===== 375 =====
+FILE: g:\Scan\Data\1333
+ARCHIVE: no
+INFECTED: no
+
+===== 376 =====
+FILE: g:\Scan\Data\1334
+ARCHIVE: no
+INFECTED: no
+
+===== 377 =====
+FILE: g:\Scan\Data\1335
+ARCHIVE: no
+INFECTED: no
+
+===== 378 =====
+FILE: g:\Scan\Data\1336
+ARCHIVE: yes
+PACKERS: 
+   - INSTALLMATE
+INFECTED: yes
+INFILTRATIONS: 
+   - Win32/InstalleRex.C potentially unwanted application
+
+===== 379 =====
+FILE: g:\Scan\Data\1337
+ARCHIVE: no
+INFECTED: no
+
+===== 380 =====
+FILE: g:\Scan\Data\1338
+ARCHIVE: yes
+PACKERS: 
+   - UPX v13_m8
+INFECTED: no
+
+===== 381 =====
+FILE: g:\Scan\Data\1339.exe
+ARCHIVE: no
+INFECTED: no
+
+===== 382 =====
+FILE: g:\Scan\Data\134
+ARCHIVE: no
+INFECTED: no
+
+===== 383 =====
+FILE: g:\Scan\Data\1340
+ARCHIVE: no
+INFECTED: no
+
+===== 384 =====
+FILE: g:\Scan\Data\1341
+ARCHIVE: yes
+PACKERS: 
+   - NSIS
+INFECTED: no
+
+===== 385 =====
+FILE: g:\Scan\Data\1342
+ARCHIVE: no
+INFECTED: no
+
+===== 386 =====
+FILE: g:\Scan\Data\1343
+ARCHIVE: no
+INFECTED: no
+
+===== 387 =====
+FILE: g:\Scan\Data\1344
+ARCHIVE: no
+INFECTED: no
+
+===== 388 =====
+FILE: g:\Scan\Data\1345
+ARCHIVE: no
+INFECTED: no
+
+===== 389 =====
+FILE: g:\Scan\Data\1346
+ARCHIVE: no
+INFECTED: no
+
+===== 390 =====
+FILE: g:\Scan\Data\1347
+ARCHIVE: no
+INFECTED: no
+
+===== 391 =====
+FILE: g:\Scan\Data\1348
+ARCHIVE: no
+INFECTED: no
+
+===== 392 =====
+FILE: g:\Scan\Data\1349
+ARCHIVE: no
+INFECTED: no
+
+===== 393 =====
+FILE: g:\Scan\Data\135
+ARCHIVE: no
+INFECTED: no
+
+===== 394 =====
+FILE: g:\Scan\Data\1350
+ARCHIVE: no
+INFECTED: no
+
+===== 395 =====
+FILE: g:\Scan\Data\1351
+ARCHIVE: no
+INFECTED: no
+
+===== 396 =====
+FILE: g:\Scan\Data\1352
+ARCHIVE: yes
+PACKERS: 
+   - NSIS
+INFECTED: yes
+INFILTRATIONS: 
+   - Win32/Toggle potentially unwanted application
+   - Win32/Toolbar.Babylon potentially unwanted application
+
+===== 397 =====
+FILE: g:\Scan\Data\1353
+ARCHIVE: no
+INFECTED: no
+
+===== 398 =====
+FILE: g:\Scan\Data\1354
+ARCHIVE: yes
+PACKERS: 
+   - UPX v13_m8
+INFECTED: no
+
+===== 399 =====
+FILE: g:\Scan\Data\1355
+ARCHIVE: no
+INFECTED: no
+
+===== 400 =====
+FILE: g:\Scan\Data\1356
+ARCHIVE: no
+INFECTED: no
+
+===== 401 =====
+FILE: g:\Scan\Data\1357
+ARCHIVE: no
+INFECTED: no
+
+===== 402 =====
+FILE: g:\Scan\Data\1358
+ARCHIVE: no
+INFECTED: no
+
+===== 403 =====
+FILE: g:\Scan\Data\1359
+ARCHIVE: no
+INFECTED: no
+
+===== 404 =====
+FILE: g:\Scan\Data\136
+ARCHIVE: no
+INFECTED: no
+
+===== 405 =====
+FILE: g:\Scan\Data\1360
+ARCHIVE: no
+INFECTED: no
+
+===== 406 =====
+FILE: g:\Scan\Data\1361
+ARCHIVE: no
+INFECTED: no
+
+===== 407 =====
+FILE: g:\Scan\Data\1362
+ARCHIVE: no
+INFECTED: no
+
+===== 408 =====
+FILE: g:\Scan\Data\1363
+ARCHIVE: no
+INFECTED: no
+
+===== 409 =====
+FILE: g:\Scan\Data\1364
+ARCHIVE: no
+INFECTED: no
+
+===== 410 =====
+FILE: g:\Scan\Data\1365
+ARCHIVE: yes
+PACKERS: 
+   - UPX v13_m8
+INFECTED: yes
+INFILTRATIONS: 
+   - Win32/InstallCore.Gen potentially unwanted application
+
+===== 411 =====
+FILE: g:\Scan\Data\1366
+ARCHIVE: no
+INFECTED: no
+
+===== 412 =====
+FILE: g:\Scan\Data\1367
+ARCHIVE: no
+INFECTED: no
+
+===== 413 =====
+FILE: g:\Scan\Data\1368
+ARCHIVE: no
+INFECTED: no
+
+===== 414 =====
+FILE: g:\Scan\Data\1369
+ARCHIVE: no
+INFECTED: no
+
+===== 415 =====
+FILE: g:\Scan\Data\137
+ARCHIVE: no
+INFECTED: no
+
+===== 416 =====
+FILE: g:\Scan\Data\1370
+ARCHIVE: no
+INFECTED: no
+
+===== 417 =====
+FILE: g:\Scan\Data\1371
+ARCHIVE: no
+INFECTED: no
+
+===== 418 =====
+FILE: g:\Scan\Data\1372
+ARCHIVE: yes
+PACKERS: 
+   - NSIS
+INFECTED: yes
+INFILTRATIONS: 
+   - MSIL/Solimba potentially unwanted application
+   - a variant of MSIL/Solimba.B potentially unwanted application
+
+===== 419 =====
+FILE: g:\Scan\Data\1373
+ARCHIVE: no
+INFECTED: no
+
+===== 420 =====
+FILE: g:\Scan\Data\1374
+ARCHIVE: no
+INFECTED: no
+
+===== 421 =====
+FILE: g:\Scan\Data\1375
+ARCHIVE: no
+INFECTED: no
+
+===== 422 =====
+FILE: g:\Scan\Data\1376
+ARCHIVE: no
+INFECTED: no
+
+===== 423 =====
+FILE: g:\Scan\Data\1377
+ARCHIVE: no
+INFECTED: no
+
+===== 424 =====
+FILE: g:\Scan\Data\1378
+ARCHIVE: no
+INFECTED: no
+
+===== 425 =====
+FILE: g:\Scan\Data\1379
+ARCHIVE: no
+INFECTED: no
+
+===== 426 =====
+FILE: g:\Scan\Data\138
+ARCHIVE: no
+INFECTED: no
+
+===== 427 =====
+FILE: g:\Scan\Data\1380
+ARCHIVE: no
+INFECTED: no
+
+===== 428 =====
+FILE: g:\Scan\Data\1381
+ARCHIVE: no
+INFECTED: no
+
+===== 429 =====
+FILE: g:\Scan\Data\1382
+ARCHIVE: no
+INFECTED: no
+
+===== 430 =====
+FILE: g:\Scan\Data\1383
+ARCHIVE: no
+INFECTED: no
+
+===== 431 =====
+FILE: g:\Scan\Data\1384
+ARCHIVE: no
+INFECTED: no
+
+===== 432 =====
+FILE: g:\Scan\Data\1385
+ARCHIVE: no
+INFECTED: no
+
+===== 433 =====
+FILE: g:\Scan\Data\1386
+ARCHIVE: no
+INFECTED: no
+
+===== 434 =====
+FILE: g:\Scan\Data\1387
+ARCHIVE: no
+INFECTED: no
+
+===== 435 =====
+FILE: g:\Scan\Data\1388.tmp
+ARCHIVE: yes
+PACKERS: 
+   - NSIS
+INFECTED: no
+
+===== 436 =====
+FILE: g:\Scan\Data\1389.exe
+ARCHIVE: no
+INFECTED: no
+
+===== 437 =====
+FILE: g:\Scan\Data\139
+ARCHIVE: no
+INFECTED: no
+
+===== 438 =====
+FILE: g:\Scan\Data\1390
+ARCHIVE: no
+INFECTED: no
+
+===== 439 =====
+FILE: g:\Scan\Data\1391
+ARCHIVE: no
+INFECTED: no
+
+===== 440 =====
+FILE: g:\Scan\Data\1392
+ARCHIVE: no
+INFECTED: no
+
+===== 441 =====
+FILE: g:\Scan\Data\1393
+ARCHIVE: no
+INFECTED: no
+
+===== 442 =====
+FILE: g:\Scan\Data\1394
+ARCHIVE: no
+INFECTED: no
+
+===== 443 =====
+FILE: g:\Scan\Data\1395
+ARCHIVE: no
+INFECTED: no
+
+===== 444 =====
+FILE: g:\Scan\Data\1396
+ARCHIVE: no
+INFECTED: no
+
+===== 445 =====
+FILE: g:\Scan\Data\1397.exe
+ARCHIVE: no
+INFECTED: no
+
+===== 446 =====
+FILE: g:\Scan\Data\1398
+ARCHIVE: no
+INFECTED: no
+
+===== 447 =====
+FILE: g:\Scan\Data\1399
+ARCHIVE: no
+INFECTED: no
+
+===== 448 =====
+FILE: g:\Scan\Data\14
+ARCHIVE: no
+INFECTED: no
+
+===== 449 =====
+FILE: g:\Scan\Data\140
+ARCHIVE: no
+INFECTED: no
+
+===== 450 =====
+FILE: g:\Scan\Data\1400
+ARCHIVE: no
+INFECTED: no
+
+===== 451 =====
+FILE: g:\Scan\Data\1401
+ARCHIVE: no
+INFECTED: no
+
+===== 452 =====
+FILE: g:\Scan\Data\1402
+ARCHIVE: no
+INFECTED: no
+
+===== 453 =====
+FILE: g:\Scan\Data\1403
+ARCHIVE: no
+INFECTED: no
+
+===== 454 =====
+FILE: g:\Scan\Data\1404
+ARCHIVE: no
+INFECTED: no
+
+===== 455 =====
+FILE: g:\Scan\Data\1405
+ARCHIVE: no
+INFECTED: no
+
+===== 456 =====
+FILE: g:\Scan\Data\1406
+ARCHIVE: no
+INFECTED: no
+
+===== 457 =====
+FILE: g:\Scan\Data\1407
+ARCHIVE: no
+INFECTED: no
+
+===== 458 =====
+FILE: g:\Scan\Data\1408
+ARCHIVE: no
+INFECTED: no
+
+===== 459 =====
+FILE: g:\Scan\Data\1409
+ARCHIVE: no
+INFECTED: no
+
+===== 460 =====
+FILE: g:\Scan\Data\141
+ARCHIVE: no
+INFECTED: no
+
+===== 461 =====
+FILE: g:\Scan\Data\1410
+ARCHIVE: yes
+PACKERS: 
+   - NSIS
+INFECTED: yes
+INFILTRATIONS: 
+   - Win32/Toggle potentially unwanted application
+   - Win32/Toolbar.Babylon potentially unwanted application
+
+===== 462 =====
+FILE: g:\Scan\Data\1411
+ARCHIVE: no
+INFECTED: no
+
+===== 463 =====
+FILE: g:\Scan\Data\1412
+ARCHIVE: no
+INFECTED: no
+
+===== 464 =====
+FILE: g:\Scan\Data\1413
+ARCHIVE: no
+INFECTED: no
+
+===== 465 =====
+FILE: g:\Scan\Data\1414
+ARCHIVE: no
+INFECTED: no
+
+===== 466 =====
+FILE: g:\Scan\Data\1415
+ARCHIVE: no
+INFECTED: no
+
+===== 467 =====
+FILE: g:\Scan\Data\1416
+ARCHIVE: no
+INFECTED: no
+
+===== 468 =====
+FILE: g:\Scan\Data\1417
+ARCHIVE: no
+INFECTED: no
+
+===== 469 =====
+FILE: g:\Scan\Data\1418
+ARCHIVE: no
+INFECTED: no
+
+===== 470 =====
+FILE: g:\Scan\Data\1419
+ARCHIVE: no
+INFECTED: no
+
+===== 471 =====
+FILE: g:\Scan\Data\142
+ARCHIVE: no
+INFECTED: no
+
+===== 472 =====
+FILE: g:\Scan\Data\1420
+ARCHIVE: no
+INFECTED: no
+
+===== 473 =====
+FILE: g:\Scan\Data\1421
+ARCHIVE: no
+INFECTED: no
+
+===== 474 =====
+FILE: g:\Scan\Data\1422
+ARCHIVE: no
+INFECTED: no
+
+===== 475 =====
+FILE: g:\Scan\Data\1423
+ARCHIVE: no
+INFECTED: no
+
+===== 476 =====
+FILE: g:\Scan\Data\1424
+ARCHIVE: no
+INFECTED: no
+
+===== 477 =====
+FILE: g:\Scan\Data\1425
+ARCHIVE: no
+INFECTED: no
+
+===== 478 =====
+FILE: g:\Scan\Data\1426
+ARCHIVE: no
+INFECTED: no
+
+===== 479 =====
+FILE: g:\Scan\Data\1427
+ARCHIVE: no
+INFECTED: no
+
+===== 480 =====
+FILE: g:\Scan\Data\1428
+ARCHIVE: no
+INFECTED: no
+
+===== 481 =====
+FILE: g:\Scan\Data\1429
+ARCHIVE: no
+INFECTED: no
+
+===== 482 =====
+FILE: g:\Scan\Data\143
+ARCHIVE: no
+INFECTED: no
+
+===== 483 =====
+FILE: g:\Scan\Data\1430
+ARCHIVE: no
+INFECTED: no
+
+===== 484 =====
+FILE: g:\Scan\Data\1431
+ARCHIVE: no
+INFECTED: no
+
+===== 485 =====
+FILE: g:\Scan\Data\1432
+ARCHIVE: no
+INFECTED: no
+
+===== 486 =====
+FILE: g:\Scan\Data\1433
+ARCHIVE: no
+INFECTED: no
+
+===== 487 =====
+FILE: g:\Scan\Data\1434
+ARCHIVE: no
+INFECTED: no
+
+===== 488 =====
+FILE: g:\Scan\Data\1435
+ARCHIVE: no
+INFECTED: no
+
+===== 489 =====
+FILE: g:\Scan\Data\1436
+ARCHIVE: no
+INFECTED: no
+
+===== 490 =====
+FILE: g:\Scan\Data\1437
+ARCHIVE: no
+INFECTED: no
+
+===== 491 =====
+FILE: g:\Scan\Data\1438
+ARCHIVE: no
+INFECTED: no
+
+===== 492 =====
+FILE: g:\Scan\Data\1439
+ARCHIVE: no
+INFECTED: no
+
+===== 493 =====
+FILE: g:\Scan\Data\144
+ARCHIVE: no
+INFECTED: no
+
+===== 494 =====
+FILE: g:\Scan\Data\1440
+ARCHIVE: no
+INFECTED: no
+
+===== 495 =====
+FILE: g:\Scan\Data\1441
+ARCHIVE: yes
+PACKERS: 
+   - INSTALLFACTORY1
+   - UPX v12_m2
+   - ZIP
+INFECTED: no
+
+===== 496 =====
+FILE: g:\Scan\Data\1442
+ARCHIVE: no
+INFECTED: no
+
+===== 497 =====
+FILE: g:\Scan\Data\1443
+ARCHIVE: no
+INFECTED: no
+
+===== 498 =====
+FILE: g:\Scan\Data\1444
+ARCHIVE: no
+INFECTED: no
+
+===== 499 =====
+FILE: g:\Scan\Data\1445
+ARCHIVE: no
+INFECTED: no
+
+===== 500 =====
+FILE: g:\Scan\Data\1446
+ARCHIVE: no
+INFECTED: no
+
+===== 501 =====
+FILE: g:\Scan\Data\1447
+ARCHIVE: no
+INFECTED: no
+
+===== 502 =====
+FILE: g:\Scan\Data\1448
+ARCHIVE: no
+INFECTED: no
+
+===== 503 =====
+FILE: g:\Scan\Data\1449
+ARCHIVE: no
+INFECTED: no
+
+===== 504 =====
+FILE: g:\Scan\Data\145
+ARCHIVE: no
+INFECTED: no
+
+===== 505 =====
+FILE: g:\Scan\Data\1450
+ARCHIVE: no
+INFECTED: no
+
+===== 506 =====
+FILE: g:\Scan\Data\1451
+ARCHIVE: no
+INFECTED: no
+
+===== 507 =====
+FILE: g:\Scan\Data\1452
+ARCHIVE: no
+INFECTED: no
+
+===== 508 =====
+FILE: g:\Scan\Data\1453
+ARCHIVE: no
+INFECTED: no
+
+===== 509 =====
+FILE: g:\Scan\Data\1454.zip
+ARCHIVE: yes
+PACKERS: 
+   - ZIP
+INFECTED: yes
+INFILTRATIONS: 
+   - BAT/Ktulu.B virus
+
+===== 510 =====
+FILE: g:\Scan\Data\1455
+ARCHIVE: no
+INFECTED: no
+
+===== 511 =====
+FILE: g:\Scan\Data\1456
+ARCHIVE: no
+INFECTED: no
+
+===== 512 =====
+FILE: g:\Scan\Data\1457
+ARCHIVE: no
+INFECTED: no
+
+===== 513 =====
+FILE: g:\Scan\Data\1458
+ARCHIVE: no
+INFECTED: no
+
+===== 514 =====
+FILE: g:\Scan\Data\1459
+ARCHIVE: no
+INFECTED: no
+
+===== 515 =====
+FILE: g:\Scan\Data\146
+ARCHIVE: no
+INFECTED: no
+
+===== 516 =====
+FILE: g:\Scan\Data\1460
+ARCHIVE: no
+INFECTED: no
+
+===== 517 =====
+FILE: g:\Scan\Data\1461
+ARCHIVE: no
+INFECTED: no
+
+===== 518 =====
+FILE: g:\Scan\Data\1462
+ARCHIVE: no
+INFECTED: no
+
+===== 519 =====
+FILE: g:\Scan\Data\1463
+ARCHIVE: no
+INFECTED: no
+
+===== 520 =====
+FILE: g:\Scan\Data\1464
+ARCHIVE: no
+INFECTED: no
+
+===== 521 =====
+FILE: g:\Scan\Data\1465
+ARCHIVE: no
+INFECTED: no
+
+===== 522 =====
+FILE: g:\Scan\Data\1466
+ARCHIVE: no
+INFECTED: no
+
+===== 523 =====
+FILE: g:\Scan\Data\1467
+ARCHIVE: no
+INFECTED: no
+
+===== 524 =====
+FILE: g:\Scan\Data\1468
+ARCHIVE: no
+INFECTED: no
+
+===== 525 =====
+FILE: g:\Scan\Data\1469
+ARCHIVE: no
+INFECTED: no
+
+===== 526 =====
+FILE: g:\Scan\Data\147
+ARCHIVE: no
+INFECTED: no
+
+===== 527 =====
+FILE: g:\Scan\Data\1470
+ARCHIVE: yes
+PACKERS: 
+   - CHM
+   - NSIS
+INFECTED: yes
+INFILTRATIONS: 
+   - Win32/OpenCandy potentially unsafe application
+
+===== 528 =====
+FILE: g:\Scan\Data\1471.exe
+ARCHIVE: no
+INFECTED: no
+
+===== 529 =====
+FILE: g:\Scan\Data\1472.exe
+ARCHIVE: no
+INFECTED: no
+
+===== 530 =====
+FILE: g:\Scan\Data\1473.exe
+ARCHIVE: no
+INFECTED: no
+
+===== 531 =====
+FILE: g:\Scan\Data\1474.exe
+ARCHIVE: no
+INFECTED: no
+
+===== 532 =====
+FILE: g:\Scan\Data\1475
+ARCHIVE: no
+INFECTED: no
+
+===== 533 =====
+FILE: g:\Scan\Data\1476
+ARCHIVE: no
+INFECTED: no
+
+===== 534 =====
+FILE: g:\Scan\Data\1477
+ARCHIVE: no
+INFECTED: no
+
+===== 535 =====
+FILE: g:\Scan\Data\1478
+ARCHIVE: no
+INFECTED: no
+
+===== 536 =====
+FILE: g:\Scan\Data\1479
+ARCHIVE: no
+INFECTED: no
+
+===== 537 =====
+FILE: g:\Scan\Data\148
+ARCHIVE: no
+INFECTED: no
+
+===== 538 =====
+FILE: g:\Scan\Data\1480
+ARCHIVE: no
+INFECTED: no
+
+===== 539 =====
+FILE: g:\Scan\Data\1481
+ARCHIVE: no
+INFECTED: no
+
+===== 540 =====
+FILE: g:\Scan\Data\1482
+ARCHIVE: no
+INFECTED: no
+
+===== 541 =====
+FILE: g:\Scan\Data\1483
+ARCHIVE: no
+INFECTED: no
+
+===== 542 =====
+FILE: g:\Scan\Data\1484
+ARCHIVE: no
+INFECTED: no
+
+===== 543 =====
+FILE: g:\Scan\Data\1485
+ARCHIVE: no
+INFECTED: no
+
+===== 544 =====
+FILE: g:\Scan\Data\1486
+ARCHIVE: no
+INFECTED: no
+
+===== 545 =====
+FILE: g:\Scan\Data\1487
+ARCHIVE: no
+INFECTED: no
+
+===== 546 =====
+FILE: g:\Scan\Data\1488
+ARCHIVE: no
+INFECTED: no
+
+===== 547 =====
+FILE: g:\Scan\Data\1489
+ARCHIVE: no
+INFECTED: no
+
+===== 548 =====
+FILE: g:\Scan\Data\149
+ARCHIVE: no
+INFECTED: no
+
+===== 549 =====
+FILE: g:\Scan\Data\1490
+ARCHIVE: no
+INFECTED: no
+
+===== 550 =====
+FILE: g:\Scan\Data\1491
+ARCHIVE: no
+INFECTED: no
+
+===== 551 =====
+FILE: g:\Scan\Data\1492
+ARCHIVE: no
+INFECTED: no
+
+===== 552 =====
+FILE: g:\Scan\Data\1493
+ARCHIVE: yes
+PACKERS: 
+   - UPX v13_m2
+INFECTED: yes
+INFILTRATIONS: 
+   - a variant of Win32/Kryptik.SXO trojan
+
+===== 553 =====
+FILE: g:\Scan\Data\1494
+ARCHIVE: no
+INFECTED: no
+
+===== 554 =====
+FILE: g:\Scan\Data\1495
+ARCHIVE: no
+INFECTED: no
+
+===== 555 =====
+FILE: g:\Scan\Data\1496
+ARCHIVE: no
+INFECTED: no
+
+===== 556 =====
+FILE: g:\Scan\Data\1497
+ARCHIVE: no
+INFECTED: no
+
+===== 557 =====
+FILE: g:\Scan\Data\1498
+ARCHIVE: no
+INFECTED: no
+
+===== 558 =====
+FILE: g:\Scan\Data\1499
+ARCHIVE: no
+INFECTED: no
+
+===== 559 =====
+FILE: g:\Scan\Data\15
+ARCHIVE: no
+INFECTED: no
+
+===== 560 =====
+FILE: g:\Scan\Data\150
+ARCHIVE: no
+INFECTED: no
+
+===== 561 =====
+FILE: g:\Scan\Data\1500
+ARCHIVE: no
+INFECTED: no
+
+===== 562 =====
+FILE: g:\Scan\Data\1501
+ARCHIVE: no
+INFECTED: no
+
+===== 563 =====
+FILE: g:\Scan\Data\1502
+ARCHIVE: no
+INFECTED: no
+
+===== 564 =====
+FILE: g:\Scan\Data\1503
+ARCHIVE: no
+INFECTED: no
+
+===== 565 =====
+FILE: g:\Scan\Data\1504
+ARCHIVE: yes
+PACKERS: 
+   - NSIS
+   - UPX v13_m2
+INFECTED: yes
+INFILTRATIONS: 
+   - Win32/DownloadAdmin.A.Gen potentially unwanted application
+   - Win32/DownloadAdmin.G potentially unwanted application
+
+===== 566 =====
+FILE: g:\Scan\Data\1505
+ARCHIVE: no
+INFECTED: no
+
+===== 567 =====
+FILE: g:\Scan\Data\1506
+ARCHIVE: no
+INFECTED: no
+
+===== 568 =====
+FILE: g:\Scan\Data\1507
+ARCHIVE: no
+INFECTED: no
+
+===== 569 =====
+FILE: g:\Scan\Data\1508
+ARCHIVE: no
+INFECTED: no
+
+===== 570 =====
+FILE: g:\Scan\Data\1509
+ARCHIVE: no
+INFECTED: no
+
+===== 571 =====
+FILE: g:\Scan\Data\151
+ARCHIVE: yes
+PACKERS: 
+   - NSIS
+INFECTED: yes
+INFILTRATIONS: 
+   - Win32/Adware.1ClickDownload.C application
+
+===== 572 =====
+FILE: g:\Scan\Data\1510
+ARCHIVE: no
+INFECTED: no
+
+===== 573 =====
+FILE: g:\Scan\Data\1511
+ARCHIVE: no
+INFECTED: no
+
+===== 574 =====
+FILE: g:\Scan\Data\1512
+ARCHIVE: no
+INFECTED: no
+
+===== 575 =====
+FILE: g:\Scan\Data\1513
+ARCHIVE: no
+INFECTED: no
+
+===== 576 =====
+FILE: g:\Scan\Data\1514
+ARCHIVE: no
+INFECTED: no
+
+===== 577 =====
+FILE: g:\Scan\Data\1515
+ARCHIVE: no
+INFECTED: no
+
+===== 578 =====
+FILE: g:\Scan\Data\1516
+ARCHIVE: no
+INFECTED: no
+
+===== 579 =====
+FILE: g:\Scan\Data\1517
+ARCHIVE: yes
+PACKERS: 
+   - RAR
+   - UPX v13_m8
+INFECTED: no
+
+===== 580 =====
+FILE: g:\Scan\Data\1518
+ARCHIVE: no
+INFECTED: no
+
+===== 581 =====
+FILE: g:\Scan\Data\1519
+ARCHIVE: no
+INFECTED: no
+
+===== 582 =====
+FILE: g:\Scan\Data\152
+ARCHIVE: no
+INFECTED: no
+
+===== 583 =====
+FILE: g:\Scan\Data\1520
+ARCHIVE: no
+INFECTED: no
+
+===== 584 =====
+FILE: g:\Scan\Data\1521
+ARCHIVE: no
+INFECTED: no
+
+===== 585 =====
+FILE: g:\Scan\Data\1522
+ARCHIVE: no
+INFECTED: no
+
+===== 586 =====
+FILE: g:\Scan\Data\1523
+ARCHIVE: yes
+PACKERS: 
+   - NSIS
+INFECTED: yes
+INFILTRATIONS: 
+   - Win32/Adware.GooochiBiz.AE.Gen application
+
+===== 587 =====
+FILE: g:\Scan\Data\1524
+ARCHIVE: no
+INFECTED: no
+
+===== 588 =====
+FILE: g:\Scan\Data\1525
+ARCHIVE: no
+INFECTED: no
+
+===== 589 =====
+FILE: g:\Scan\Data\1526
+ARCHIVE: no
+INFECTED: no
+
+===== 590 =====
+FILE: g:\Scan\Data\1527
+ARCHIVE: no
+INFECTED: no
+
+===== 591 =====
+FILE: g:\Scan\Data\1528
+ARCHIVE: no
+INFECTED: no
+
+===== 592 =====
+FILE: g:\Scan\Data\1529
+ARCHIVE: no
+INFECTED: no
+
+===== 593 =====
+FILE: g:\Scan\Data\153
+ARCHIVE: no
+INFECTED: no
+
+===== 594 =====
+FILE: g:\Scan\Data\1530
+ARCHIVE: no
+INFECTED: no
+
+===== 595 =====
+FILE: g:\Scan\Data\1531
+ARCHIVE: no
+INFECTED: no
+
+===== 596 =====
+FILE: g:\Scan\Data\1532
+ARCHIVE: no
+INFECTED: no
+
+===== 597 =====
+FILE: g:\Scan\Data\1533
+ARCHIVE: no
+INFECTED: no
+
+===== 598 =====
+FILE: g:\Scan\Data\1534
+ARCHIVE: no
+INFECTED: no
+
+===== 599 =====
+FILE: g:\Scan\Data\1535
+ARCHIVE: no
+INFECTED: no
+
+===== 600 =====
+FILE: g:\Scan\Data\1536
+ARCHIVE: no
+INFECTED: no
+
+===== 601 =====
+FILE: g:\Scan\Data\1537
+ARCHIVE: no
+INFECTED: no
+
+===== 602 =====
+FILE: g:\Scan\Data\1538
+ARCHIVE: no
+INFECTED: no
+
+===== 603 =====
+FILE: g:\Scan\Data\1539
+ARCHIVE: no
+INFECTED: no
+
+===== 604 =====
+FILE: g:\Scan\Data\154
+ARCHIVE: no
+INFECTED: no
+
+===== 605 =====
+FILE: g:\Scan\Data\1540
+ARCHIVE: no
+INFECTED: no
+
+===== 606 =====
+FILE: g:\Scan\Data\1541
+ARCHIVE: no
+INFECTED: no
+
+===== 607 =====
+FILE: g:\Scan\Data\1542
+ARCHIVE: no
+INFECTED: no
+
+===== 608 =====
+FILE: g:\Scan\Data\1543
+ARCHIVE: no
+INFECTED: no
+
+===== 609 =====
+FILE: g:\Scan\Data\1544
+ARCHIVE: no
+INFECTED: no
+
+===== 610 =====
+FILE: g:\Scan\Data\1545
+ARCHIVE: no
+INFECTED: no
+
+===== 611 =====
+FILE: g:\Scan\Data\1546
+ARCHIVE: no
+INFECTED: no
+
+===== 612 =====
+FILE: g:\Scan\Data\1547
+ARCHIVE: no
+INFECTED: no
+
+===== 613 =====
+FILE: g:\Scan\Data\1548
+ARCHIVE: no
+INFECTED: no
+
+===== 614 =====
+FILE: g:\Scan\Data\1549
+ARCHIVE: no
+INFECTED: no
+
+===== 615 =====
+FILE: g:\Scan\Data\155
+ARCHIVE: no
+INFECTED: no
+
+===== 616 =====
+FILE: g:\Scan\Data\1550
+ARCHIVE: no
+INFECTED: no
+
+===== 617 =====
+FILE: g:\Scan\Data\1551
+ARCHIVE: no
+INFECTED: no
+
+===== 618 =====
+FILE: g:\Scan\Data\1552
+ARCHIVE: no
+INFECTED: no
+
+===== 619 =====
+FILE: g:\Scan\Data\1553
+ARCHIVE: no
+INFECTED: no
+
+===== 620 =====
+FILE: g:\Scan\Data\1554
+ARCHIVE: no
+INFECTED: no
+
+===== 621 =====
+FILE: g:\Scan\Data\1555
+ARCHIVE: no
+INFECTED: no
+
+===== 622 =====
+FILE: g:\Scan\Data\1556
+ARCHIVE: no
+INFECTED: no
+
+===== 623 =====
+FILE: g:\Scan\Data\1557
+ARCHIVE: no
+INFECTED: no
+
+===== 624 =====
+FILE: g:\Scan\Data\1558
+ARCHIVE: no
+INFECTED: no
+
+===== 625 =====
+FILE: g:\Scan\Data\1559
+ARCHIVE: no
+INFECTED: no
+
+===== 626 =====
+FILE: g:\Scan\Data\156
+ARCHIVE: no
+INFECTED: no
+
+===== 627 =====
+FILE: g:\Scan\Data\1560
+ARCHIVE: no
+INFECTED: no
+
+===== 628 =====
+FILE: g:\Scan\Data\1561
+ARCHIVE: no
+INFECTED: no
+
+===== 629 =====
+FILE: g:\Scan\Data\1562
+ARCHIVE: no
+INFECTED: no
+
+===== 630 =====
+FILE: g:\Scan\Data\1563
+ARCHIVE: no
+INFECTED: no
+
+===== 631 =====
+FILE: g:\Scan\Data\1564
+ARCHIVE: no
+INFECTED: no
+
+===== 632 =====
+FILE: g:\Scan\Data\1565
+ARCHIVE: no
+INFECTED: no
+
+===== 633 =====
+FILE: g:\Scan\Data\1566
+ARCHIVE: no
+INFECTED: no
+
+===== 634 =====
+FILE: g:\Scan\Data\1567
+ARCHIVE: no
+INFECTED: no
+
+===== 635 =====
+FILE: g:\Scan\Data\1568
+ARCHIVE: no
+INFECTED: no
+
+===== 636 =====
+FILE: g:\Scan\Data\1569
+ARCHIVE: no
+INFECTED: no
+
+===== 637 =====
+FILE: g:\Scan\Data\157
+ARCHIVE: yes
+PACKERS: 
+   - PECompact v2.xx
+INFECTED: no
+
+===== 638 =====
+FILE: g:\Scan\Data\1570
+ARCHIVE: no
+INFECTED: no
+
+===== 639 =====
+FILE: g:\Scan\Data\1571
+ARCHIVE: no
+INFECTED: no
+
+===== 640 =====
+FILE: g:\Scan\Data\1572
+ARCHIVE: no
+INFECTED: no
+
+===== 641 =====
+FILE: g:\Scan\Data\1573
+ARCHIVE: no
+INFECTED: no
+
+===== 642 =====
+FILE: g:\Scan\Data\1574
+ARCHIVE: no
+INFECTED: no
+
+===== 643 =====
+FILE: g:\Scan\Data\1575
+ARCHIVE: no
+INFECTED: no
+
+===== 644 =====
+FILE: g:\Scan\Data\1576
+ARCHIVE: no
+INFECTED: no
+
+===== 645 =====
+FILE: g:\Scan\Data\1577
+ARCHIVE: no
+INFECTED: no
+
+===== 646 =====
+FILE: g:\Scan\Data\1578
+ARCHIVE: no
+INFECTED: no
+
+===== 647 =====
+FILE: g:\Scan\Data\1579
+ARCHIVE: no
+INFECTED: no
+
+===== 648 =====
+FILE: g:\Scan\Data\158
+ARCHIVE: no
+INFECTED: no
+
+===== 649 =====
+FILE: g:\Scan\Data\1580
+ARCHIVE: no
+INFECTED: no
+
+===== 650 =====
+FILE: g:\Scan\Data\1581
+ARCHIVE: no
+INFECTED: no
+
+===== 651 =====
+FILE: g:\Scan\Data\1582
+ARCHIVE: no
+INFECTED: no
+
+===== 652 =====
+FILE: g:\Scan\Data\1583
+ARCHIVE: no
+INFECTED: no
+
+===== 653 =====
+FILE: g:\Scan\Data\1584
+ARCHIVE: no
+INFECTED: no
+
+===== 654 =====
+FILE: g:\Scan\Data\1585
+ARCHIVE: no
+INFECTED: no
+
+===== 655 =====
+FILE: g:\Scan\Data\1586
+ARCHIVE: no
+INFECTED: no
+
+===== 656 =====
+FILE: g:\Scan\Data\1587
+ARCHIVE: no
+INFECTED: no
+
+===== 657 =====
+FILE: g:\Scan\Data\1588
+ARCHIVE: no
+INFECTED: no
+
+===== 658 =====
+FILE: g:\Scan\Data\1589
+ARCHIVE: yes
+PACKERS: 
+   - NSIS
+   - UPX v12_m2_dll
+INFECTED: no
+
+===== 659 =====
+FILE: g:\Scan\Data\159
+ARCHIVE: no
+INFECTED: no
+
+===== 660 =====
+FILE: g:\Scan\Data\1590
+ARCHIVE: no
+INFECTED: no
+
+===== 661 =====
+FILE: g:\Scan\Data\1591
+ARCHIVE: no
+INFECTED: no
+
+===== 662 =====
+FILE: g:\Scan\Data\1592
+ARCHIVE: no
+INFECTED: no
+
+===== 663 =====
+FILE: g:\Scan\Data\1593
+ARCHIVE: no
+INFECTED: no
+
+===== 664 =====
+FILE: g:\Scan\Data\1594
+ARCHIVE: no
+INFECTED: no
+
+===== 665 =====
+FILE: g:\Scan\Data\1595
+ARCHIVE: no
+INFECTED: no
+
+===== 666 =====
+FILE: g:\Scan\Data\1596
+ARCHIVE: no
+INFECTED: no
+
+===== 667 =====
+FILE: g:\Scan\Data\1597
+ARCHIVE: no
+INFECTED: no
+
+===== 668 =====
+FILE: g:\Scan\Data\1598
+ARCHIVE: no
+INFECTED: no
+
+===== 669 =====
+FILE: g:\Scan\Data\1599
+ARCHIVE: no
+INFECTED: no
+
+===== 670 =====
+FILE: g:\Scan\Data\16
+ARCHIVE: no
+INFECTED: no
+
+===== 671 =====
+FILE: g:\Scan\Data\160
+ARCHIVE: no
+INFECTED: no
+
+===== 672 =====
+FILE: g:\Scan\Data\1600
+ARCHIVE: yes
+PACKERS: 
+   - NSIS
+INFECTED: yes
+INFILTRATIONS: 
+   - Win32/Toggle.A potentially unwanted application
+
+===== 673 =====
+FILE: g:\Scan\Data\1601
+ARCHIVE: no
+INFECTED: no
+
+===== 674 =====
+FILE: g:\Scan\Data\1602
+ARCHIVE: no
+INFECTED: no
+
+===== 675 =====
+FILE: g:\Scan\Data\1603
+ARCHIVE: no
+INFECTED: no
+
+===== 676 =====
+FILE: g:\Scan\Data\1604
+ARCHIVE: no
+INFECTED: no
+
+===== 677 =====
+FILE: g:\Scan\Data\1605
+ARCHIVE: no
+INFECTED: no
+
+===== 678 =====
+FILE: g:\Scan\Data\1606
+ARCHIVE: no
+INFECTED: no
+
+===== 679 =====
+FILE: g:\Scan\Data\1607
+ARCHIVE: no
+INFECTED: no
+
+===== 680 =====
+FILE: g:\Scan\Data\1608
+ARCHIVE: no
+INFECTED: no
+
+===== 681 =====
+FILE: g:\Scan\Data\1609
+ARCHIVE: no
+INFECTED: no
+
+===== 682 =====
+FILE: g:\Scan\Data\161
+ARCHIVE: no
+INFECTED: no
+
+===== 683 =====
+FILE: g:\Scan\Data\1610
+ARCHIVE: no
+INFECTED: no
+
+===== 684 =====
+FILE: g:\Scan\Data\1611
+ARCHIVE: no
+INFECTED: no
+
+===== 685 =====
+FILE: g:\Scan\Data\1612
+ARCHIVE: yes
+PACKERS: 
+   - UPX v12_m2
+INFECTED: no
+
+===== 686 =====
+FILE: g:\Scan\Data\1613
+ARCHIVE: no
+INFECTED: no
+
+===== 687 =====
+FILE: g:\Scan\Data\1614
+ARCHIVE: no
+INFECTED: no
+
+===== 688 =====
+FILE: g:\Scan\Data\1615
+ARCHIVE: no
+INFECTED: no
+
+===== 689 =====
+FILE: g:\Scan\Data\1616
+ARCHIVE: yes
+PACKERS: 
+   - DOTNETREACTOR
+INFECTED: no
+
+===== 690 =====
+FILE: g:\Scan\Data\1617
+ARCHIVE: yes
+PACKERS: 
+   - Armadillo
+INFECTED: no
+
+===== 691 =====
+FILE: g:\Scan\Data\1618
+ARCHIVE: no
+INFECTED: no
+
+===== 692 =====
+FILE: g:\Scan\Data\1619
+ARCHIVE: no
+INFECTED: no
+
+===== 693 =====
+FILE: g:\Scan\Data\162
+ARCHIVE: no
+INFECTED: no
+
+===== 694 =====
+FILE: g:\Scan\Data\1620
+ARCHIVE: no
+INFECTED: no
+
+===== 695 =====
+FILE: g:\Scan\Data\1621
+ARCHIVE: no
+INFECTED: no
+
+===== 696 =====
+FILE: g:\Scan\Data\1622
+ARCHIVE: no
+INFECTED: no
+
+===== 697 =====
+FILE: g:\Scan\Data\1623
+ARCHIVE: no
+INFECTED: no
+
+===== 698 =====
+FILE: g:\Scan\Data\1624
+ARCHIVE: no
+INFECTED: no
+
+===== 699 =====
+FILE: g:\Scan\Data\1625
+ARCHIVE: no
+INFECTED: no
+
+===== 700 =====
+FILE: g:\Scan\Data\1626
+ARCHIVE: no
+INFECTED: no
+
+===== 701 =====
+FILE: g:\Scan\Data\1627
+ARCHIVE: no
+INFECTED: no
+
+===== 702 =====
+FILE: g:\Scan\Data\1628
+ARCHIVE: no
+INFECTED: no
+
+===== 703 =====
+FILE: g:\Scan\Data\1629
+ARCHIVE: yes
+PACKERS: 
+   - 7ZIP
+INFECTED: no
+
+===== 704 =====
+FILE: g:\Scan\Data\163
+ARCHIVE: no
+INFECTED: no
+
+===== 705 =====
+FILE: g:\Scan\Data\1630
+ARCHIVE: no
+INFECTED: no
+
+===== 706 =====
+FILE: g:\Scan\Data\1631
+ARCHIVE: no
+INFECTED: no
+
+===== 707 =====
+FILE: g:\Scan\Data\1632
+ARCHIVE: no
+INFECTED: no
+
+===== 708 =====
+FILE: g:\Scan\Data\1633
+ARCHIVE: no
+INFECTED: no
+
+===== 709 =====
+FILE: g:\Scan\Data\1634
+ARCHIVE: no
+INFECTED: no
+
+===== 710 =====
+FILE: g:\Scan\Data\1635
+ARCHIVE: no
+INFECTED: no
+
+===== 711 =====
+FILE: g:\Scan\Data\1636
+ARCHIVE: no
+INFECTED: no
+
+===== 712 =====
+FILE: g:\Scan\Data\1637
+ARCHIVE: no
+INFECTED: no
+
+===== 713 =====
+FILE: g:\Scan\Data\1638
+ARCHIVE: no
+INFECTED: no
+
+===== 714 =====
+FILE: g:\Scan\Data\1639
+ARCHIVE: no
+INFECTED: no
+
+===== 715 =====
+FILE: g:\Scan\Data\164
+ARCHIVE: no
+INFECTED: no
+
+===== 716 =====
+FILE: g:\Scan\Data\1640
+ARCHIVE: no
+INFECTED: no
+
+===== 717 =====
+FILE: g:\Scan\Data\1641
+ARCHIVE: no
+INFECTED: no
+
+===== 718 =====
+FILE: g:\Scan\Data\1642
+ARCHIVE: no
+INFECTED: no
+
+===== 719 =====
+FILE: g:\Scan\Data\1643
+ARCHIVE: no
+INFECTED: no
+
+===== 720 =====
+FILE: g:\Scan\Data\1644
+ARCHIVE: no
+INFECTED: no
+
+===== 721 =====
+FILE: g:\Scan\Data\1645
+ARCHIVE: no
+INFECTED: no
+
+===== 722 =====
+FILE: g:\Scan\Data\1646
+ARCHIVE: no
+INFECTED: no
+
+===== 723 =====
+FILE: g:\Scan\Data\1647
+ARCHIVE: no
+INFECTED: no
+
+===== 724 =====
+FILE: g:\Scan\Data\1648
+ARCHIVE: no
+INFECTED: no
+
+===== 725 =====
+FILE: g:\Scan\Data\1649
+ARCHIVE: no
+INFECTED: no
+
+===== 726 =====
+FILE: g:\Scan\Data\165
+ARCHIVE: no
+INFECTED: no
+
+===== 727 =====
+FILE: g:\Scan\Data\1650
+ARCHIVE: no
+INFECTED: no
+
+===== 728 =====
+FILE: g:\Scan\Data\1651
+ARCHIVE: no
+INFECTED: no
+
+===== 729 =====
+FILE: g:\Scan\Data\1652
+ARCHIVE: no
+INFECTED: no
+
+===== 730 =====
+FILE: g:\Scan\Data\1653
+ARCHIVE: no
+INFECTED: no
+
+===== 731 =====
+FILE: g:\Scan\Data\1654
+ARCHIVE: no
+INFECTED: no
+
+===== 732 =====
+FILE: g:\Scan\Data\1655
+ARCHIVE: no
+INFECTED: no
+
+===== 733 =====
+FILE: g:\Scan\Data\1656
+ARCHIVE: yes
+PACKERS: 
+   - 7ZIP
+INFECTED: no
+
+===== 734 =====
+FILE: g:\Scan\Data\1657
+ARCHIVE: no
+INFECTED: no
+
+===== 735 =====
+FILE: g:\Scan\Data\1658
+ARCHIVE: no
+INFECTED: no
+
+===== 736 =====
+FILE: g:\Scan\Data\1659
+ARCHIVE: no
+INFECTED: no
+
+===== 737 =====
+FILE: g:\Scan\Data\166
+ARCHIVE: no
+INFECTED: no
+
+===== 738 =====
+FILE: g:\Scan\Data\1660
+ARCHIVE: no
+INFECTED: no
+
+===== 739 =====
+FILE: g:\Scan\Data\1661
+ARCHIVE: no
+INFECTED: no
+
+===== 740 =====
+FILE: g:\Scan\Data\1662
+ARCHIVE: no
+INFECTED: no
+
+===== 741 =====
+FILE: g:\Scan\Data\1663
+ARCHIVE: no
+INFECTED: no
+
+===== 742 =====
+FILE: g:\Scan\Data\1664
+ARCHIVE: no
+INFECTED: no
+
+===== 743 =====
+FILE: g:\Scan\Data\1665
+ARCHIVE: no
+INFECTED: no
+
+===== 744 =====
+FILE: g:\Scan\Data\1666
+ARCHIVE: no
+INFECTED: no
+
+===== 745 =====
+FILE: g:\Scan\Data\1667
+ARCHIVE: no
+INFECTED: no
+
+===== 746 =====
+FILE: g:\Scan\Data\1668
+ARCHIVE: no
+INFECTED: no
+
+===== 747 =====
+FILE: g:\Scan\Data\1669
+ARCHIVE: no
+INFECTED: no
+
+===== 748 =====
+FILE: g:\Scan\Data\167
+ARCHIVE: no
+INFECTED: no
+
+===== 749 =====
+FILE: g:\Scan\Data\1670
+ARCHIVE: no
+INFECTED: no
+
+===== 750 =====
+FILE: g:\Scan\Data\1671
+ARCHIVE: no
+INFECTED: no
+
+===== 751 =====
+FILE: g:\Scan\Data\1672
+ARCHIVE: no
+INFECTED: no
+
+===== 752 =====
+FILE: g:\Scan\Data\1673
+ARCHIVE: no
+INFECTED: no
+
+===== 753 =====
+FILE: g:\Scan\Data\1674
+ARCHIVE: no
+INFECTED: no
+
+===== 754 =====
+FILE: g:\Scan\Data\1675
+ARCHIVE: no
+INFECTED: no
+
+===== 755 =====
+FILE: g:\Scan\Data\1676
+ARCHIVE: no
+INFECTED: no
+
+===== 756 =====
+FILE: g:\Scan\Data\1677
+ARCHIVE: no
+INFECTED: no
+
+===== 757 =====
+FILE: g:\Scan\Data\1678
+ARCHIVE: no
+INFECTED: no
+
+===== 758 =====
+FILE: g:\Scan\Data\1679
+ARCHIVE: no
+INFECTED: no
+
+===== 759 =====
+FILE: g:\Scan\Data\168
+ARCHIVE: no
+INFECTED: no
+
+===== 760 =====
+FILE: g:\Scan\Data\1680
+ARCHIVE: no
+INFECTED: no
+
+===== 761 =====
+FILE: g:\Scan\Data\1681
+ARCHIVE: no
+INFECTED: no
+
+===== 762 =====
+FILE: g:\Scan\Data\1682
+ARCHIVE: no
+INFECTED: no
+
+===== 763 =====
+FILE: g:\Scan\Data\1683
+ARCHIVE: no
+INFECTED: no
+
+===== 764 =====
+FILE: g:\Scan\Data\1684
+ARCHIVE: no
+INFECTED: no
+
+===== 765 =====
+FILE: g:\Scan\Data\1685
+ARCHIVE: no
+INFECTED: no
+
+===== 766 =====
+FILE: g:\Scan\Data\1686
+ARCHIVE: no
+INFECTED: no
+
+===== 767 =====
+FILE: g:\Scan\Data\1687
+ARCHIVE: no
+INFECTED: no
+
+===== 768 =====
+FILE: g:\Scan\Data\1688
+ARCHIVE: no
+INFECTED: no
+
+===== 769 =====
+FILE: g:\Scan\Data\1689
+ARCHIVE: no
+INFECTED: no
+
+===== 770 =====
+FILE: g:\Scan\Data\169
+ARCHIVE: no
+INFECTED: no
+
+===== 771 =====
+FILE: g:\Scan\Data\1690
+ARCHIVE: no
+INFECTED: no
+
+===== 772 =====
+FILE: g:\Scan\Data\1691
+ARCHIVE: no
+INFECTED: no
+
+===== 773 =====
+FILE: g:\Scan\Data\1692
+ARCHIVE: no
+INFECTED: no
+
+===== 774 =====
+FILE: g:\Scan\Data\1693
+ARCHIVE: no
+INFECTED: no
+
+===== 775 =====
+FILE: g:\Scan\Data\1694
+ARCHIVE: no
+INFECTED: no
+
+===== 776 =====
+FILE: g:\Scan\Data\1695
+ARCHIVE: no
+INFECTED: no
+
+===== 777 =====
+FILE: g:\Scan\Data\1696
+ARCHIVE: no
+INFECTED: no
+
+===== 778 =====
+FILE: g:\Scan\Data\1697
+ARCHIVE: no
+INFECTED: no
+
+===== 779 =====
+FILE: g:\Scan\Data\1698
+ARCHIVE: no
+INFECTED: no
+
+===== 780 =====
+FILE: g:\Scan\Data\1699
+ARCHIVE: no
+INFECTED: no
+
+===== 781 =====
+FILE: g:\Scan\Data\17
+ARCHIVE: no
+INFECTED: no
+
+===== 782 =====
+FILE: g:\Scan\Data\170
+ARCHIVE: no
+INFECTED: no
+
+===== 783 =====
+FILE: g:\Scan\Data\1700
+ARCHIVE: no
+INFECTED: no
+
+===== 784 =====
+FILE: g:\Scan\Data\1701
+ARCHIVE: no
+INFECTED: no
+
+===== 785 =====
+FILE: g:\Scan\Data\1702
+ARCHIVE: no
+INFECTED: no
+
+===== 786 =====
+FILE: g:\Scan\Data\1703
+ARCHIVE: no
+INFECTED: no
+
+===== 787 =====
+FILE: g:\Scan\Data\1704
+ARCHIVE: no
+INFECTED: no
+
+===== 788 =====
+FILE: g:\Scan\Data\1705
+ARCHIVE: no
+INFECTED: no
+
+===== 789 =====
+FILE: g:\Scan\Data\1706
+ARCHIVE: no
+INFECTED: no
+
+===== 790 =====
+FILE: g:\Scan\Data\1707
+ARCHIVE: no
+INFECTED: no
+
+===== 791 =====
+FILE: g:\Scan\Data\1708
+ARCHIVE: no
+INFECTED: no
+
+===== 792 =====
+FILE: g:\Scan\Data\1709
+ARCHIVE: no
+INFECTED: no
+
+===== 793 =====
+FILE: g:\Scan\Data\171
+ARCHIVE: no
+INFECTED: no
+
+===== 794 =====
+FILE: g:\Scan\Data\1710
+ARCHIVE: no
+INFECTED: no
+
+===== 795 =====
+FILE: g:\Scan\Data\1711
+ARCHIVE: no
+INFECTED: no
+
+===== 796 =====
+FILE: g:\Scan\Data\1712
+ARCHIVE: no
+INFECTED: no
+
+===== 797 =====
+FILE: g:\Scan\Data\1713
+ARCHIVE: no
+INFECTED: no
+
+===== 798 =====
+FILE: g:\Scan\Data\1714
+ARCHIVE: no
+INFECTED: no
+
+===== 799 =====
+FILE: g:\Scan\Data\1715
+ARCHIVE: no
+INFECTED: no
+
+===== 800 =====
+FILE: g:\Scan\Data\1716.exe
+ARCHIVE: no
+INFECTED: no
+
+===== 801 =====
+FILE: g:\Scan\Data\1717
+ARCHIVE: no
+INFECTED: no
+
+===== 802 =====
+FILE: g:\Scan\Data\1718
+ARCHIVE: no
+INFECTED: no
+
+===== 803 =====
+FILE: g:\Scan\Data\1719
+ARCHIVE: no
+INFECTED: no
+
+===== 804 =====
+FILE: g:\Scan\Data\172
+ARCHIVE: no
+INFECTED: no
+
+===== 805 =====
+FILE: g:\Scan\Data\1720
+ARCHIVE: no
+INFECTED: no
+
+===== 806 =====
+FILE: g:\Scan\Data\1721
+ARCHIVE: no
+INFECTED: no
+
+===== 807 =====
+FILE: g:\Scan\Data\1722
+ARCHIVE: no
+INFECTED: no
+
+===== 808 =====
+FILE: g:\Scan\Data\1723
+ARCHIVE: no
+INFECTED: no
+
+===== 809 =====
+FILE: g:\Scan\Data\1724
+ARCHIVE: no
+INFECTED: no
+
+===== 810 =====
+FILE: g:\Scan\Data\1725
+ARCHIVE: no
+INFECTED: no
+
+===== 811 =====
+FILE: g:\Scan\Data\1726
+ARCHIVE: no
+INFECTED: no
+
+===== 812 =====
+FILE: g:\Scan\Data\1727
+ARCHIVE: no
+INFECTED: no
+
+===== 813 =====
+FILE: g:\Scan\Data\1728
+ARCHIVE: no
+INFECTED: no
+
+===== 814 =====
+FILE: g:\Scan\Data\1729
+ARCHIVE: no
+INFECTED: no
+
+===== 815 =====
+FILE: g:\Scan\Data\173
+ARCHIVE: no
+INFECTED: no
+
+===== 816 =====
+FILE: g:\Scan\Data\1730
+ARCHIVE: no
+INFECTED: no
+
+===== 817 =====
+FILE: g:\Scan\Data\1731
+ARCHIVE: no
+INFECTED: no
+
+===== 818 =====
+FILE: g:\Scan\Data\1732
+ARCHIVE: no
+INFECTED: no
+
+===== 819 =====
+FILE: g:\Scan\Data\1733
+ARCHIVE: no
+INFECTED: no
+
+===== 820 =====
+FILE: g:\Scan\Data\1734
+ARCHIVE: no
+INFECTED: no
+
+===== 821 =====
+FILE: g:\Scan\Data\1735
+ARCHIVE: no
+INFECTED: no
+
+===== 822 =====
+FILE: g:\Scan\Data\1736
+ARCHIVE: no
+INFECTED: no
+
+===== 823 =====
+FILE: g:\Scan\Data\1737
+ARCHIVE: no
+INFECTED: no
+
+===== 824 =====
+FILE: g:\Scan\Data\1738
+ARCHIVE: no
+INFECTED: no
+
+===== 825 =====
+FILE: g:\Scan\Data\1739
+ARCHIVE: no
+INFECTED: no
+
+===== 826 =====
+FILE: g:\Scan\Data\174
+ARCHIVE: no
+INFECTED: no
+
+===== 827 =====
+FILE: g:\Scan\Data\1740
+ARCHIVE: no
+INFECTED: no
+
+===== 828 =====
+FILE: g:\Scan\Data\1741
+ARCHIVE: yes
+PACKERS: 
+   - NSIS
+INFECTED: yes
+INFILTRATIONS: 
+   - Win32/Adware.1ClickDownload.G application
+
+===== 829 =====
+FILE: g:\Scan\Data\1742
+ARCHIVE: no
+INFECTED: no
+
+===== 830 =====
+FILE: g:\Scan\Data\1743
+ARCHIVE: no
+INFECTED: no
+
+===== 831 =====
+FILE: g:\Scan\Data\1744
+ARCHIVE: no
+INFECTED: no
+
+===== 832 =====
+FILE: g:\Scan\Data\1745
+ARCHIVE: no
+INFECTED: no
+
+===== 833 =====
+FILE: g:\Scan\Data\1746
+ARCHIVE: no
+INFECTED: no
+
+===== 834 =====
+FILE: g:\Scan\Data\1747
+ARCHIVE: no
+INFECTED: no
+
+===== 835 =====
+FILE: g:\Scan\Data\1748
+ARCHIVE: no
+INFECTED: no
+
+===== 836 =====
+FILE: g:\Scan\Data\1749
+ARCHIVE: yes
+PACKERS: 
+   - NSIS
+INFECTED: yes
+INFILTRATIONS: 
+   - Win32/Toggle potentially unwanted application
+   - Win32/Toolbar.Babylon potentially unwanted application
+
+===== 837 =====
+FILE: g:\Scan\Data\175
+ARCHIVE: no
+INFECTED: no
+
+===== 838 =====
+FILE: g:\Scan\Data\1750
+ARCHIVE: no
+INFECTED: no
+
+===== 839 =====
+FILE: g:\Scan\Data\1751
+ARCHIVE: no
+INFECTED: no
+
+===== 840 =====
+FILE: g:\Scan\Data\1752
+ARCHIVE: no
+INFECTED: no
+
+===== 841 =====
+FILE: g:\Scan\Data\1753
+ARCHIVE: no
+INFECTED: no
+
+===== 842 =====
+FILE: g:\Scan\Data\1754
+ARCHIVE: no
+INFECTED: no
+
+===== 843 =====
+FILE: g:\Scan\Data\1755
+ARCHIVE: no
+INFECTED: no
+
+===== 844 =====
+FILE: g:\Scan\Data\1756
+ARCHIVE: yes
+PACKERS: 
+   - UPX v12_m2
+INFECTED: yes
+INFILTRATIONS: 
+   - a variant of Win32/Injector.AJAO trojan
+
+===== 845 =====
+FILE: g:\Scan\Data\1757
+ARCHIVE: no
+INFECTED: no
+
+===== 846 =====
+FILE: g:\Scan\Data\1758
+ARCHIVE: no
+INFECTED: no
+
+===== 847 =====
+FILE: g:\Scan\Data\1759
+ARCHIVE: no
+INFECTED: no
+
+===== 848 =====
+FILE: g:\Scan\Data\176
+ARCHIVE: no
+INFECTED: no
+
+===== 849 =====
+FILE: g:\Scan\Data\1760
+ARCHIVE: no
+INFECTED: no
+
+===== 850 =====
+FILE: g:\Scan\Data\1761
+ARCHIVE: no
+INFECTED: no
+
+===== 851 =====
+FILE: g:\Scan\Data\1762
+ARCHIVE: no
+INFECTED: no
+
+===== 852 =====
+FILE: g:\Scan\Data\1763
+ARCHIVE: no
+INFECTED: no
+
+===== 853 =====
+FILE: g:\Scan\Data\1764
+ARCHIVE: no
+INFECTED: no
+
+===== 854 =====
+FILE: g:\Scan\Data\1765
+ARCHIVE: no
+INFECTED: no
+
+===== 855 =====
+FILE: g:\Scan\Data\1766
+ARCHIVE: no
+INFECTED: no
+
+===== 856 =====
+FILE: g:\Scan\Data\1767
+ARCHIVE: no
+INFECTED: no
+
+===== 857 =====
+FILE: g:\Scan\Data\1768
+ARCHIVE: no
+INFECTED: no
+
+===== 858 =====
+FILE: g:\Scan\Data\1769
+ARCHIVE: no
+INFECTED: no
+
+===== 859 =====
+FILE: g:\Scan\Data\177
+ARCHIVE: no
+INFECTED: no
+
+===== 860 =====
+FILE: g:\Scan\Data\1770
+ARCHIVE: no
+INFECTED: no
+
+===== 861 =====
+FILE: g:\Scan\Data\1771
+ARCHIVE: no
+INFECTED: no
+
+===== 862 =====
+FILE: g:\Scan\Data\1772
+ARCHIVE: no
+INFECTED: no
+
+===== 863 =====
+FILE: g:\Scan\Data\1773
+ARCHIVE: no
+INFECTED: no
+
+===== 864 =====
+FILE: g:\Scan\Data\1774
+ARCHIVE: no
+INFECTED: no
+
+===== 865 =====
+FILE: g:\Scan\Data\1775
+ARCHIVE: no
+INFECTED: no
+
+===== 866 =====
+FILE: g:\Scan\Data\1776
+ARCHIVE: no
+INFECTED: no
+
+===== 867 =====
+FILE: g:\Scan\Data\1777
+ARCHIVE: no
+INFECTED: no
+
+===== 868 =====
+FILE: g:\Scan\Data\1778
+ARCHIVE: no
+INFECTED: no
+
+===== 869 =====
+FILE: g:\Scan\Data\1779
+ARCHIVE: no
+INFECTED: no
+
+===== 870 =====
+FILE: g:\Scan\Data\178
+ARCHIVE: no
+INFECTED: no
+
+===== 871 =====
+FILE: g:\Scan\Data\1780
+ARCHIVE: no
+INFECTED: no
+
+===== 872 =====
+FILE: g:\Scan\Data\1781
+ARCHIVE: no
+INFECTED: no
+
+===== 873 =====
+FILE: g:\Scan\Data\1782
+ARCHIVE: no
+INFECTED: no
+
+===== 874 =====
+FILE: g:\Scan\Data\1783
+ARCHIVE: no
+INFECTED: no
+
+===== 875 =====
+FILE: g:\Scan\Data\1784
+ARCHIVE: no
+INFECTED: no
+
+===== 876 =====
+FILE: g:\Scan\Data\1785
+ARCHIVE: no
+INFECTED: no
+
+===== 877 =====
+FILE: g:\Scan\Data\1786
+ARCHIVE: no
+INFECTED: no
+
+===== 878 =====
+FILE: g:\Scan\Data\1787
+ARCHIVE: yes
+PACKERS: 
+   - CRUNCH
+INFECTED: yes
+INFILTRATIONS: 
+   - a variant of Win32/Bifrose.NUR trojan
+
+===== 879 =====
+FILE: g:\Scan\Data\1788
+ARCHIVE: no
+INFECTED: no
+
+===== 880 =====
+FILE: g:\Scan\Data\1789
+ARCHIVE: no
+INFECTED: no
+
+===== 881 =====
+FILE: g:\Scan\Data\179
+ARCHIVE: no
+INFECTED: no
+
+===== 882 =====
+FILE: g:\Scan\Data\1790
+ARCHIVE: no
+INFECTED: no
+
+===== 883 =====
+FILE: g:\Scan\Data\1791
+ARCHIVE: no
+INFECTED: no
+
+===== 884 =====
+FILE: g:\Scan\Data\1792
+ARCHIVE: no
+INFECTED: no
+
+===== 885 =====
+FILE: g:\Scan\Data\1793
+ARCHIVE: no
+INFECTED: no
+
+===== 886 =====
+FILE: g:\Scan\Data\1794
+ARCHIVE: no
+INFECTED: no
+
+===== 887 =====
+FILE: g:\Scan\Data\1795
+ARCHIVE: no
+INFECTED: no
+
+===== 888 =====
+FILE: g:\Scan\Data\1796
+ARCHIVE: no
+INFECTED: no
+
+===== 889 =====
+FILE: g:\Scan\Data\1797
+ARCHIVE: no
+INFECTED: no
+
+===== 890 =====
+FILE: g:\Scan\Data\1798
+ARCHIVE: no
+INFECTED: no
+
+===== 891 =====
+FILE: g:\Scan\Data\1799
+ARCHIVE: no
+INFECTED: no
+
+===== 892 =====
+FILE: g:\Scan\Data\18
+ARCHIVE: no
+INFECTED: no
+
+===== 893 =====
+FILE: g:\Scan\Data\180
+ARCHIVE: no
+INFECTED: no
+
+===== 894 =====
+FILE: g:\Scan\Data\1800
+ARCHIVE: no
+INFECTED: no
+
+===== 895 =====
+FILE: g:\Scan\Data\1801
+ARCHIVE: no
+INFECTED: no
+
+===== 896 =====
+FILE: g:\Scan\Data\1802
+ARCHIVE: no
+INFECTED: no
+
+===== 897 =====
+FILE: g:\Scan\Data\1803
+ARCHIVE: no
+INFECTED: no
+
+===== 898 =====
+FILE: g:\Scan\Data\1804
+ARCHIVE: no
+INFECTED: no
+
+===== 899 =====
+FILE: g:\Scan\Data\1805
+ARCHIVE: no
+INFECTED: no
+
+===== 900 =====
+FILE: g:\Scan\Data\1806
+ARCHIVE: no
+INFECTED: no
+
+===== 901 =====
+FILE: g:\Scan\Data\1807
+ARCHIVE: no
+INFECTED: no
+
+===== 902 =====
+FILE: g:\Scan\Data\1808
+ARCHIVE: no
+INFECTED: no
+
+===== 903 =====
+FILE: g:\Scan\Data\1809
+ARCHIVE: no
+INFECTED: no
+
+===== 904 =====
+FILE: g:\Scan\Data\181
+ARCHIVE: no
+INFECTED: no
+
+===== 905 =====
+FILE: g:\Scan\Data\1810
+ARCHIVE: no
+INFECTED: no
+
+===== 906 =====
+FILE: g:\Scan\Data\1811
+ARCHIVE: no
+INFECTED: no
+
+===== 907 =====
+FILE: g:\Scan\Data\1812
+ARCHIVE: no
+INFECTED: no
+
+===== 908 =====
+FILE: g:\Scan\Data\1813
+ARCHIVE: no
+INFECTED: no
+
+===== 909 =====
+FILE: g:\Scan\Data\1814
+ARCHIVE: no
+INFECTED: no
+
+===== 910 =====
+FILE: g:\Scan\Data\1815
+ARCHIVE: no
+INFECTED: no
+
+===== 911 =====
+FILE: g:\Scan\Data\1816
+ARCHIVE: no
+INFECTED: no
+
+===== 912 =====
+FILE: g:\Scan\Data\1817
+ARCHIVE: no
+INFECTED: no
+
+===== 913 =====
+FILE: g:\Scan\Data\1818
+ARCHIVE: yes
+PACKERS: 
+   - INSTALLFACTORY1
+   - UPX v12_m2
+INFECTED: no
+
+===== 914 =====
+FILE: g:\Scan\Data\1819
+ARCHIVE: no
+INFECTED: no
+
+===== 915 =====
+FILE: g:\Scan\Data\182
+ARCHIVE: no
+INFECTED: no
+
+===== 916 =====
+FILE: g:\Scan\Data\1820
+ARCHIVE: no
+INFECTED: no
+
+===== 917 =====
+FILE: g:\Scan\Data\1821
+ARCHIVE: no
+INFECTED: no
+
+===== 918 =====
+FILE: g:\Scan\Data\1822
+ARCHIVE: no
+INFECTED: no
+
+===== 919 =====
+FILE: g:\Scan\Data\1823
+ARCHIVE: no
+INFECTED: no
+
+===== 920 =====
+FILE: g:\Scan\Data\1824
+ARCHIVE: no
+INFECTED: no
+
+===== 921 =====
+FILE: g:\Scan\Data\1825
+ARCHIVE: no
+INFECTED: no
+
+===== 922 =====
+FILE: g:\Scan\Data\1826
+ARCHIVE: no
+INFECTED: no
+
+===== 923 =====
+FILE: g:\Scan\Data\1827
+ARCHIVE: no
+INFECTED: no
+
+===== 924 =====
+FILE: g:\Scan\Data\1828
+ARCHIVE: no
+INFECTED: no
+
+===== 925 =====
+FILE: g:\Scan\Data\1829
+ARCHIVE: no
+INFECTED: no
+
+===== 926 =====
+FILE: g:\Scan\Data\183
+ARCHIVE: no
+INFECTED: no
+
+===== 927 =====
+FILE: g:\Scan\Data\1830
+ARCHIVE: no
+INFECTED: no
+
+===== 928 =====
+FILE: g:\Scan\Data\1831
+ARCHIVE: no
+INFECTED: no
+
+===== 929 =====
+FILE: g:\Scan\Data\1832
+ARCHIVE: no
+INFECTED: no
+
+===== 930 =====
+FILE: g:\Scan\Data\1833
+ARCHIVE: no
+INFECTED: no
+
+===== 931 =====
+FILE: g:\Scan\Data\1834
+ARCHIVE: no
+INFECTED: no
+
+===== 932 =====
+FILE: g:\Scan\Data\1835
+ARCHIVE: no
+INFECTED: no
+
+===== 933 =====
+FILE: g:\Scan\Data\1836
+ARCHIVE: no
+INFECTED: no
+
+===== 934 =====
+FILE: g:\Scan\Data\1837.exe
+ARCHIVE: no
+INFECTED: no
+
+===== 935 =====
+FILE: g:\Scan\Data\1838.exe
+ARCHIVE: no
+INFECTED: no
+
+===== 936 =====
+FILE: g:\Scan\Data\1839.com
+ARCHIVE: no
+INFECTED: no
+
+===== 937 =====
+FILE: g:\Scan\Data\184
+ARCHIVE: no
+INFECTED: no
+
+===== 938 =====
+FILE: g:\Scan\Data\1840
+ARCHIVE: no
+INFECTED: no
+
+===== 939 =====
+FILE: g:\Scan\Data\1841
+ARCHIVE: no
+INFECTED: no
+
+===== 940 =====
+FILE: g:\Scan\Data\1842
+ARCHIVE: no
+INFECTED: no
+
+===== 941 =====
+FILE: g:\Scan\Data\1843
+ARCHIVE: no
+INFECTED: no
+
+===== 942 =====
+FILE: g:\Scan\Data\1844
+ARCHIVE: no
+INFECTED: no
+
+===== 943 =====
+FILE: g:\Scan\Data\1845
+ARCHIVE: no
+INFECTED: no
+
+===== 944 =====
+FILE: g:\Scan\Data\1846
+ARCHIVE: no
+INFECTED: no
+
+===== 945 =====
+FILE: g:\Scan\Data\1847
+ARCHIVE: no
+INFECTED: no
+
+===== 946 =====
+FILE: g:\Scan\Data\1848
+ARCHIVE: no
+INFECTED: no
+
+===== 947 =====
+FILE: g:\Scan\Data\1849
+ARCHIVE: no
+INFECTED: no
+
+===== 948 =====
+FILE: g:\Scan\Data\185
+ARCHIVE: no
+INFECTED: no
+
+===== 949 =====
+FILE: g:\Scan\Data\1850
+ARCHIVE: no
+INFECTED: no
+
+===== 950 =====
+FILE: g:\Scan\Data\1851
+ARCHIVE: no
+INFECTED: no
+
+===== 951 =====
+FILE: g:\Scan\Data\1852
+ARCHIVE: no
+INFECTED: no
+
+===== 952 =====
+FILE: g:\Scan\Data\1853
+ARCHIVE: no
+INFECTED: no
+
+===== 953 =====
+FILE: g:\Scan\Data\1854
+ARCHIVE: no
+INFECTED: no
+
+===== 954 =====
+FILE: g:\Scan\Data\1855
+ARCHIVE: no
+INFECTED: no
+
+===== 955 =====
+FILE: g:\Scan\Data\1856
+ARCHIVE: yes
+PACKERS: 
+   - NSIS
+INFECTED: yes
+INFILTRATIONS: 
+   - Win32/Adware.Cinmus application
+
+===== 956 =====
+FILE: g:\Scan\Data\1857
+ARCHIVE: no
+INFECTED: no
+
+===== 957 =====
+FILE: g:\Scan\Data\1858
+ARCHIVE: no
+INFECTED: no
+
+===== 958 =====
+FILE: g:\Scan\Data\1859
+ARCHIVE: no
+INFECTED: no
+
+===== 959 =====
+FILE: g:\Scan\Data\186
+ARCHIVE: no
+INFECTED: no
+
+===== 960 =====
+FILE: g:\Scan\Data\1860
+ARCHIVE: no
+INFECTED: no
+
+===== 961 =====
+FILE: g:\Scan\Data\1861
+ARCHIVE: no
+INFECTED: no
+
+===== 962 =====
+FILE: g:\Scan\Data\1862
+ARCHIVE: no
+INFECTED: no
+
+===== 963 =====
+FILE: g:\Scan\Data\1863
+ARCHIVE: no
+INFECTED: no
+
+===== 964 =====
+FILE: g:\Scan\Data\1864
+ARCHIVE: no
+INFECTED: no
+
+===== 965 =====
+FILE: g:\Scan\Data\1865
+ARCHIVE: no
+INFECTED: no
+
+===== 966 =====
+FILE: g:\Scan\Data\1866
+ARCHIVE: no
+INFECTED: no
+
+===== 967 =====
+FILE: g:\Scan\Data\1867
+ARCHIVE: no
+INFECTED: no
+
+===== 968 =====
+FILE: g:\Scan\Data\1868
+ARCHIVE: no
+INFECTED: no
+
+===== 969 =====
+FILE: g:\Scan\Data\1869
+ARCHIVE: no
+INFECTED: no
+
+===== 970 =====
+FILE: g:\Scan\Data\187
+ARCHIVE: no
+INFECTED: no
+
+===== 971 =====
+FILE: g:\Scan\Data\1870
+ARCHIVE: no
+INFECTED: no
+
+===== 972 =====
+FILE: g:\Scan\Data\1871
+ARCHIVE: no
+INFECTED: no
+
+===== 973 =====
+FILE: g:\Scan\Data\1872
+ARCHIVE: no
+INFECTED: no
+
+===== 974 =====
+FILE: g:\Scan\Data\1873
+ARCHIVE: no
+INFECTED: no
+
+===== 975 =====
+FILE: g:\Scan\Data\1874
+ARCHIVE: no
+INFECTED: no
+
+===== 976 =====
+FILE: g:\Scan\Data\1875
+ARCHIVE: no
+INFECTED: no
+
+===== 977 =====
+FILE: g:\Scan\Data\1876
+ARCHIVE: no
+INFECTED: no
+
+===== 978 =====
+FILE: g:\Scan\Data\1877
+ARCHIVE: no
+INFECTED: no
+
+===== 979 =====
+FILE: g:\Scan\Data\1878
+ARCHIVE: no
+INFECTED: no
+
+===== 980 =====
+FILE: g:\Scan\Data\1879
+ARCHIVE: no
+INFECTED: no
+
+===== 981 =====
+FILE: g:\Scan\Data\188
+ARCHIVE: no
+INFECTED: no
+
+===== 982 =====
+FILE: g:\Scan\Data\1880
+ARCHIVE: no
+INFECTED: no
+
+===== 983 =====
+FILE: g:\Scan\Data\1881
+ARCHIVE: no
+INFECTED: no
+
+===== 984 =====
+FILE: g:\Scan\Data\1882
+ARCHIVE: no
+INFECTED: no
+
+===== 985 =====
+FILE: g:\Scan\Data\1883
+ARCHIVE: no
+INFECTED: no
+
+===== 986 =====
+FILE: g:\Scan\Data\1884
+ARCHIVE: no
+INFECTED: no
+
+===== 987 =====
+FILE: g:\Scan\Data\1885
+ARCHIVE: no
+INFECTED: no
+
+===== 988 =====
+FILE: g:\Scan\Data\1886
+ARCHIVE: no
+INFECTED: no
+
+===== 989 =====
+FILE: g:\Scan\Data\1887
+ARCHIVE: no
+INFECTED: no
+
+===== 990 =====
+FILE: g:\Scan\Data\1888
+ARCHIVE: no
+INFECTED: no
+
+===== 991 =====
+FILE: g:\Scan\Data\1889
+ARCHIVE: no
+INFECTED: no
+
+===== 992 =====
+FILE: g:\Scan\Data\189
+ARCHIVE: no
+INFECTED: no
+
+===== 993 =====
+FILE: g:\Scan\Data\1890
+ARCHIVE: no
+INFECTED: no
+
+===== 994 =====
+FILE: g:\Scan\Data\1891
+ARCHIVE: no
+INFECTED: no
+
+===== 995 =====
+FILE: g:\Scan\Data\1892
+ARCHIVE: no
+INFECTED: no
+
+===== 996 =====
+FILE: g:\Scan\Data\1893
+ARCHIVE: no
+INFECTED: no
+
+===== 997 =====
+FILE: g:\Scan\Data\1894
+ARCHIVE: no
+INFECTED: no
+
+===== 998 =====
+FILE: g:\Scan\Data\1895
+ARCHIVE: no
+INFECTED: no
+
+===== 999 =====
+FILE: g:\Scan\Data\1896
+ARCHIVE: no
+INFECTED: no
+
+===== 1000 =====
+FILE: g:\Scan\Data\1897
+ARCHIVE: no
+INFECTED: no
+
+===== 1001 =====
+FILE: g:\Scan\Data\1898
+ARCHIVE: no
+INFECTED: no
+
+===== 1002 =====
+FILE: g:\Scan\Data\1899
+ARCHIVE: no
+INFECTED: no
+
+===== 1003 =====
+FILE: g:\Scan\Data\19
+ARCHIVE: no
+INFECTED: no
+
+===== 1004 =====
+FILE: g:\Scan\Data\190
+ARCHIVE: no
+INFECTED: no
+
+===== 1005 =====
+FILE: g:\Scan\Data\1900
+ARCHIVE: no
+INFECTED: no
+
+===== 1006 =====
+FILE: g:\Scan\Data\1901
+ARCHIVE: no
+INFECTED: no
+
+===== 1007 =====
+FILE: g:\Scan\Data\1902
+ARCHIVE: no
+INFECTED: no
+
+===== 1008 =====
+FILE: g:\Scan\Data\1903
+ARCHIVE: no
+INFECTED: no
+
+===== 1009 =====
+FILE: g:\Scan\Data\1904
+ARCHIVE: no
+INFECTED: no
+
+===== 1010 =====
+FILE: g:\Scan\Data\1905
+ARCHIVE: no
+INFECTED: no
+
+===== 1011 =====
+FILE: g:\Scan\Data\1906
+ARCHIVE: no
+INFECTED: no
+
+===== 1012 =====
+FILE: g:\Scan\Data\1907
+ARCHIVE: no
+INFECTED: no
+
+===== 1013 =====
+FILE: g:\Scan\Data\1908
+ARCHIVE: no
+INFECTED: no
+
+===== 1014 =====
+FILE: g:\Scan\Data\1909
+ARCHIVE: no
+INFECTED: no
+
+===== 1015 =====
+FILE: g:\Scan\Data\191
+ARCHIVE: no
+INFECTED: no
+
+===== 1016 =====
+FILE: g:\Scan\Data\1910
+ARCHIVE: no
+INFECTED: no
+
+===== 1017 =====
+FILE: g:\Scan\Data\1911
+ARCHIVE: no
+INFECTED: no
+
+===== 1018 =====
+FILE: g:\Scan\Data\1912
+ARCHIVE: no
+INFECTED: no
+
+===== 1019 =====
+FILE: g:\Scan\Data\1913
+ARCHIVE: no
+INFECTED: no
+
+===== 1020 =====
+FILE: g:\Scan\Data\1914
+ARCHIVE: no
+INFECTED: no
+
+===== 1021 =====
+FILE: g:\Scan\Data\1915
+ARCHIVE: no
+INFECTED: no
+
+===== 1022 =====
+FILE: g:\Scan\Data\1916
+ARCHIVE: no
+INFECTED: no
+
+===== 1023 =====
+FILE: g:\Scan\Data\1917
+ARCHIVE: no
+INFECTED: no
+
+===== 1024 =====
+FILE: g:\Scan\Data\1918
+ARCHIVE: no
+INFECTED: no
+
+===== 1025 =====
+FILE: g:\Scan\Data\1919
+ARCHIVE: no
+INFECTED: no
+
+===== 1026 =====
+FILE: g:\Scan\Data\192
+ARCHIVE: no
+INFECTED: no
+
+===== 1027 =====
+FILE: g:\Scan\Data\1920
+ARCHIVE: no
+INFECTED: no
+
+===== 1028 =====
+FILE: g:\Scan\Data\1921
+ARCHIVE: no
+INFECTED: no
+
+===== 1029 =====
+FILE: g:\Scan\Data\1922
+ARCHIVE: no
+INFECTED: no
+
+===== 1030 =====
+FILE: g:\Scan\Data\1923
+ARCHIVE: no
+INFECTED: no
+
+===== 1031 =====
+FILE: g:\Scan\Data\1924
+ARCHIVE: no
+INFECTED: no
+
+===== 1032 =====
+FILE: g:\Scan\Data\1925
+ARCHIVE: no
+INFECTED: no
+
+===== 1033 =====
+FILE: g:\Scan\Data\1926
+ARCHIVE: no
+INFECTED: no
+
+===== 1034 =====
+FILE: g:\Scan\Data\1927
+ARCHIVE: no
+INFECTED: no
+
+===== 1035 =====
+FILE: g:\Scan\Data\1928
+ARCHIVE: no
+INFECTED: no
+
+===== 1036 =====
+FILE: g:\Scan\Data\1929
+ARCHIVE: no
+INFECTED: no
+
+===== 1037 =====
+FILE: g:\Scan\Data\193
+ARCHIVE: no
+INFECTED: no
+
+===== 1038 =====
+FILE: g:\Scan\Data\1930
+ARCHIVE: no
+INFECTED: no
+
+===== 1039 =====
+FILE: g:\Scan\Data\1931
+ARCHIVE: no
+INFECTED: no
+
+===== 1040 =====
+FILE: g:\Scan\Data\1932
+ARCHIVE: no
+INFECTED: no
+
+===== 1041 =====
+FILE: g:\Scan\Data\1933
+ARCHIVE: no
+INFECTED: no
+
+===== 1042 =====
+FILE: g:\Scan\Data\1934
+ARCHIVE: no
+INFECTED: no
+
+===== 1043 =====
+FILE: g:\Scan\Data\1935
+ARCHIVE: no
+INFECTED: no
+
+===== 1044 =====
+FILE: g:\Scan\Data\1936
+ARCHIVE: no
+INFECTED: no
+
+===== 1045 =====
+FILE: g:\Scan\Data\1937
+ARCHIVE: no
+INFECTED: no
+
+===== 1046 =====
+FILE: g:\Scan\Data\1938
+ARCHIVE: no
+INFECTED: no
+
+===== 1047 =====
+FILE: g:\Scan\Data\1939
+ARCHIVE: no
+INFECTED: no
+
+===== 1048 =====
+FILE: g:\Scan\Data\194
+ARCHIVE: no
+INFECTED: no
+
+===== 1049 =====
+FILE: g:\Scan\Data\1940
+ARCHIVE: no
+INFECTED: no
+
+===== 1050 =====
+FILE: g:\Scan\Data\1941
+ARCHIVE: no
+INFECTED: no
+
+===== 1051 =====
+FILE: g:\Scan\Data\1942
+ARCHIVE: no
+INFECTED: no
+
+===== 1052 =====
+FILE: g:\Scan\Data\1943
+ARCHIVE: no
+INFECTED: no
+
+===== 1053 =====
+FILE: g:\Scan\Data\1944
+ARCHIVE: no
+INFECTED: no
+
+===== 1054 =====
+FILE: g:\Scan\Data\1945
+ARCHIVE: no
+INFECTED: no
+
+===== 1055 =====
+FILE: g:\Scan\Data\1946
+ARCHIVE: no
+INFECTED: no
+
+===== 1056 =====
+FILE: g:\Scan\Data\1947
+ARCHIVE: no
+INFECTED: no
+
+===== 1057 =====
+FILE: g:\Scan\Data\1948
+ARCHIVE: no
+INFECTED: no
+
+===== 1058 =====
+FILE: g:\Scan\Data\1949
+ARCHIVE: no
+INFECTED: no
+
+===== 1059 =====
+FILE: g:\Scan\Data\195
+ARCHIVE: no
+INFECTED: no
+
+===== 1060 =====
+FILE: g:\Scan\Data\1950
+ARCHIVE: no
+INFECTED: no
+
+===== 1061 =====
+FILE: g:\Scan\Data\1951
+ARCHIVE: no
+INFECTED: no
+
+===== 1062 =====
+FILE: g:\Scan\Data\1952
+ARCHIVE: no
+INFECTED: no
+
+===== 1063 =====
+FILE: g:\Scan\Data\1953
+ARCHIVE: no
+INFECTED: no
+
+===== 1064 =====
+FILE: g:\Scan\Data\1954
+ARCHIVE: no
+INFECTED: no
+
+===== 1065 =====
+FILE: g:\Scan\Data\1955
+ARCHIVE: no
+INFECTED: no
+
+===== 1066 =====
+FILE: g:\Scan\Data\1956
+ARCHIVE: no
+INFECTED: no
+
+===== 1067 =====
+FILE: g:\Scan\Data\1957
+ARCHIVE: no
+INFECTED: no
+
+===== 1068 =====
+FILE: g:\Scan\Data\1958
+ARCHIVE: no
+INFECTED: no
+
+===== 1069 =====
+FILE: g:\Scan\Data\1959
+ARCHIVE: no
+INFECTED: no
+
+===== 1070 =====
+FILE: g:\Scan\Data\196
+ARCHIVE: no
+INFECTED: no
+
+===== 1071 =====
+FILE: g:\Scan\Data\1960
+ARCHIVE: no
+INFECTED: no
+
+===== 1072 =====
+FILE: g:\Scan\Data\1961
+ARCHIVE: no
+INFECTED: no
+
+===== 1073 =====
+FILE: g:\Scan\Data\1962
+ARCHIVE: no
+INFECTED: no
+
+===== 1074 =====
+FILE: g:\Scan\Data\1963
+ARCHIVE: no
+INFECTED: no
+
+===== 1075 =====
+FILE: g:\Scan\Data\1964
+ARCHIVE: no
+INFECTED: no
+
+===== 1076 =====
+FILE: g:\Scan\Data\1965
+ARCHIVE: no
+INFECTED: no
+
+===== 1077 =====
+FILE: g:\Scan\Data\1966
+ARCHIVE: no
+INFECTED: no
+
+===== 1078 =====
+FILE: g:\Scan\Data\1967
+ARCHIVE: no
+INFECTED: no
+
+===== 1079 =====
+FILE: g:\Scan\Data\1968
+ARCHIVE: no
+INFECTED: no
+
+===== 1080 =====
+FILE: g:\Scan\Data\1969
+ARCHIVE: no
+INFECTED: no
+
+===== 1081 =====
+FILE: g:\Scan\Data\197
+ARCHIVE: no
+INFECTED: no
+
+===== 1082 =====
+FILE: g:\Scan\Data\1970
+ARCHIVE: no
+INFECTED: no
+
+===== 1083 =====
+FILE: g:\Scan\Data\1971
+ARCHIVE: no
+INFECTED: no
+
+===== 1084 =====
+FILE: g:\Scan\Data\1972
+ARCHIVE: no
+INFECTED: no
+
+===== 1085 =====
+FILE: g:\Scan\Data\1973
+ARCHIVE: no
+INFECTED: no
+
+===== 1086 =====
+FILE: g:\Scan\Data\1974
+ARCHIVE: no
+INFECTED: no
+
+===== 1087 =====
+FILE: g:\Scan\Data\1975
+ARCHIVE: no
+INFECTED: no
+
+===== 1088 =====
+FILE: g:\Scan\Data\1976
+ARCHIVE: no
+INFECTED: no
+
+===== 1089 =====
+FILE: g:\Scan\Data\1977
+ARCHIVE: no
+INFECTED: no
+
+===== 1090 =====
+FILE: g:\Scan\Data\1978
+ARCHIVE: no
+INFECTED: no
+
+===== 1091 =====
+FILE: g:\Scan\Data\1979
+ARCHIVE: no
+INFECTED: no
+
+===== 1092 =====
+FILE: g:\Scan\Data\198
+ARCHIVE: no
+INFECTED: no
+
+===== 1093 =====
+FILE: g:\Scan\Data\1980
+ARCHIVE: no
+INFECTED: no
+
+===== 1094 =====
+FILE: g:\Scan\Data\1981
+ARCHIVE: no
+INFECTED: no
+
+===== 1095 =====
+FILE: g:\Scan\Data\1982
+ARCHIVE: no
+INFECTED: no
+
+===== 1096 =====
+FILE: g:\Scan\Data\1983
+ARCHIVE: no
+INFECTED: no
+
+===== 1097 =====
+FILE: g:\Scan\Data\1984
+ARCHIVE: no
+INFECTED: no
+
+===== 1098 =====
+FILE: g:\Scan\Data\1985
+ARCHIVE: no
+INFECTED: no
+
+===== 1099 =====
+FILE: g:\Scan\Data\1986
+ARCHIVE: no
+INFECTED: no
+
+===== 1100 =====
+FILE: g:\Scan\Data\1987
+ARCHIVE: no
+INFECTED: no
+
+===== 1101 =====
+FILE: g:\Scan\Data\1988
+ARCHIVE: no
+INFECTED: no
+
+===== 1102 =====
+FILE: g:\Scan\Data\1989
+ARCHIVE: no
+INFECTED: no
+
+===== 1103 =====
+FILE: g:\Scan\Data\199
+ARCHIVE: no
+INFECTED: no
+
+===== 1104 =====
+FILE: g:\Scan\Data\1990
+ARCHIVE: no
+INFECTED: no
+
+===== 1105 =====
+FILE: g:\Scan\Data\1991
+ARCHIVE: no
+INFECTED: no
+
+===== 1106 =====
+FILE: g:\Scan\Data\1992
+ARCHIVE: no
+INFECTED: no
+
+===== 1107 =====
+FILE: g:\Scan\Data\1993
+ARCHIVE: no
+INFECTED: no
+
+===== 1108 =====
+FILE: g:\Scan\Data\1994
+ARCHIVE: no
+INFECTED: no
+
+===== 1109 =====
+FILE: g:\Scan\Data\1995
+ARCHIVE: no
+INFECTED: no
+
+===== 1110 =====
+FILE: g:\Scan\Data\1996
+ARCHIVE: no
+INFECTED: no
+
+===== 1111 =====
+FILE: g:\Scan\Data\1997
+ARCHIVE: no
+INFECTED: no
+
+===== 1112 =====
+FILE: g:\Scan\Data\1998
+ARCHIVE: no
+INFECTED: no
+
+===== 1113 =====
+FILE: g:\Scan\Data\1999
+ARCHIVE: no
+INFECTED: no
+
+===== 1114 =====
+FILE: g:\Scan\Data\2.td
+ARCHIVE: yes
+PACKERS: 
+   - NSIS
+INFECTED: yes
+INFILTRATIONS: 
+   - Win32/Induc virus
+   - a variant of Win32/Induc.A virus
+   - a variant of Win32/TrojanDownloader.Delf.PWL trojan
+
+===== 1115 =====
+FILE: g:\Scan\Data\20
+ARCHIVE: no
+INFECTED: no
+
+===== 1116 =====
+FILE: g:\Scan\Data\200
+ARCHIVE: no
+INFECTED: no
+
+===== 1117 =====
+FILE: g:\Scan\Data\2000
+ARCHIVE: no
+INFECTED: no
+
+===== 1118 =====
+FILE: g:\Scan\Data\2001
+ARCHIVE: no
+INFECTED: no
+
+===== 1119 =====
+FILE: g:\Scan\Data\2002
+ARCHIVE: no
+INFECTED: no
+
+===== 1120 =====
+FILE: g:\Scan\Data\2003
+ARCHIVE: no
+INFECTED: no
+
+===== 1121 =====
+FILE: g:\Scan\Data\2004
+ARCHIVE: no
+INFECTED: no
+
+===== 1122 =====
+FILE: g:\Scan\Data\2005
+ARCHIVE: no
+INFECTED: no
+
+===== 1123 =====
+FILE: g:\Scan\Data\2006
+ARCHIVE: no
+INFECTED: no
+
+===== 1124 =====
+FILE: g:\Scan\Data\2007
+ARCHIVE: no
+INFECTED: no
+
+===== 1125 =====
+FILE: g:\Scan\Data\2008
+ARCHIVE: no
+INFECTED: no
+
+===== 1126 =====
+FILE: g:\Scan\Data\2009
+ARCHIVE: no
+INFECTED: no
+
+===== 1127 =====
+FILE: g:\Scan\Data\201
+ARCHIVE: no
+INFECTED: no
+
+===== 1128 =====
+FILE: g:\Scan\Data\2010
+ARCHIVE: no
+INFECTED: no
+
+===== 1129 =====
+FILE: g:\Scan\Data\2011
+ARCHIVE: no
+INFECTED: no
+
+===== 1130 =====
+FILE: g:\Scan\Data\2012
+ARCHIVE: no
+INFECTED: no
+
+===== 1131 =====
+FILE: g:\Scan\Data\2013
+ARCHIVE: no
+INFECTED: no
+
+===== 1132 =====
+FILE: g:\Scan\Data\2014
+ARCHIVE: no
+INFECTED: no
+
+===== 1133 =====
+FILE: g:\Scan\Data\2015
+ARCHIVE: no
+INFECTED: no
+
+===== 1134 =====
+FILE: g:\Scan\Data\2016
+ARCHIVE: no
+INFECTED: no
+
+===== 1135 =====
+FILE: g:\Scan\Data\2017
+ARCHIVE: no
+INFECTED: no
+
+===== 1136 =====
+FILE: g:\Scan\Data\2018
+ARCHIVE: no
+INFECTED: no
+
+===== 1137 =====
+FILE: g:\Scan\Data\2019
+ARCHIVE: no
+INFECTED: no
+
+===== 1138 =====
+FILE: g:\Scan\Data\202
+ARCHIVE: no
+INFECTED: no
+
+===== 1139 =====
+FILE: g:\Scan\Data\2020
+ARCHIVE: no
+INFECTED: no
+
+===== 1140 =====
+FILE: g:\Scan\Data\2021
+ARCHIVE: no
+INFECTED: no
+
+===== 1141 =====
+FILE: g:\Scan\Data\2022
+ARCHIVE: no
+INFECTED: no
+
+===== 1142 =====
+FILE: g:\Scan\Data\2023
+ARCHIVE: no
+INFECTED: no
+
+===== 1143 =====
+FILE: g:\Scan\Data\2024
+ARCHIVE: no
+INFECTED: no
+
+===== 1144 =====
+FILE: g:\Scan\Data\2025
+ARCHIVE: no
+INFECTED: no
+
+===== 1145 =====
+FILE: g:\Scan\Data\2026
+ARCHIVE: no
+INFECTED: no
+
+===== 1146 =====
+FILE: g:\Scan\Data\2027.td
+ARCHIVE: yes
+PACKERS: 
+   - NSIS
+   - UPX v12_m2
+INFECTED: no
+
+===== 1147 =====
+FILE: g:\Scan\Data\2028
+ARCHIVE: no
+INFECTED: no
+
+===== 1148 =====
+FILE: g:\Scan\Data\2029
+ARCHIVE: no
+INFECTED: no
+
+===== 1149 =====
+FILE: g:\Scan\Data\203
+ARCHIVE: no
+INFECTED: no
+
+===== 1150 =====
+FILE: g:\Scan\Data\2030
+ARCHIVE: no
+INFECTED: no
+
+===== 1151 =====
+FILE: g:\Scan\Data\2031
+ARCHIVE: no
+INFECTED: no
+
+===== 1152 =====
+FILE: g:\Scan\Data\2032
+ARCHIVE: no
+INFECTED: no
+
+===== 1153 =====
+FILE: g:\Scan\Data\2033
+ARCHIVE: no
+INFECTED: no
+
+===== 1154 =====
+FILE: g:\Scan\Data\2034
+ARCHIVE: no
+INFECTED: no
+
+===== 1155 =====
+FILE: g:\Scan\Data\2035.exe
+ARCHIVE: no
+INFECTED: no
+
+===== 1156 =====
+FILE: g:\Scan\Data\2036.exe
+ARCHIVE: yes
+PACKERS: 
+   - CHM
+   - INNO
+INFECTED: no
+
+===== 1157 =====
+FILE: g:\Scan\Data\2037.exe
+ARCHIVE: no
+INFECTED: no
+
+===== 1158 =====
+FILE: g:\Scan\Data\2038
+ARCHIVE: no
+INFECTED: no
+
+===== 1159 =====
+FILE: g:\Scan\Data\2039.exe
+ARCHIVE: yes
+PACKERS: 
+   - ASPack v2.12
+   - RAR
+INFECTED: no
+
+===== 1160 =====
+FILE: g:\Scan\Data\204
+ARCHIVE: no
+INFECTED: no
+
+===== 1161 =====
+FILE: g:\Scan\Data\2040.exe
+ARCHIVE: no
+INFECTED: no
+
+===== 1162 =====
+FILE: g:\Scan\Data\2041.part
+ARCHIVE: yes
+PACKERS: 
+   - NSIS
+INFECTED: yes
+INFILTRATIONS: 
+   - Win32/Toolbar.Widgi potentially unwanted application
+
+===== 1163 =====
+FILE: g:\Scan\Data\2042.dll
+ARCHIVE: no
+INFECTED: no
+
+===== 1164 =====
+FILE: g:\Scan\Data\2043.zip
+ARCHIVE: yes
+PACKERS: 
+   - ZIP
+INFECTED: yes
+INFILTRATIONS: 
+   - Kyjak trojan
+
+===== 1165 =====
+FILE: g:\Scan\Data\2044.COM
+ARCHIVE: no
+INFECTED: no
+
+===== 1166 =====
+FILE: g:\Scan\Data\2045.vexe
+ARCHIVE: yes
+PACKERS: 
+   - PEBUNDLE
+   - UPX v12_m2_dll
+INFECTED: yes
+INFILTRATIONS: 
+   - a variant of Win32/Adware.VrBrothers potentially unwanted application
+
+===== 1167 =====
+FILE: g:\Scan\Data\2046.exe
+ARCHIVE: no
+INFECTED: no
+
+===== 1168 =====
+FILE: g:\Scan\Data\2047.exe
+ARCHIVE: no
+INFECTED: no
+
+===== 1169 =====
+FILE: g:\Scan\Data\2048.exe
+ARCHIVE: no
+INFECTED: no
+
+===== 1170 =====
+FILE: g:\Scan\Data\2049.tmp
+ARCHIVE: no
+INFECTED: no
+
+===== 1171 =====
+FILE: g:\Scan\Data\205
+ARCHIVE: no
+INFECTED: no
+
+===== 1172 =====
+FILE: g:\Scan\Data\2050.exe
+ARCHIVE: no
+INFECTED: no
+
+===== 1173 =====
+FILE: g:\Scan\Data\2051.exe
+ARCHIVE: no
+INFECTED: no
+
+===== 1174 =====
+FILE: g:\Scan\Data\2052.exe
+ARCHIVE: yes
+PACKERS: 
+   - ASPack v2.12
+INFECTED: no
+
+===== 1175 =====
+FILE: g:\Scan\Data\2053.exe
+ARCHIVE: yes
+PACKERS: 
+   - ASPack v2.12
+INFECTED: no
+
+===== 1176 =====
+FILE: g:\Scan\Data\2054.dll
+ARCHIVE: no
+INFECTED: no
+
+===== 1177 =====
+FILE: g:\Scan\Data\2055.dll
+ARCHIVE: no
+INFECTED: no
+
+===== 1178 =====
+FILE: g:\Scan\Data\2056.td
+ARCHIVE: yes
+PACKERS: 
+   - ASPack v2.12
+   - NSIS
+INFECTED: yes
+INFILTRATIONS: 
+   - Win32/BaiduSearch potentially unwanted application
+
+===== 1179 =====
+FILE: g:\Scan\Data\2057.td
+ARCHIVE: yes
+PACKERS: 
+   - NSIS
+   - UPX v13_m8
+INFECTED: no
+
+===== 1180 =====
+FILE: g:\Scan\Data\2058.exe
+ARCHIVE: no
+INFECTED: no
+
+===== 1181 =====
+FILE: g:\Scan\Data\2059.exe
+ARCHIVE: no
+INFECTED: no
+
+===== 1182 =====
+FILE: g:\Scan\Data\206
+ARCHIVE: no
+INFECTED: no
+
+===== 1183 =====
+FILE: g:\Scan\Data\2060.rra
+ARCHIVE: no
+INFECTED: no
+
+===== 1184 =====
+FILE: g:\Scan\Data\2061.bc!
+ARCHIVE: yes
+PACKERS: 
+   - NSIS
+INFECTED: yes
+INFILTRATIONS: 
+   - Win32/Induc virus
+   - a variant of Win32/TrojanDownloader.Delf.PWL trojan
+
+===== 1185 =====
+FILE: g:\Scan\Data\2062.exe
+ARCHIVE: yes
+PACKERS: 
+   - NSIS
+INFECTED: yes
+INFILTRATIONS: 
+   - Win32/Induc virus
+   - a variant of Win32/TrojanDownloader.Delf.PWL trojan
+
+===== 1186 =====
+FILE: g:\Scan\Data\2063.td
+ARCHIVE: yes
+PACKERS: 
+   - NSIS
+INFECTED: yes
+INFILTRATIONS: 
+   - Win32/Induc virus
+   - a variant of Win32/Induc.A virus
+   - a variant of Win32/TrojanDownloader.Delf.PWL trojan
+
+===== 1187 =====
+FILE: g:\Scan\Data\2064.exe
+ARCHIVE: yes
+PACKERS: 
+   - NSIS
+INFECTED: yes
+INFILTRATIONS: 
+   - Win32/Induc virus
+   - a variant of Win32/TrojanDownloader.Delf.PWL trojan
+
+===== 1188 =====
+FILE: g:\Scan\Data\2065.td
+ARCHIVE: yes
+PACKERS: 
+   - NSIS
+INFECTED: yes
+INFILTRATIONS: 
+   - Win32/Induc virus
+   - a variant of Win32/Induc.A virus
+   - a variant of Win32/TrojanDownloader.Delf.PWL trojan
+
+===== 1189 =====
+FILE: g:\Scan\Data\2066.exe
+ARCHIVE: yes
+PACKERS: 
+   - NSIS
+INFECTED: no
+
+===== 1190 =====
+FILE: g:\Scan\Data\2067.exe
+ARCHIVE: no
+INFECTED: no
+
+===== 1191 =====
+FILE: g:\Scan\Data\2068.008
+ARCHIVE: no
+INFECTED: no
+
+===== 1192 =====
+FILE: g:\Scan\Data\2069.part
+ARCHIVE: yes
+PACKERS: 
+   - AUTOIT
+INFECTED: yes
+INFILTRATIONS: 
+   - Win32/Bifrose.NEL trojan
+   - a variant of Win32/Injector.BWA trojan
+
+===== 1193 =====
+FILE: g:\Scan\Data\207
+ARCHIVE: no
+INFECTED: no
+
+===== 1194 =====
+FILE: g:\Scan\Data\2070.exe
+ARCHIVE: no
+INFECTED: no
+
+===== 1195 =====
+FILE: g:\Scan\Data\2071.exe
+ARCHIVE: no
+INFECTED: no
+
+===== 1196 =====
+FILE: g:\Scan\Data\2072.exe
+ARCHIVE: yes
+PACKERS: 
+   - RAR
+INFECTED: yes
+INFILTRATIONS: 
+   - a variant of Win32/Spy.Banker.PDI trojan
+
+===== 1197 =====
+FILE: g:\Scan\Data\2073.jpg
+ARCHIVE: yes
+PACKERS: 
+   - RAR
+INFECTED: yes
+INFILTRATIONS: 
+   - a variant of Win32/Spy.Banker.PDI trojan
+
+===== 1198 =====
+FILE: g:\Scan\Data\2074.td
+ARCHIVE: yes
+PACKERS: 
+   - ZIP
+INFECTED: yes
+INFILTRATIONS: 
+   - Win32/Spy.Agent.NOM trojan
+
+===== 1199 =====
+FILE: g:\Scan\Data\208
+ARCHIVE: no
+INFECTED: no
+
+===== 1200 =====
+FILE: g:\Scan\Data\209
+ARCHIVE: no
+INFECTED: no
+
+===== 1201 =====
+FILE: g:\Scan\Data\21
+ARCHIVE: no
+INFECTED: no
+
+===== 1202 =====
+FILE: g:\Scan\Data\210
+ARCHIVE: no
+INFECTED: no
+
+===== 1203 =====
+FILE: g:\Scan\Data\211
+ARCHIVE: no
+INFECTED: no
+
+===== 1204 =====
+FILE: g:\Scan\Data\212
+ARCHIVE: no
+INFECTED: no
+
+===== 1205 =====
+FILE: g:\Scan\Data\213
+ARCHIVE: no
+INFECTED: no
+
+===== 1206 =====
+FILE: g:\Scan\Data\214
+ARCHIVE: no
+INFECTED: no
+
+===== 1207 =====
+FILE: g:\Scan\Data\215
+ARCHIVE: no
+INFECTED: no
+
+===== 1208 =====
+FILE: g:\Scan\Data\216
+ARCHIVE: no
+INFECTED: no
+
+===== 1209 =====
+FILE: g:\Scan\Data\217
+ARCHIVE: no
+INFECTED: no
+
+===== 1210 =====
+FILE: g:\Scan\Data\218
+ARCHIVE: no
+INFECTED: no
+
+===== 1211 =====
+FILE: g:\Scan\Data\219
+ARCHIVE: no
+INFECTED: no
+
+===== 1212 =====
+FILE: g:\Scan\Data\22
+ARCHIVE: no
+INFECTED: no
+
+===== 1213 =====
+FILE: g:\Scan\Data\220
+ARCHIVE: no
+INFECTED: no
+
+===== 1214 =====
+FILE: g:\Scan\Data\221
+ARCHIVE: no
+INFECTED: no
+
+===== 1215 =====
+FILE: g:\Scan\Data\222
+ARCHIVE: no
+INFECTED: no
+
+===== 1216 =====
+FILE: g:\Scan\Data\223
+ARCHIVE: no
+INFECTED: no
+
+===== 1217 =====
+FILE: g:\Scan\Data\224
+ARCHIVE: no
+INFECTED: no
+
+===== 1218 =====
+FILE: g:\Scan\Data\225
+ARCHIVE: no
+INFECTED: no
+
+===== 1219 =====
+FILE: g:\Scan\Data\226
+ARCHIVE: no
+INFECTED: no
+
+===== 1220 =====
+FILE: g:\Scan\Data\227
+ARCHIVE: no
+INFECTED: no
+
+===== 1221 =====
+FILE: g:\Scan\Data\228
+ARCHIVE: no
+INFECTED: no
+
+===== 1222 =====
+FILE: g:\Scan\Data\229.bad
+ARCHIVE: no
+INFECTED: no
+
+===== 1223 =====
+FILE: g:\Scan\Data\23
+ARCHIVE: no
+INFECTED: no
+
+===== 1224 =====
+FILE: g:\Scan\Data\230
+ARCHIVE: no
+INFECTED: no
+
+===== 1225 =====
+FILE: g:\Scan\Data\231
+ARCHIVE: no
+INFECTED: no
+
+===== 1226 =====
+FILE: g:\Scan\Data\232
+ARCHIVE: no
+INFECTED: no
+
+===== 1227 =====
+FILE: g:\Scan\Data\233
+ARCHIVE: no
+INFECTED: no
+
+===== 1228 =====
+FILE: g:\Scan\Data\234
+ARCHIVE: no
+INFECTED: no
+
+===== 1229 =====
+FILE: g:\Scan\Data\235
+ARCHIVE: no
+INFECTED: no
+
+===== 1230 =====
+FILE: g:\Scan\Data\236
+ARCHIVE: no
+INFECTED: no
+
+===== 1231 =====
+FILE: g:\Scan\Data\237
+ARCHIVE: no
+INFECTED: no
+
+===== 1232 =====
+FILE: g:\Scan\Data\238
+ARCHIVE: no
+INFECTED: no
+
+===== 1233 =====
+FILE: g:\Scan\Data\239
+ARCHIVE: no
+INFECTED: no
+
+===== 1234 =====
+FILE: g:\Scan\Data\24
+ARCHIVE: no
+INFECTED: no
+
+===== 1235 =====
+FILE: g:\Scan\Data\240
+ARCHIVE: no
+INFECTED: no
+
+===== 1236 =====
+FILE: g:\Scan\Data\241
+ARCHIVE: no
+INFECTED: no
+
+===== 1237 =====
+FILE: g:\Scan\Data\242
+ARCHIVE: no
+INFECTED: no
+
+===== 1238 =====
+FILE: g:\Scan\Data\243
+ARCHIVE: no
+INFECTED: no
+
+===== 1239 =====
+FILE: g:\Scan\Data\244
+ARCHIVE: no
+INFECTED: no
+
+===== 1240 =====
+FILE: g:\Scan\Data\245
+ARCHIVE: no
+INFECTED: no
+
+===== 1241 =====
+FILE: g:\Scan\Data\246
+ARCHIVE: no
+INFECTED: no
+
+===== 1242 =====
+FILE: g:\Scan\Data\247
+ARCHIVE: no
+INFECTED: no
+
+===== 1243 =====
+FILE: g:\Scan\Data\248
+ARCHIVE: no
+INFECTED: no
+
+===== 1244 =====
+FILE: g:\Scan\Data\249
+ARCHIVE: no
+INFECTED: no
+
+===== 1245 =====
+FILE: g:\Scan\Data\25
+ARCHIVE: no
+INFECTED: no
+
+===== 1246 =====
+FILE: g:\Scan\Data\250
+ARCHIVE: no
+INFECTED: no
+
+===== 1247 =====
+FILE: g:\Scan\Data\251
+ARCHIVE: no
+INFECTED: no
+
+===== 1248 =====
+FILE: g:\Scan\Data\252
+ARCHIVE: no
+INFECTED: no
+
+===== 1249 =====
+FILE: g:\Scan\Data\253
+ARCHIVE: no
+INFECTED: no
+
+===== 1250 =====
+FILE: g:\Scan\Data\254
+ARCHIVE: no
+INFECTED: no
+
+===== 1251 =====
+FILE: g:\Scan\Data\255
+ARCHIVE: no
+INFECTED: no
+
+===== 1252 =====
+FILE: g:\Scan\Data\256
+ARCHIVE: no
+INFECTED: no
+
+===== 1253 =====
+FILE: g:\Scan\Data\257
+ARCHIVE: no
+INFECTED: no
+
+===== 1254 =====
+FILE: g:\Scan\Data\258
+ARCHIVE: no
+INFECTED: no
+
+===== 1255 =====
+FILE: g:\Scan\Data\259
+ARCHIVE: no
+INFECTED: no
+
+===== 1256 =====
+FILE: g:\Scan\Data\26
+ARCHIVE: no
+INFECTED: no
+
+===== 1257 =====
+FILE: g:\Scan\Data\260
+ARCHIVE: no
+INFECTED: no
+
+===== 1258 =====
+FILE: g:\Scan\Data\261
+ARCHIVE: no
+INFECTED: no
+
+===== 1259 =====
+FILE: g:\Scan\Data\262
+ARCHIVE: no
+INFECTED: no
+
+===== 1260 =====
+FILE: g:\Scan\Data\263
+ARCHIVE: no
+INFECTED: no
+
+===== 1261 =====
+FILE: g:\Scan\Data\264
+ARCHIVE: no
+INFECTED: no
+
+===== 1262 =====
+FILE: g:\Scan\Data\265
+ARCHIVE: no
+INFECTED: no
+
+===== 1263 =====
+FILE: g:\Scan\Data\266
+ARCHIVE: no
+INFECTED: no
+
+===== 1264 =====
+FILE: g:\Scan\Data\267
+ARCHIVE: no
+INFECTED: no
+
+===== 1265 =====
+FILE: g:\Scan\Data\268
+ARCHIVE: no
+INFECTED: no
+
+===== 1266 =====
+FILE: g:\Scan\Data\269
+ARCHIVE: no
+INFECTED: no
+
+===== 1267 =====
+FILE: g:\Scan\Data\27
+ARCHIVE: no
+INFECTED: no
+
+===== 1268 =====
+FILE: g:\Scan\Data\270
+ARCHIVE: no
+INFECTED: no
+
+===== 1269 =====
+FILE: g:\Scan\Data\271
+ARCHIVE: yes
+PACKERS: 
+   - NSIS
+INFECTED: yes
+INFILTRATIONS: 
+   - a variant of Win32/Toolbar.Babylon.C potentially unwanted application
+
+===== 1270 =====
+FILE: g:\Scan\Data\272
+ARCHIVE: no
+INFECTED: no
+
+===== 1271 =====
+FILE: g:\Scan\Data\273
+ARCHIVE: no
+INFECTED: no
+
+===== 1272 =====
+FILE: g:\Scan\Data\274
+ARCHIVE: yes
+PACKERS: 
+   - UPX v12_m2
+INFECTED: no
+
+===== 1273 =====
+FILE: g:\Scan\Data\275
+ARCHIVE: no
+INFECTED: no
+
+===== 1274 =====
+FILE: g:\Scan\Data\276
+ARCHIVE: no
+INFECTED: no
+
+===== 1275 =====
+FILE: g:\Scan\Data\277
+ARCHIVE: no
+INFECTED: no
+
+===== 1276 =====
+FILE: g:\Scan\Data\278
+ARCHIVE: no
+INFECTED: no
+
+===== 1277 =====
+FILE: g:\Scan\Data\279
+ARCHIVE: no
+INFECTED: no
+
+===== 1278 =====
+FILE: g:\Scan\Data\28
+ARCHIVE: no
+INFECTED: no
+
+===== 1279 =====
+FILE: g:\Scan\Data\280
+ARCHIVE: no
+INFECTED: no
+
+===== 1280 =====
+FILE: g:\Scan\Data\281
+ARCHIVE: no
+INFECTED: no
+
+===== 1281 =====
+FILE: g:\Scan\Data\282
+ARCHIVE: no
+INFECTED: no
+
+===== 1282 =====
+FILE: g:\Scan\Data\283
+ARCHIVE: no
+INFECTED: no
+
+===== 1283 =====
+FILE: g:\Scan\Data\284
+ARCHIVE: no
+INFECTED: no
+
+===== 1284 =====
+FILE: g:\Scan\Data\285
+ARCHIVE: no
+INFECTED: no
+
+===== 1285 =====
+FILE: g:\Scan\Data\286
+ARCHIVE: no
+INFECTED: no
+
+===== 1286 =====
+FILE: g:\Scan\Data\287
+ARCHIVE: no
+INFECTED: no
+
+===== 1287 =====
+FILE: g:\Scan\Data\288
+ARCHIVE: no
+INFECTED: no
+
+===== 1288 =====
+FILE: g:\Scan\Data\289
+ARCHIVE: no
+INFECTED: no
+
+===== 1289 =====
+FILE: g:\Scan\Data\29
+ARCHIVE: no
+INFECTED: no
+
+===== 1290 =====
+FILE: g:\Scan\Data\290
+ARCHIVE: no
+INFECTED: no
+
+===== 1291 =====
+FILE: g:\Scan\Data\291
+ARCHIVE: no
+INFECTED: no
+
+===== 1292 =====
+FILE: g:\Scan\Data\292
+ARCHIVE: no
+INFECTED: no
+
+===== 1293 =====
+FILE: g:\Scan\Data\293
+ARCHIVE: no
+INFECTED: no
+
+===== 1294 =====
+FILE: g:\Scan\Data\294
+ARCHIVE: no
+INFECTED: no
+
+===== 1295 =====
+FILE: g:\Scan\Data\295
+ARCHIVE: no
+INFECTED: no
+
+===== 1296 =====
+FILE: g:\Scan\Data\296
+ARCHIVE: no
+INFECTED: no
+
+===== 1297 =====
+FILE: g:\Scan\Data\297
+ARCHIVE: no
+INFECTED: no
+
+===== 1298 =====
+FILE: g:\Scan\Data\298
+ARCHIVE: no
+INFECTED: no
+
+===== 1299 =====
+FILE: g:\Scan\Data\299
+ARCHIVE: no
+INFECTED: no
+
+===== 1300 =====
+FILE: g:\Scan\Data\3.ii
+ARCHIVE: no
+INFECTED: no
+
+===== 1301 =====
+FILE: g:\Scan\Data\30
+ARCHIVE: no
+INFECTED: no
+
+===== 1302 =====
+FILE: g:\Scan\Data\300
+ARCHIVE: no
+INFECTED: no
+
+===== 1303 =====
+FILE: g:\Scan\Data\301
+ARCHIVE: no
+INFECTED: no
+
+===== 1304 =====
+FILE: g:\Scan\Data\302
+ARCHIVE: no
+INFECTED: no
+
+===== 1305 =====
+FILE: g:\Scan\Data\303
+ARCHIVE: no
+INFECTED: no
+
+===== 1306 =====
+FILE: g:\Scan\Data\304
+ARCHIVE: no
+INFECTED: no
+
+===== 1307 =====
+FILE: g:\Scan\Data\305
+ARCHIVE: no
+INFECTED: no
+
+===== 1308 =====
+FILE: g:\Scan\Data\306
+ARCHIVE: no
+INFECTED: no
+
+===== 1309 =====
+FILE: g:\Scan\Data\307
+ARCHIVE: no
+INFECTED: no
+
+===== 1310 =====
+FILE: g:\Scan\Data\308
+ARCHIVE: no
+INFECTED: no
+
+===== 1311 =====
+FILE: g:\Scan\Data\309
+ARCHIVE: no
+INFECTED: no
+
+===== 1312 =====
+FILE: g:\Scan\Data\31
+ARCHIVE: no
+INFECTED: no
+
+===== 1313 =====
+FILE: g:\Scan\Data\310
+ARCHIVE: no
+INFECTED: no
+
+===== 1314 =====
+FILE: g:\Scan\Data\311
+ARCHIVE: yes
+PACKERS: 
+   - INSTALLMATE
+INFECTED: yes
+INFILTRATIONS: 
+   - Win32/InstalleRex.C potentially unwanted application
+
+===== 1315 =====
+FILE: g:\Scan\Data\312
+ARCHIVE: no
+INFECTED: no
+
+===== 1316 =====
+FILE: g:\Scan\Data\313
+ARCHIVE: no
+INFECTED: no
+
+===== 1317 =====
+FILE: g:\Scan\Data\314
+ARCHIVE: no
+INFECTED: no
+
+===== 1318 =====
+FILE: g:\Scan\Data\315
+ARCHIVE: no
+INFECTED: no
+
+===== 1319 =====
+FILE: g:\Scan\Data\316
+ARCHIVE: no
+INFECTED: no
+
+===== 1320 =====
+FILE: g:\Scan\Data\317
+ARCHIVE: no
+INFECTED: no
+
+===== 1321 =====
+FILE: g:\Scan\Data\318
+ARCHIVE: no
+INFECTED: no
+
+===== 1322 =====
+FILE: g:\Scan\Data\319
+ARCHIVE: no
+INFECTED: no
+
+===== 1323 =====
+FILE: g:\Scan\Data\32
+ARCHIVE: no
+INFECTED: no
+
+===== 1324 =====
+FILE: g:\Scan\Data\320
+ARCHIVE: yes
+PACKERS: 
+   - PECompact v2.xx
+INFECTED: no
+
+===== 1325 =====
+FILE: g:\Scan\Data\321
+ARCHIVE: no
+INFECTED: no
+
+===== 1326 =====
+FILE: g:\Scan\Data\322
+ARCHIVE: no
+INFECTED: no
+
+===== 1327 =====
+FILE: g:\Scan\Data\323
+ARCHIVE: no
+INFECTED: no
+
+===== 1328 =====
+FILE: g:\Scan\Data\324
+ARCHIVE: no
+INFECTED: no
+
+===== 1329 =====
+FILE: g:\Scan\Data\325.bad
+ARCHIVE: no
+INFECTED: no
+
+===== 1330 =====
+FILE: g:\Scan\Data\326
+ARCHIVE: no
+INFECTED: no
+
+===== 1331 =====
+FILE: g:\Scan\Data\327
+ARCHIVE: no
+INFECTED: no
+
+===== 1332 =====
+FILE: g:\Scan\Data\328
+ARCHIVE: no
+INFECTED: no
+
+===== 1333 =====
+FILE: g:\Scan\Data\329
+ARCHIVE: no
+INFECTED: no
+
+===== 1334 =====
+FILE: g:\Scan\Data\33
+ARCHIVE: no
+INFECTED: no
+
+===== 1335 =====
+FILE: g:\Scan\Data\330
+ARCHIVE: no
+INFECTED: no
+
+===== 1336 =====
+FILE: g:\Scan\Data\331
+ARCHIVE: no
+INFECTED: no
+
+===== 1337 =====
+FILE: g:\Scan\Data\332
+ARCHIVE: yes
+PACKERS: 
+   - UPX v13_m2
+INFECTED: yes
+INFILTRATIONS: 
+   - a variant of Win32/Injector.RXV trojan
+
+===== 1338 =====
+FILE: g:\Scan\Data\333
+ARCHIVE: no
+INFECTED: no
+
+===== 1339 =====
+FILE: g:\Scan\Data\334
+ARCHIVE: no
+INFECTED: no
+
+===== 1340 =====
+FILE: g:\Scan\Data\335
+ARCHIVE: no
+INFECTED: no
+
+===== 1341 =====
+FILE: g:\Scan\Data\336
+ARCHIVE: no
+INFECTED: no
+
+===== 1342 =====
+FILE: g:\Scan\Data\337
+ARCHIVE: no
+INFECTED: no
+
+===== 1343 =====
+FILE: g:\Scan\Data\338
+ARCHIVE: no
+INFECTED: no
+
+===== 1344 =====
+FILE: g:\Scan\Data\339
+ARCHIVE: no
+INFECTED: no
+
+===== 1345 =====
+FILE: g:\Scan\Data\34
+ARCHIVE: no
+INFECTED: no
+
+===== 1346 =====
+FILE: g:\Scan\Data\340.exe
+ARCHIVE: no
+INFECTED: no
+
+===== 1347 =====
+FILE: g:\Scan\Data\341
+ARCHIVE: no
+INFECTED: no
+
+===== 1348 =====
+FILE: g:\Scan\Data\342
+ARCHIVE: no
+INFECTED: no
+
+===== 1349 =====
+FILE: g:\Scan\Data\343
+ARCHIVE: no
+INFECTED: no
+
+===== 1350 =====
+FILE: g:\Scan\Data\344
+ARCHIVE: no
+INFECTED: no
+
+===== 1351 =====
+FILE: g:\Scan\Data\345
+ARCHIVE: no
+INFECTED: no
+
+===== 1352 =====
+FILE: g:\Scan\Data\346
+ARCHIVE: no
+INFECTED: no
+
+===== 1353 =====
+FILE: g:\Scan\Data\347
+ARCHIVE: no
+INFECTED: no
+
+===== 1354 =====
+FILE: g:\Scan\Data\348
+ARCHIVE: no
+INFECTED: no
+
+===== 1355 =====
+FILE: g:\Scan\Data\349
+ARCHIVE: no
+INFECTED: no
+
+===== 1356 =====
+FILE: g:\Scan\Data\35
+ARCHIVE: no
+INFECTED: no
+
+===== 1357 =====
+FILE: g:\Scan\Data\350
+ARCHIVE: no
+INFECTED: no
+
+===== 1358 =====
+FILE: g:\Scan\Data\351
+ARCHIVE: no
+INFECTED: no
+
+===== 1359 =====
+FILE: g:\Scan\Data\352
+ARCHIVE: no
+INFECTED: no
+
+===== 1360 =====
+FILE: g:\Scan\Data\353
+ARCHIVE: no
+INFECTED: no
+
+===== 1361 =====
+FILE: g:\Scan\Data\354
+ARCHIVE: no
+INFECTED: no
+
+===== 1362 =====
+FILE: g:\Scan\Data\355
+ARCHIVE: no
+INFECTED: no
+
+===== 1363 =====
+FILE: g:\Scan\Data\356
+ARCHIVE: no
+INFECTED: no
+
+===== 1364 =====
+FILE: g:\Scan\Data\357
+ARCHIVE: no
+INFECTED: no
+
+===== 1365 =====
+FILE: g:\Scan\Data\358
+ARCHIVE: no
+INFECTED: no
+
+===== 1366 =====
+FILE: g:\Scan\Data\359
+ARCHIVE: no
+INFECTED: no
+
+===== 1367 =====
+FILE: g:\Scan\Data\36
+ARCHIVE: no
+INFECTED: no
+
+===== 1368 =====
+FILE: g:\Scan\Data\360
+ARCHIVE: no
+INFECTED: no
+
+===== 1369 =====
+FILE: g:\Scan\Data\361
+ARCHIVE: no
+INFECTED: no
+
+===== 1370 =====
+FILE: g:\Scan\Data\362
+ARCHIVE: no
+INFECTED: no
+
+===== 1371 =====
+FILE: g:\Scan\Data\363
+ARCHIVE: no
+INFECTED: no
+
+===== 1372 =====
+FILE: g:\Scan\Data\364
+ARCHIVE: no
+INFECTED: no
+
+===== 1373 =====
+FILE: g:\Scan\Data\365
+ARCHIVE: no
+INFECTED: no
+
+===== 1374 =====
+FILE: g:\Scan\Data\366
+ARCHIVE: no
+INFECTED: no
+
+===== 1375 =====
+FILE: g:\Scan\Data\367
+ARCHIVE: no
+INFECTED: no
+
+===== 1376 =====
+FILE: g:\Scan\Data\368
+ARCHIVE: no
+INFECTED: no
+
+===== 1377 =====
+FILE: g:\Scan\Data\369
+ARCHIVE: no
+INFECTED: no
+
+===== 1378 =====
+FILE: g:\Scan\Data\37
+ARCHIVE: no
+INFECTED: no
+
+===== 1379 =====
+FILE: g:\Scan\Data\370
+ARCHIVE: yes
+PACKERS: 
+   - NSIS
+   - UPX v13_m2
+INFECTED: yes
+INFILTRATIONS: 
+   - Win32/DownloadAdmin.A.Gen potentially unwanted application
+   - Win32/DownloadAdmin.G potentially unwanted application
+
+===== 1380 =====
+FILE: g:\Scan\Data\371
+ARCHIVE: no
+INFECTED: no
+
+===== 1381 =====
+FILE: g:\Scan\Data\372
+ARCHIVE: no
+INFECTED: no
+
+===== 1382 =====
+FILE: g:\Scan\Data\373
+ARCHIVE: no
+INFECTED: no
+
+===== 1383 =====
+FILE: g:\Scan\Data\374
+ARCHIVE: yes
+PACKERS: 
+   - 7ZIP
+INFECTED: no
+
+===== 1384 =====
+FILE: g:\Scan\Data\375
+ARCHIVE: no
+INFECTED: no
+
+===== 1385 =====
+FILE: g:\Scan\Data\376
+ARCHIVE: yes
+PACKERS: 
+   - NSIS
+INFECTED: yes
+INFILTRATIONS: 
+   - Win32/StartPage.OCY trojan
+
+===== 1386 =====
+FILE: g:\Scan\Data\377
+ARCHIVE: no
+INFECTED: no
+
+===== 1387 =====
+FILE: g:\Scan\Data\378
+ARCHIVE: no
+INFECTED: no
+
+===== 1388 =====
+FILE: g:\Scan\Data\379
+ARCHIVE: no
+INFECTED: no
+
+===== 1389 =====
+FILE: g:\Scan\Data\38
+ARCHIVE: no
+INFECTED: no
+
+===== 1390 =====
+FILE: g:\Scan\Data\380
+ARCHIVE: no
+INFECTED: no
+
+===== 1391 =====
+FILE: g:\Scan\Data\381
+ARCHIVE: no
+INFECTED: no
+
+===== 1392 =====
+FILE: g:\Scan\Data\382
+ARCHIVE: no
+INFECTED: no
+
+===== 1393 =====
+FILE: g:\Scan\Data\383
+ARCHIVE: no
+INFECTED: no
+
+===== 1394 =====
+FILE: g:\Scan\Data\384
+ARCHIVE: no
+INFECTED: no
+
+===== 1395 =====
+FILE: g:\Scan\Data\385
+ARCHIVE: no
+INFECTED: no
+
+===== 1396 =====
+FILE: g:\Scan\Data\386
+ARCHIVE: no
+INFECTED: no
+
+===== 1397 =====
+FILE: g:\Scan\Data\387
+ARCHIVE: no
+INFECTED: no
+
+===== 1398 =====
+FILE: g:\Scan\Data\388
+ARCHIVE: no
+INFECTED: no
+
+===== 1399 =====
+FILE: g:\Scan\Data\389
+ARCHIVE: no
+INFECTED: no
+
+===== 1400 =====
+FILE: g:\Scan\Data\39
+ARCHIVE: no
+INFECTED: no
+
+===== 1401 =====
+FILE: g:\Scan\Data\390
+ARCHIVE: no
+INFECTED: no
+
+===== 1402 =====
+FILE: g:\Scan\Data\391
+ARCHIVE: no
+INFECTED: no
+
+===== 1403 =====
+FILE: g:\Scan\Data\392
+ARCHIVE: no
+INFECTED: no
+
+===== 1404 =====
+FILE: g:\Scan\Data\393
+ARCHIVE: no
+INFECTED: no
+
+===== 1405 =====
+FILE: g:\Scan\Data\394
+ARCHIVE: yes
+PACKERS: 
+   - ASPack v2.2
+INFECTED: no
+
+===== 1406 =====
+FILE: g:\Scan\Data\395
+ARCHIVE: no
+INFECTED: no
+
+===== 1407 =====
+FILE: g:\Scan\Data\396
+ARCHIVE: no
+INFECTED: no
+
+===== 1408 =====
+FILE: g:\Scan\Data\397
+ARCHIVE: no
+INFECTED: no
+
+===== 1409 =====
+FILE: g:\Scan\Data\398
+ARCHIVE: no
+INFECTED: no
+
+===== 1410 =====
+FILE: g:\Scan\Data\399
+ARCHIVE: no
+INFECTED: no
+
+===== 1411 =====
+FILE: g:\Scan\Data\4.bad
+ARCHIVE: no
+INFECTED: no
+
+===== 1412 =====
+FILE: g:\Scan\Data\40
+ARCHIVE: no
+INFECTED: no
+
+===== 1413 =====
+FILE: g:\Scan\Data\400
+ARCHIVE: no
+INFECTED: no
+
+===== 1414 =====
+FILE: g:\Scan\Data\401
+ARCHIVE: no
+INFECTED: no
+
+===== 1415 =====
+FILE: g:\Scan\Data\402
+ARCHIVE: no
+INFECTED: no
+
+===== 1416 =====
+FILE: g:\Scan\Data\403
+ARCHIVE: no
+INFECTED: no
+
+===== 1417 =====
+FILE: g:\Scan\Data\404
+ARCHIVE: no
+INFECTED: no
+
+===== 1418 =====
+FILE: g:\Scan\Data\405
+ARCHIVE: no
+INFECTED: no
+
+===== 1419 =====
+FILE: g:\Scan\Data\406
+ARCHIVE: no
+INFECTED: no
+
+===== 1420 =====
+FILE: g:\Scan\Data\407
+ARCHIVE: no
+INFECTED: no
+
+===== 1421 =====
+FILE: g:\Scan\Data\408
+ARCHIVE: no
+INFECTED: no
+
+===== 1422 =====
+FILE: g:\Scan\Data\409
+ARCHIVE: no
+INFECTED: no
+
+===== 1423 =====
+FILE: g:\Scan\Data\41
+ARCHIVE: no
+INFECTED: no
+
+===== 1424 =====
+FILE: g:\Scan\Data\410
+ARCHIVE: no
+INFECTED: no
+
+===== 1425 =====
+FILE: g:\Scan\Data\411
+ARCHIVE: no
+INFECTED: no
+
+===== 1426 =====
+FILE: g:\Scan\Data\412
+ARCHIVE: no
+INFECTED: no
+
+===== 1427 =====
+FILE: g:\Scan\Data\413
+ARCHIVE: no
+INFECTED: no
+
+===== 1428 =====
+FILE: g:\Scan\Data\414
+ARCHIVE: no
+INFECTED: no
+
+===== 1429 =====
+FILE: g:\Scan\Data\415
+ARCHIVE: no
+INFECTED: no
+
+===== 1430 =====
+FILE: g:\Scan\Data\416
+ARCHIVE: no
+INFECTED: no
+
+===== 1431 =====
+FILE: g:\Scan\Data\417
+ARCHIVE: no
+INFECTED: no
+
+===== 1432 =====
+FILE: g:\Scan\Data\418
+ARCHIVE: yes
+PACKERS: 
+   - INSTALLMATE
+INFECTED: yes
+INFILTRATIONS: 
+   - Win32/InstalleRex.C potentially unwanted application
+
+===== 1433 =====
+FILE: g:\Scan\Data\419
+ARCHIVE: no
+INFECTED: no
+
+===== 1434 =====
+FILE: g:\Scan\Data\42
+ARCHIVE: no
+INFECTED: no
+
+===== 1435 =====
+FILE: g:\Scan\Data\420
+ARCHIVE: no
+INFECTED: no
+
+===== 1436 =====
+FILE: g:\Scan\Data\421
+ARCHIVE: no
+INFECTED: no
+
+===== 1437 =====
+FILE: g:\Scan\Data\422
+ARCHIVE: no
+INFECTED: no
+
+===== 1438 =====
+FILE: g:\Scan\Data\423
+ARCHIVE: no
+INFECTED: no
+
+===== 1439 =====
+FILE: g:\Scan\Data\424
+ARCHIVE: no
+INFECTED: no
+
+===== 1440 =====
+FILE: g:\Scan\Data\425
+ARCHIVE: no
+INFECTED: no
+
+===== 1441 =====
+FILE: g:\Scan\Data\426
+ARCHIVE: no
+INFECTED: no
+
+===== 1442 =====
+FILE: g:\Scan\Data\427
+ARCHIVE: no
+INFECTED: no
+
+===== 1443 =====
+FILE: g:\Scan\Data\428
+ARCHIVE: no
+INFECTED: no
+
+===== 1444 =====
+FILE: g:\Scan\Data\429
+ARCHIVE: no
+INFECTED: no
+
+===== 1445 =====
+FILE: g:\Scan\Data\43
+ARCHIVE: no
+INFECTED: no
+
+===== 1446 =====
+FILE: g:\Scan\Data\430
+ARCHIVE: no
+INFECTED: no
+
+===== 1447 =====
+FILE: g:\Scan\Data\431
+ARCHIVE: no
+INFECTED: no
+
+===== 1448 =====
+FILE: g:\Scan\Data\432
+ARCHIVE: no
+INFECTED: no
+
+===== 1449 =====
+FILE: g:\Scan\Data\433
+ARCHIVE: no
+INFECTED: no
+
+===== 1450 =====
+FILE: g:\Scan\Data\434
+ARCHIVE: no
+INFECTED: no
+
+===== 1451 =====
+FILE: g:\Scan\Data\435
+ARCHIVE: no
+INFECTED: no
+
+===== 1452 =====
+FILE: g:\Scan\Data\436
+ARCHIVE: no
+INFECTED: no
+
+===== 1453 =====
+FILE: g:\Scan\Data\437
+ARCHIVE: no
+INFECTED: no
+
+===== 1454 =====
+FILE: g:\Scan\Data\438
+ARCHIVE: no
+INFECTED: no
+
+===== 1455 =====
+FILE: g:\Scan\Data\439
+ARCHIVE: no
+INFECTED: no
+
+===== 1456 =====
+FILE: g:\Scan\Data\44
+ARCHIVE: no
+INFECTED: no
+
+===== 1457 =====
+FILE: g:\Scan\Data\440
+ARCHIVE: no
+INFECTED: no
+
+===== 1458 =====
+FILE: g:\Scan\Data\441
+ARCHIVE: no
+INFECTED: no
+
+===== 1459 =====
+FILE: g:\Scan\Data\442
+ARCHIVE: no
+INFECTED: no
+
+===== 1460 =====
+FILE: g:\Scan\Data\443
+ARCHIVE: no
+INFECTED: no
+
+===== 1461 =====
+FILE: g:\Scan\Data\444
+ARCHIVE: no
+INFECTED: no
+
+===== 1462 =====
+FILE: g:\Scan\Data\445
+ARCHIVE: no
+INFECTED: no
+
+===== 1463 =====
+FILE: g:\Scan\Data\446
+ARCHIVE: no
+INFECTED: no
+
+===== 1464 =====
+FILE: g:\Scan\Data\447
+ARCHIVE: no
+INFECTED: no
+
+===== 1465 =====
+FILE: g:\Scan\Data\448
+ARCHIVE: no
+INFECTED: no
+
+===== 1466 =====
+FILE: g:\Scan\Data\449
+ARCHIVE: no
+INFECTED: no
+
+===== 1467 =====
+FILE: g:\Scan\Data\45
+ARCHIVE: no
+INFECTED: no
+
+===== 1468 =====
+FILE: g:\Scan\Data\450
+ARCHIVE: no
+INFECTED: no
+
+===== 1469 =====
+FILE: g:\Scan\Data\451
+ARCHIVE: no
+INFECTED: no
+
+===== 1470 =====
+FILE: g:\Scan\Data\452
+ARCHIVE: no
+INFECTED: no
+
+===== 1471 =====
+FILE: g:\Scan\Data\453
+ARCHIVE: no
+INFECTED: no
+
+===== 1472 =====
+FILE: g:\Scan\Data\454
+ARCHIVE: no
+INFECTED: no
+
+===== 1473 =====
+FILE: g:\Scan\Data\455
+ARCHIVE: no
+INFECTED: no
+
+===== 1474 =====
+FILE: g:\Scan\Data\456
+ARCHIVE: no
+INFECTED: no
+
+===== 1475 =====
+FILE: g:\Scan\Data\457
+ARCHIVE: no
+INFECTED: no
+
+===== 1476 =====
+FILE: g:\Scan\Data\458
+ARCHIVE: no
+INFECTED: no
+
+===== 1477 =====
+FILE: g:\Scan\Data\459
+ARCHIVE: no
+INFECTED: no
+
+===== 1478 =====
+FILE: g:\Scan\Data\46
+ARCHIVE: no
+INFECTED: no
+
+===== 1479 =====
+FILE: g:\Scan\Data\460
+ARCHIVE: no
+INFECTED: no
+
+===== 1480 =====
+FILE: g:\Scan\Data\461
+ARCHIVE: no
+INFECTED: no
+
+===== 1481 =====
+FILE: g:\Scan\Data\462
+ARCHIVE: no
+INFECTED: no
+
+===== 1482 =====
+FILE: g:\Scan\Data\463
+ARCHIVE: no
+INFECTED: no
+
+===== 1483 =====
+FILE: g:\Scan\Data\464
+ARCHIVE: no
+INFECTED: no
+
+===== 1484 =====
+FILE: g:\Scan\Data\465
+ARCHIVE: no
+INFECTED: no
+
+===== 1485 =====
+FILE: g:\Scan\Data\466
+ARCHIVE: no
+INFECTED: no
+
+===== 1486 =====
+FILE: g:\Scan\Data\467
+ARCHIVE: no
+INFECTED: no
+
+===== 1487 =====
+FILE: g:\Scan\Data\468
+ARCHIVE: no
+INFECTED: no
+
+===== 1488 =====
+FILE: g:\Scan\Data\469
+ARCHIVE: no
+INFECTED: no
+
+===== 1489 =====
+FILE: g:\Scan\Data\47
+ARCHIVE: no
+INFECTED: no
+
+===== 1490 =====
+FILE: g:\Scan\Data\470
+ARCHIVE: no
+INFECTED: no
+
+===== 1491 =====
+FILE: g:\Scan\Data\471
+ARCHIVE: no
+INFECTED: no
+
+===== 1492 =====
+FILE: g:\Scan\Data\472
+ARCHIVE: no
+INFECTED: no
+
+===== 1493 =====
+FILE: g:\Scan\Data\473
+ARCHIVE: no
+INFECTED: no
+
+===== 1494 =====
+FILE: g:\Scan\Data\474
+ARCHIVE: no
+INFECTED: no
+
+===== 1495 =====
+FILE: g:\Scan\Data\475
+ARCHIVE: no
+INFECTED: no
+
+===== 1496 =====
+FILE: g:\Scan\Data\476
+ARCHIVE: no
+INFECTED: no
+
+===== 1497 =====
+FILE: g:\Scan\Data\477
+ARCHIVE: no
+INFECTED: no
+
+===== 1498 =====
+FILE: g:\Scan\Data\478
+ARCHIVE: no
+INFECTED: no
+
+===== 1499 =====
+FILE: g:\Scan\Data\479
+ARCHIVE: no
+INFECTED: no
+
+===== 1500 =====
+FILE: g:\Scan\Data\48
+ARCHIVE: no
+INFECTED: no
+
+===== 1501 =====
+FILE: g:\Scan\Data\480
+ARCHIVE: no
+INFECTED: no
+
+===== 1502 =====
+FILE: g:\Scan\Data\481
+ARCHIVE: no
+INFECTED: no
+
+===== 1503 =====
+FILE: g:\Scan\Data\482
+ARCHIVE: no
+INFECTED: no
+
+===== 1504 =====
+FILE: g:\Scan\Data\483
+ARCHIVE: no
+INFECTED: no
+
+===== 1505 =====
+FILE: g:\Scan\Data\484
+ARCHIVE: no
+INFECTED: no
+
+===== 1506 =====
+FILE: g:\Scan\Data\485
+ARCHIVE: no
+INFECTED: no
+
+===== 1507 =====
+FILE: g:\Scan\Data\486
+ARCHIVE: no
+INFECTED: no
+
+===== 1508 =====
+FILE: g:\Scan\Data\487
+ARCHIVE: no
+INFECTED: no
+
+===== 1509 =====
+FILE: g:\Scan\Data\488
+ARCHIVE: no
+INFECTED: no
+
+===== 1510 =====
+FILE: g:\Scan\Data\489
+ARCHIVE: no
+INFECTED: no
+
+===== 1511 =====
+FILE: g:\Scan\Data\49
+ARCHIVE: no
+INFECTED: no
+
+===== 1512 =====
+FILE: g:\Scan\Data\490
+ARCHIVE: no
+INFECTED: no
+
+===== 1513 =====
+FILE: g:\Scan\Data\491
+ARCHIVE: no
+INFECTED: no
+
+===== 1514 =====
+FILE: g:\Scan\Data\492
+ARCHIVE: no
+INFECTED: no
+
+===== 1515 =====
+FILE: g:\Scan\Data\493
+ARCHIVE: no
+INFECTED: no
+
+===== 1516 =====
+FILE: g:\Scan\Data\494
+ARCHIVE: no
+INFECTED: no
+
+===== 1517 =====
+FILE: g:\Scan\Data\495
+ARCHIVE: no
+INFECTED: no
+
+===== 1518 =====
+FILE: g:\Scan\Data\496
+ARCHIVE: no
+INFECTED: no
+
+===== 1519 =====
+FILE: g:\Scan\Data\497
+ARCHIVE: no
+INFECTED: no
+
+===== 1520 =====
+FILE: g:\Scan\Data\498
+ARCHIVE: no
+INFECTED: no
+
+===== 1521 =====
+FILE: g:\Scan\Data\499
+ARCHIVE: no
+INFECTED: no
+
+===== 1522 =====
+FILE: g:\Scan\Data\5.exe
+ARCHIVE: no
+INFECTED: no
+
+===== 1523 =====
+FILE: g:\Scan\Data\50
+ARCHIVE: no
+INFECTED: no
+
+===== 1524 =====
+FILE: g:\Scan\Data\500
+ARCHIVE: no
+INFECTED: no
+
+===== 1525 =====
+FILE: g:\Scan\Data\501
+ARCHIVE: no
+INFECTED: no
+
+===== 1526 =====
+FILE: g:\Scan\Data\502
+ARCHIVE: no
+INFECTED: no
+
+===== 1527 =====
+FILE: g:\Scan\Data\503
+ARCHIVE: no
+INFECTED: no
+
+===== 1528 =====
+FILE: g:\Scan\Data\504
+ARCHIVE: no
+INFECTED: no
+
+===== 1529 =====
+FILE: g:\Scan\Data\505
+ARCHIVE: no
+INFECTED: no
+
+===== 1530 =====
+FILE: g:\Scan\Data\506
+ARCHIVE: no
+INFECTED: no
+
+===== 1531 =====
+FILE: g:\Scan\Data\507
+ARCHIVE: no
+INFECTED: no
+
+===== 1532 =====
+FILE: g:\Scan\Data\508
+ARCHIVE: no
+INFECTED: no
+
+===== 1533 =====
+FILE: g:\Scan\Data\509
+ARCHIVE: no
+INFECTED: no
+
+===== 1534 =====
+FILE: g:\Scan\Data\51.vbin
+ARCHIVE: yes
+PACKERS: 
+   - ASPack v2.12
+INFECTED: no
+
+===== 1535 =====
+FILE: g:\Scan\Data\510
+ARCHIVE: no
+INFECTED: no
+
+===== 1536 =====
+FILE: g:\Scan\Data\511
+ARCHIVE: no
+INFECTED: no
+
+===== 1537 =====
+FILE: g:\Scan\Data\512
+ARCHIVE: no
+INFECTED: no
+
+===== 1538 =====
+FILE: g:\Scan\Data\513
+ARCHIVE: no
+INFECTED: no
+
+===== 1539 =====
+FILE: g:\Scan\Data\514
+ARCHIVE: no
+INFECTED: no
+
+===== 1540 =====
+FILE: g:\Scan\Data\515
+ARCHIVE: no
+INFECTED: no
+
+===== 1541 =====
+FILE: g:\Scan\Data\516
+ARCHIVE: no
+INFECTED: no
+
+===== 1542 =====
+FILE: g:\Scan\Data\517
+ARCHIVE: no
+INFECTED: no
+
+===== 1543 =====
+FILE: g:\Scan\Data\518
+ARCHIVE: no
+INFECTED: no
+
+===== 1544 =====
+FILE: g:\Scan\Data\519
+ARCHIVE: no
+INFECTED: no
+
+===== 1545 =====
+FILE: g:\Scan\Data\52
+ARCHIVE: no
+INFECTED: no
+
+===== 1546 =====
+FILE: g:\Scan\Data\520
+ARCHIVE: no
+INFECTED: no
+
+===== 1547 =====
+FILE: g:\Scan\Data\521
+ARCHIVE: no
+INFECTED: no
+
+===== 1548 =====
+FILE: g:\Scan\Data\522
+ARCHIVE: no
+INFECTED: no
+
+===== 1549 =====
+FILE: g:\Scan\Data\523
+ARCHIVE: no
+INFECTED: no
+
+===== 1550 =====
+FILE: g:\Scan\Data\524
+ARCHIVE: no
+INFECTED: no
+
+===== 1551 =====
+FILE: g:\Scan\Data\525
+ARCHIVE: no
+INFECTED: no
+
+===== 1552 =====
+FILE: g:\Scan\Data\526
+ARCHIVE: no
+INFECTED: no
+
+===== 1553 =====
+FILE: g:\Scan\Data\527
+ARCHIVE: no
+INFECTED: no
+
+===== 1554 =====
+FILE: g:\Scan\Data\528
+ARCHIVE: no
+INFECTED: no
+
+===== 1555 =====
+FILE: g:\Scan\Data\529
+ARCHIVE: no
+INFECTED: no
+
+===== 1556 =====
+FILE: g:\Scan\Data\53
+ARCHIVE: no
+INFECTED: no
+
+===== 1557 =====
+FILE: g:\Scan\Data\530
+ARCHIVE: no
+INFECTED: no
+
+===== 1558 =====
+FILE: g:\Scan\Data\531
+ARCHIVE: no
+INFECTED: no
+
+===== 1559 =====
+FILE: g:\Scan\Data\532
+ARCHIVE: no
+INFECTED: no
+
+===== 1560 =====
+FILE: g:\Scan\Data\533
+ARCHIVE: no
+INFECTED: no
+
+===== 1561 =====
+FILE: g:\Scan\Data\534
+ARCHIVE: no
+INFECTED: no
+
+===== 1562 =====
+FILE: g:\Scan\Data\535
+ARCHIVE: no
+INFECTED: no
+
+===== 1563 =====
+FILE: g:\Scan\Data\536
+ARCHIVE: no
+INFECTED: no
+
+===== 1564 =====
+FILE: g:\Scan\Data\537
+ARCHIVE: yes
+PACKERS: 
+   - UPX v13_m14
+INFECTED: no
+
+===== 1565 =====
+FILE: g:\Scan\Data\538
+ARCHIVE: no
+INFECTED: no
+
+===== 1566 =====
+FILE: g:\Scan\Data\539
+ARCHIVE: no
+INFECTED: no
+
+===== 1567 =====
+FILE: g:\Scan\Data\54
+ARCHIVE: no
+INFECTED: no
+
+===== 1568 =====
+FILE: g:\Scan\Data\540
+ARCHIVE: no
+INFECTED: no
+
+===== 1569 =====
+FILE: g:\Scan\Data\541
+ARCHIVE: no
+INFECTED: no
+
+===== 1570 =====
+FILE: g:\Scan\Data\542
+ARCHIVE: no
+INFECTED: no
+
+===== 1571 =====
+FILE: g:\Scan\Data\543
+ARCHIVE: no
+INFECTED: no
+
+===== 1572 =====
+FILE: g:\Scan\Data\544
+ARCHIVE: no
+INFECTED: no
+
+===== 1573 =====
+FILE: g:\Scan\Data\545
+ARCHIVE: no
+INFECTED: no
+
+===== 1574 =====
+FILE: g:\Scan\Data\546
+ARCHIVE: no
+INFECTED: no
+
+===== 1575 =====
+FILE: g:\Scan\Data\547
+ARCHIVE: no
+INFECTED: no
+
+===== 1576 =====
+FILE: g:\Scan\Data\548
+ARCHIVE: no
+INFECTED: no
+
+===== 1577 =====
+FILE: g:\Scan\Data\549
+ARCHIVE: no
+INFECTED: no
+
+===== 1578 =====
+FILE: g:\Scan\Data\55
+ARCHIVE: no
+INFECTED: no
+
+===== 1579 =====
+FILE: g:\Scan\Data\550
+ARCHIVE: no
+INFECTED: no
+
+===== 1580 =====
+FILE: g:\Scan\Data\551
+ARCHIVE: no
+INFECTED: no
+
+===== 1581 =====
+FILE: g:\Scan\Data\552
+ARCHIVE: no
+INFECTED: no
+
+===== 1582 =====
+FILE: g:\Scan\Data\553
+ARCHIVE: no
+INFECTED: no
+
+===== 1583 =====
+FILE: g:\Scan\Data\554
+ARCHIVE: no
+INFECTED: no
+
+===== 1584 =====
+FILE: g:\Scan\Data\555
+ARCHIVE: no
+INFECTED: no
+
+===== 1585 =====
+FILE: g:\Scan\Data\556
+ARCHIVE: no
+INFECTED: no
+
+===== 1586 =====
+FILE: g:\Scan\Data\557
+ARCHIVE: no
+INFECTED: no
+
+===== 1587 =====
+FILE: g:\Scan\Data\558
+ARCHIVE: no
+INFECTED: no
+
+===== 1588 =====
+FILE: g:\Scan\Data\559
+ARCHIVE: no
+INFECTED: no
+
+===== 1589 =====
+FILE: g:\Scan\Data\56
+ARCHIVE: no
+INFECTED: no
+
+===== 1590 =====
+FILE: g:\Scan\Data\560
+ARCHIVE: no
+INFECTED: no
+
+===== 1591 =====
+FILE: g:\Scan\Data\561
+ARCHIVE: no
+INFECTED: no
+
+===== 1592 =====
+FILE: g:\Scan\Data\562
+ARCHIVE: no
+INFECTED: no
+
+===== 1593 =====
+FILE: g:\Scan\Data\563
+ARCHIVE: no
+INFECTED: no
+
+===== 1594 =====
+FILE: g:\Scan\Data\564
+ARCHIVE: no
+INFECTED: no
+
+===== 1595 =====
+FILE: g:\Scan\Data\565
+ARCHIVE: no
+INFECTED: no
+
+===== 1596 =====
+FILE: g:\Scan\Data\566
+ARCHIVE: no
+INFECTED: no
+
+===== 1597 =====
+FILE: g:\Scan\Data\567
+ARCHIVE: no
+INFECTED: no
+
+===== 1598 =====
+FILE: g:\Scan\Data\568
+ARCHIVE: no
+INFECTED: no
+
+===== 1599 =====
+FILE: g:\Scan\Data\569
+ARCHIVE: no
+INFECTED: no
+
+===== 1600 =====
+FILE: g:\Scan\Data\57
+ARCHIVE: no
+INFECTED: no
+
+===== 1601 =====
+FILE: g:\Scan\Data\570
+ARCHIVE: no
+INFECTED: no
+
+===== 1602 =====
+FILE: g:\Scan\Data\571
+ARCHIVE: no
+INFECTED: no
+
+===== 1603 =====
+FILE: g:\Scan\Data\572
+ARCHIVE: no
+INFECTED: no
+
+===== 1604 =====
+FILE: g:\Scan\Data\573
+ARCHIVE: no
+INFECTED: no
+
+===== 1605 =====
+FILE: g:\Scan\Data\574
+ARCHIVE: no
+INFECTED: no
+
+===== 1606 =====
+FILE: g:\Scan\Data\575
+ARCHIVE: no
+INFECTED: no
+
+===== 1607 =====
+FILE: g:\Scan\Data\576
+ARCHIVE: no
+INFECTED: no
+
+===== 1608 =====
+FILE: g:\Scan\Data\577
+ARCHIVE: no
+INFECTED: no
+
+===== 1609 =====
+FILE: g:\Scan\Data\578
+ARCHIVE: no
+INFECTED: no
+
+===== 1610 =====
+FILE: g:\Scan\Data\579
+ARCHIVE: no
+INFECTED: no
+
+===== 1611 =====
+FILE: g:\Scan\Data\58
+ARCHIVE: no
+INFECTED: no
+
+===== 1612 =====
+FILE: g:\Scan\Data\580
+ARCHIVE: no
+INFECTED: no
+
+===== 1613 =====
+FILE: g:\Scan\Data\581
+ARCHIVE: no
+INFECTED: no
+
+===== 1614 =====
+FILE: g:\Scan\Data\582
+ARCHIVE: no
+INFECTED: no
+
+===== 1615 =====
+FILE: g:\Scan\Data\583
+ARCHIVE: no
+INFECTED: no
+
+===== 1616 =====
+FILE: g:\Scan\Data\584
+ARCHIVE: no
+INFECTED: no
+
+===== 1617 =====
+FILE: g:\Scan\Data\585
+ARCHIVE: no
+INFECTED: no
+
+===== 1618 =====
+FILE: g:\Scan\Data\586
+ARCHIVE: no
+INFECTED: no
+
+===== 1619 =====
+FILE: g:\Scan\Data\587
+ARCHIVE: no
+INFECTED: no
+
+===== 1620 =====
+FILE: g:\Scan\Data\588
+ARCHIVE: no
+INFECTED: no
+
+===== 1621 =====
+FILE: g:\Scan\Data\589
+ARCHIVE: no
+INFECTED: no
+
+===== 1622 =====
+FILE: g:\Scan\Data\59
+ARCHIVE: no
+INFECTED: no
+
+===== 1623 =====
+FILE: g:\Scan\Data\590
+ARCHIVE: no
+INFECTED: no
+
+===== 1624 =====
+FILE: g:\Scan\Data\591
+ARCHIVE: no
+INFECTED: no
+
+===== 1625 =====
+FILE: g:\Scan\Data\592
+ARCHIVE: no
+INFECTED: no
+
+===== 1626 =====
+FILE: g:\Scan\Data\593
+ARCHIVE: no
+INFECTED: no
+
+===== 1627 =====
+FILE: g:\Scan\Data\594
+ARCHIVE: no
+INFECTED: no
+
+===== 1628 =====
+FILE: g:\Scan\Data\595
+ARCHIVE: no
+INFECTED: no
+
+===== 1629 =====
+FILE: g:\Scan\Data\596
+ARCHIVE: no
+INFECTED: no
+
+===== 1630 =====
+FILE: g:\Scan\Data\597
+ARCHIVE: no
+INFECTED: no
+
+===== 1631 =====
+FILE: g:\Scan\Data\598
+ARCHIVE: no
+INFECTED: no
+
+===== 1632 =====
+FILE: g:\Scan\Data\599
+ARCHIVE: no
+INFECTED: no
+
+===== 1633 =====
+FILE: g:\Scan\Data\6
+ARCHIVE: no
+INFECTED: no
+
+===== 1634 =====
+FILE: g:\Scan\Data\60
+ARCHIVE: no
+INFECTED: no
+
+===== 1635 =====
+FILE: g:\Scan\Data\600
+ARCHIVE: no
+INFECTED: no
+
+===== 1636 =====
+FILE: g:\Scan\Data\601
+ARCHIVE: no
+INFECTED: no
+
+===== 1637 =====
+FILE: g:\Scan\Data\602
+ARCHIVE: no
+INFECTED: no
+
+===== 1638 =====
+FILE: g:\Scan\Data\603
+ARCHIVE: no
+INFECTED: no
+
+===== 1639 =====
+FILE: g:\Scan\Data\604
+ARCHIVE: no
+INFECTED: no
+
+===== 1640 =====
+FILE: g:\Scan\Data\605
+ARCHIVE: no
+INFECTED: no
+
+===== 1641 =====
+FILE: g:\Scan\Data\606
+ARCHIVE: no
+INFECTED: no
+
+===== 1642 =====
+FILE: g:\Scan\Data\607
+ARCHIVE: no
+INFECTED: no
+
+===== 1643 =====
+FILE: g:\Scan\Data\608
+ARCHIVE: no
+INFECTED: no
+
+===== 1644 =====
+FILE: g:\Scan\Data\609
+ARCHIVE: no
+INFECTED: no
+
+===== 1645 =====
+FILE: g:\Scan\Data\61
+ARCHIVE: no
+INFECTED: no
+
+===== 1646 =====
+FILE: g:\Scan\Data\610
+ARCHIVE: no
+INFECTED: no
+
+===== 1647 =====
+FILE: g:\Scan\Data\611
+ARCHIVE: no
+INFECTED: no
+
+===== 1648 =====
+FILE: g:\Scan\Data\612
+ARCHIVE: no
+INFECTED: no
+
+===== 1649 =====
+FILE: g:\Scan\Data\613
+ARCHIVE: no
+INFECTED: no
+
+===== 1650 =====
+FILE: g:\Scan\Data\614
+ARCHIVE: no
+INFECTED: no
+
+===== 1651 =====
+FILE: g:\Scan\Data\615
+ARCHIVE: no
+INFECTED: no
+
+===== 1652 =====
+FILE: g:\Scan\Data\616
+ARCHIVE: no
+INFECTED: no
+
+===== 1653 =====
+FILE: g:\Scan\Data\617
+ARCHIVE: no
+INFECTED: no
+
+===== 1654 =====
+FILE: g:\Scan\Data\618
+ARCHIVE: no
+INFECTED: no
+
+===== 1655 =====
+FILE: g:\Scan\Data\619
+ARCHIVE: no
+INFECTED: no
+
+===== 1656 =====
+FILE: g:\Scan\Data\62.bad
+ARCHIVE: no
+INFECTED: no
+
+===== 1657 =====
+FILE: g:\Scan\Data\620
+ARCHIVE: no
+INFECTED: no
+
+===== 1658 =====
+FILE: g:\Scan\Data\621
+ARCHIVE: no
+INFECTED: no
+
+===== 1659 =====
+FILE: g:\Scan\Data\622
+ARCHIVE: no
+INFECTED: no
+
+===== 1660 =====
+FILE: g:\Scan\Data\623
+ARCHIVE: no
+INFECTED: no
+
+===== 1661 =====
+FILE: g:\Scan\Data\624
+ARCHIVE: no
+INFECTED: no
+
+===== 1662 =====
+FILE: g:\Scan\Data\625
+ARCHIVE: no
+INFECTED: no
+
+===== 1663 =====
+FILE: g:\Scan\Data\626
+ARCHIVE: no
+INFECTED: no
+
+===== 1664 =====
+FILE: g:\Scan\Data\627
+ARCHIVE: no
+INFECTED: no
+
+===== 1665 =====
+FILE: g:\Scan\Data\628
+ARCHIVE: no
+INFECTED: no
+
+===== 1666 =====
+FILE: g:\Scan\Data\629
+ARCHIVE: no
+INFECTED: no
+
+===== 1667 =====
+FILE: g:\Scan\Data\63
+ARCHIVE: no
+INFECTED: no
+
+===== 1668 =====
+FILE: g:\Scan\Data\630
+ARCHIVE: no
+INFECTED: no
+
+===== 1669 =====
+FILE: g:\Scan\Data\631
+ARCHIVE: no
+INFECTED: no
+
+===== 1670 =====
+FILE: g:\Scan\Data\632
+ARCHIVE: no
+INFECTED: no
+
+===== 1671 =====
+FILE: g:\Scan\Data\633
+ARCHIVE: no
+INFECTED: no
+
+===== 1672 =====
+FILE: g:\Scan\Data\634
+ARCHIVE: no
+INFECTED: no
+
+===== 1673 =====
+FILE: g:\Scan\Data\635
+ARCHIVE: no
+INFECTED: no
+
+===== 1674 =====
+FILE: g:\Scan\Data\636
+ARCHIVE: no
+INFECTED: no
+
+===== 1675 =====
+FILE: g:\Scan\Data\637
+ARCHIVE: no
+INFECTED: no
+
+===== 1676 =====
+FILE: g:\Scan\Data\638
+ARCHIVE: no
+INFECTED: no
+
+===== 1677 =====
+FILE: g:\Scan\Data\639
+ARCHIVE: no
+INFECTED: no
+
+===== 1678 =====
+FILE: g:\Scan\Data\64
+ARCHIVE: no
+INFECTED: no
+
+===== 1679 =====
+FILE: g:\Scan\Data\640
+ARCHIVE: no
+INFECTED: no
+
+===== 1680 =====
+FILE: g:\Scan\Data\641
+ARCHIVE: no
+INFECTED: no
+
+===== 1681 =====
+FILE: g:\Scan\Data\642
+ARCHIVE: no
+INFECTED: no
+
+===== 1682 =====
+FILE: g:\Scan\Data\643
+ARCHIVE: no
+INFECTED: no
+
+===== 1683 =====
+FILE: g:\Scan\Data\644
+ARCHIVE: no
+INFECTED: no
+
+===== 1684 =====
+FILE: g:\Scan\Data\645
+ARCHIVE: no
+INFECTED: no
+
+===== 1685 =====
+FILE: g:\Scan\Data\646
+ARCHIVE: no
+INFECTED: no
+
+===== 1686 =====
+FILE: g:\Scan\Data\647
+ARCHIVE: no
+INFECTED: no
+
+===== 1687 =====
+FILE: g:\Scan\Data\648
+ARCHIVE: no
+INFECTED: no
+
+===== 1688 =====
+FILE: g:\Scan\Data\649
+ARCHIVE: no
+INFECTED: no
+
+===== 1689 =====
+FILE: g:\Scan\Data\65.bad
+ARCHIVE: no
+INFECTED: no
+
+===== 1690 =====
+FILE: g:\Scan\Data\650
+ARCHIVE: no
+INFECTED: no
+
+===== 1691 =====
+FILE: g:\Scan\Data\651
+ARCHIVE: no
+INFECTED: no
+
+===== 1692 =====
+FILE: g:\Scan\Data\652
+ARCHIVE: no
+INFECTED: no
+
+===== 1693 =====
+FILE: g:\Scan\Data\653
+ARCHIVE: no
+INFECTED: no
+
+===== 1694 =====
+FILE: g:\Scan\Data\654
+ARCHIVE: no
+INFECTED: no
+
+===== 1695 =====
+FILE: g:\Scan\Data\655
+ARCHIVE: no
+INFECTED: no
+
+===== 1696 =====
+FILE: g:\Scan\Data\656
+ARCHIVE: no
+INFECTED: no
+
+===== 1697 =====
+FILE: g:\Scan\Data\657
+ARCHIVE: no
+INFECTED: no
+
+===== 1698 =====
+FILE: g:\Scan\Data\658
+ARCHIVE: no
+INFECTED: no
+
+===== 1699 =====
+FILE: g:\Scan\Data\659
+ARCHIVE: no
+INFECTED: no
+
+===== 1700 =====
+FILE: g:\Scan\Data\66
+ARCHIVE: no
+INFECTED: no
+
+===== 1701 =====
+FILE: g:\Scan\Data\660
+ARCHIVE: no
+INFECTED: no
+
+===== 1702 =====
+FILE: g:\Scan\Data\661
+ARCHIVE: no
+INFECTED: no
+
+===== 1703 =====
+FILE: g:\Scan\Data\662
+ARCHIVE: no
+INFECTED: no
+
+===== 1704 =====
+FILE: g:\Scan\Data\663
+ARCHIVE: no
+INFECTED: no
+
+===== 1705 =====
+FILE: g:\Scan\Data\664
+ARCHIVE: yes
+PACKERS: 
+   - UPX v12_m2
+   - ZIP
+INFECTED: no
+
+===== 1706 =====
+FILE: g:\Scan\Data\665
+ARCHIVE: no
+INFECTED: no
+
+===== 1707 =====
+FILE: g:\Scan\Data\666
+ARCHIVE: no
+INFECTED: no
+
+===== 1708 =====
+FILE: g:\Scan\Data\667
+ARCHIVE: yes
+PACKERS: 
+   - NSIS
+INFECTED: yes
+INFILTRATIONS: 
+   - Win32/Adware.1ClickDownload application
+   - Win32/Adware.1ClickDownload.C application
+
+===== 1709 =====
+FILE: g:\Scan\Data\668
+ARCHIVE: no
+INFECTED: no
+
+===== 1710 =====
+FILE: g:\Scan\Data\669
+ARCHIVE: no
+INFECTED: no
+
+===== 1711 =====
+FILE: g:\Scan\Data\67
+ARCHIVE: no
+INFECTED: no
+
+===== 1712 =====
+FILE: g:\Scan\Data\670
+ARCHIVE: no
+INFECTED: no
+
+===== 1713 =====
+FILE: g:\Scan\Data\671
+ARCHIVE: no
+INFECTED: no
+
+===== 1714 =====
+FILE: g:\Scan\Data\672
+ARCHIVE: no
+INFECTED: no
+
+===== 1715 =====
+FILE: g:\Scan\Data\673
+ARCHIVE: no
+INFECTED: no
+
+===== 1716 =====
+FILE: g:\Scan\Data\674
+ARCHIVE: no
+INFECTED: no
+
+===== 1717 =====
+FILE: g:\Scan\Data\675
+ARCHIVE: no
+INFECTED: no
+
+===== 1718 =====
+FILE: g:\Scan\Data\676
+ARCHIVE: no
+INFECTED: no
+
+===== 1719 =====
+FILE: g:\Scan\Data\677
+ARCHIVE: no
+INFECTED: no
+
+===== 1720 =====
+FILE: g:\Scan\Data\678
+ARCHIVE: no
+INFECTED: no
+
+===== 1721 =====
+FILE: g:\Scan\Data\679
+ARCHIVE: no
+INFECTED: no
+
+===== 1722 =====
+FILE: g:\Scan\Data\68.bad
+ARCHIVE: no
+INFECTED: no
+
+===== 1723 =====
+FILE: g:\Scan\Data\680
+ARCHIVE: no
+INFECTED: no
+
+===== 1724 =====
+FILE: g:\Scan\Data\681
+ARCHIVE: no
+INFECTED: no
+
+===== 1725 =====
+FILE: g:\Scan\Data\682
+ARCHIVE: no
+INFECTED: no
+
+===== 1726 =====
+FILE: g:\Scan\Data\683
+ARCHIVE: no
+INFECTED: no
+
+===== 1727 =====
+FILE: g:\Scan\Data\684
+ARCHIVE: no
+INFECTED: no
+
+===== 1728 =====
+FILE: g:\Scan\Data\685
+ARCHIVE: no
+INFECTED: no
+
+===== 1729 =====
+FILE: g:\Scan\Data\686
+ARCHIVE: no
+INFECTED: no
+
+===== 1730 =====
+FILE: g:\Scan\Data\687
+ARCHIVE: no
+INFECTED: no
+
+===== 1731 =====
+FILE: g:\Scan\Data\688
+ARCHIVE: no
+INFECTED: no
+
+===== 1732 =====
+FILE: g:\Scan\Data\689
+ARCHIVE: no
+INFECTED: no
+
+===== 1733 =====
+FILE: g:\Scan\Data\69
+ARCHIVE: no
+INFECTED: no
+
+===== 1734 =====
+FILE: g:\Scan\Data\690
+ARCHIVE: no
+INFECTED: no
+
+===== 1735 =====
+FILE: g:\Scan\Data\691
+ARCHIVE: no
+INFECTED: no
+
+===== 1736 =====
+FILE: g:\Scan\Data\692
+ARCHIVE: no
+INFECTED: no
+
+===== 1737 =====
+FILE: g:\Scan\Data\693
+ARCHIVE: no
+INFECTED: no
+
+===== 1738 =====
+FILE: g:\Scan\Data\694
+ARCHIVE: no
+INFECTED: no
+
+===== 1739 =====
+FILE: g:\Scan\Data\695
+ARCHIVE: no
+INFECTED: no
+
+===== 1740 =====
+FILE: g:\Scan\Data\696
+ARCHIVE: no
+INFECTED: no
+
+===== 1741 =====
+FILE: g:\Scan\Data\697
+ARCHIVE: no
+INFECTED: no
+
+===== 1742 =====
+FILE: g:\Scan\Data\698
+ARCHIVE: no
+INFECTED: no
+
+===== 1743 =====
+FILE: g:\Scan\Data\699
+ARCHIVE: no
+INFECTED: no
+
+===== 1744 =====
+FILE: g:\Scan\Data\7.exe
+ARCHIVE: no
+INFECTED: no
+
+===== 1745 =====
+FILE: g:\Scan\Data\70
+ARCHIVE: no
+INFECTED: no
+
+===== 1746 =====
+FILE: g:\Scan\Data\700
+ARCHIVE: no
+INFECTED: no
+
+===== 1747 =====
+FILE: g:\Scan\Data\701
+ARCHIVE: yes
+PACKERS: 
+   - NSIS
+INFECTED: no
+
+===== 1748 =====
+FILE: g:\Scan\Data\702
+ARCHIVE: no
+INFECTED: no
+
+===== 1749 =====
+FILE: g:\Scan\Data\703
+ARCHIVE: no
+INFECTED: no
+
+===== 1750 =====
+FILE: g:\Scan\Data\704
+ARCHIVE: no
+INFECTED: no
+
+===== 1751 =====
+FILE: g:\Scan\Data\705
+ARCHIVE: no
+INFECTED: no
+
+===== 1752 =====
+FILE: g:\Scan\Data\706
+ARCHIVE: no
+INFECTED: no
+
+===== 1753 =====
+FILE: g:\Scan\Data\707
+ARCHIVE: no
+INFECTED: no
+
+===== 1754 =====
+FILE: g:\Scan\Data\708
+ARCHIVE: no
+INFECTED: no
+
+===== 1755 =====
+FILE: g:\Scan\Data\709
+ARCHIVE: no
+INFECTED: no
+
+===== 1756 =====
+FILE: g:\Scan\Data\71
+ARCHIVE: no
+INFECTED: no
+
+===== 1757 =====
+FILE: g:\Scan\Data\710
+ARCHIVE: no
+INFECTED: no
+
+===== 1758 =====
+FILE: g:\Scan\Data\711
+ARCHIVE: no
+INFECTED: no
+
+===== 1759 =====
+FILE: g:\Scan\Data\712
+ARCHIVE: no
+INFECTED: no
+
+===== 1760 =====
+FILE: g:\Scan\Data\713
+ARCHIVE: no
+INFECTED: no
+
+===== 1761 =====
+FILE: g:\Scan\Data\714
+ARCHIVE: no
+INFECTED: no
+
+===== 1762 =====
+FILE: g:\Scan\Data\715
+ARCHIVE: no
+INFECTED: no
+
+===== 1763 =====
+FILE: g:\Scan\Data\716
+ARCHIVE: no
+INFECTED: no
+
+===== 1764 =====
+FILE: g:\Scan\Data\717
+ARCHIVE: no
+INFECTED: no
+
+===== 1765 =====
+FILE: g:\Scan\Data\718
+ARCHIVE: no
+INFECTED: no
+
+===== 1766 =====
+FILE: g:\Scan\Data\719
+ARCHIVE: no
+INFECTED: no
+
+===== 1767 =====
+FILE: g:\Scan\Data\72
+ARCHIVE: no
+INFECTED: no
+
+===== 1768 =====
+FILE: g:\Scan\Data\720
+ARCHIVE: no
+INFECTED: no
+
+===== 1769 =====
+FILE: g:\Scan\Data\721
+ARCHIVE: no
+INFECTED: no
+
+===== 1770 =====
+FILE: g:\Scan\Data\722
+ARCHIVE: yes
+PACKERS: 
+   - SMARTASSEMBLY
+INFECTED: no
+
+===== 1771 =====
+FILE: g:\Scan\Data\723
+ARCHIVE: no
+INFECTED: no
+
+===== 1772 =====
+FILE: g:\Scan\Data\724
+ARCHIVE: no
+INFECTED: no
+
+===== 1773 =====
+FILE: g:\Scan\Data\725
+ARCHIVE: no
+INFECTED: no
+
+===== 1774 =====
+FILE: g:\Scan\Data\726
+ARCHIVE: no
+INFECTED: no
+
+===== 1775 =====
+FILE: g:\Scan\Data\727
+ARCHIVE: no
+INFECTED: no
+
+===== 1776 =====
+FILE: g:\Scan\Data\728
+ARCHIVE: no
+INFECTED: no
+
+===== 1777 =====
+FILE: g:\Scan\Data\729
+ARCHIVE: no
+INFECTED: no
+
+===== 1778 =====
+FILE: g:\Scan\Data\73
+ARCHIVE: no
+INFECTED: no
+
+===== 1779 =====
+FILE: g:\Scan\Data\730
+ARCHIVE: no
+INFECTED: no
+
+===== 1780 =====
+FILE: g:\Scan\Data\731
+ARCHIVE: no
+INFECTED: no
+
+===== 1781 =====
+FILE: g:\Scan\Data\732
+ARCHIVE: no
+INFECTED: no
+
+===== 1782 =====
+FILE: g:\Scan\Data\733
+ARCHIVE: no
+INFECTED: no
+
+===== 1783 =====
+FILE: g:\Scan\Data\734
+ARCHIVE: no
+INFECTED: no
+
+===== 1784 =====
+FILE: g:\Scan\Data\735
+ARCHIVE: no
+INFECTED: no
+
+===== 1785 =====
+FILE: g:\Scan\Data\736
+ARCHIVE: no
+INFECTED: no
+
+===== 1786 =====
+FILE: g:\Scan\Data\737
+ARCHIVE: no
+INFECTED: no
+
+===== 1787 =====
+FILE: g:\Scan\Data\738
+ARCHIVE: no
+INFECTED: no
+
+===== 1788 =====
+FILE: g:\Scan\Data\739
+ARCHIVE: no
+INFECTED: no
+
+===== 1789 =====
+FILE: g:\Scan\Data\74.bad
+ARCHIVE: no
+INFECTED: no
+
+===== 1790 =====
+FILE: g:\Scan\Data\740
+ARCHIVE: no
+INFECTED: no
+
+===== 1791 =====
+FILE: g:\Scan\Data\741
+ARCHIVE: no
+INFECTED: no
+
+===== 1792 =====
+FILE: g:\Scan\Data\742
+ARCHIVE: no
+INFECTED: no
+
+===== 1793 =====
+FILE: g:\Scan\Data\743
+ARCHIVE: no
+INFECTED: no
+
+===== 1794 =====
+FILE: g:\Scan\Data\744
+ARCHIVE: no
+INFECTED: no
+
+===== 1795 =====
+FILE: g:\Scan\Data\745
+ARCHIVE: no
+INFECTED: no
+
+===== 1796 =====
+FILE: g:\Scan\Data\746
+ARCHIVE: no
+INFECTED: no
+
+===== 1797 =====
+FILE: g:\Scan\Data\747
+ARCHIVE: no
+INFECTED: no
+
+===== 1798 =====
+FILE: g:\Scan\Data\748
+ARCHIVE: no
+INFECTED: no
+
+===== 1799 =====
+FILE: g:\Scan\Data\749
+ARCHIVE: no
+INFECTED: no
+
+===== 1800 =====
+FILE: g:\Scan\Data\75
+ARCHIVE: no
+INFECTED: no
+
+===== 1801 =====
+FILE: g:\Scan\Data\750
+ARCHIVE: no
+INFECTED: no
+
+===== 1802 =====
+FILE: g:\Scan\Data\751
+ARCHIVE: no
+INFECTED: no
+
+===== 1803 =====
+FILE: g:\Scan\Data\752
+ARCHIVE: no
+INFECTED: no
+
+===== 1804 =====
+FILE: g:\Scan\Data\753
+ARCHIVE: no
+INFECTED: no
+
+===== 1805 =====
+FILE: g:\Scan\Data\754
+ARCHIVE: no
+INFECTED: no
+
+===== 1806 =====
+FILE: g:\Scan\Data\755
+ARCHIVE: no
+INFECTED: no
+
+===== 1807 =====
+FILE: g:\Scan\Data\756
+ARCHIVE: no
+INFECTED: no
+
+===== 1808 =====
+FILE: g:\Scan\Data\757
+ARCHIVE: yes
+PACKERS: 
+   - NSIS
+INFECTED: yes
+INFILTRATIONS: 
+   - Win32/StartPage.OCY trojan
+
+===== 1809 =====
+FILE: g:\Scan\Data\758
+ARCHIVE: no
+INFECTED: no
+
+===== 1810 =====
+FILE: g:\Scan\Data\759
+ARCHIVE: no
+INFECTED: no
+
+===== 1811 =====
+FILE: g:\Scan\Data\76
+ARCHIVE: no
+INFECTED: no
+
+===== 1812 =====
+FILE: g:\Scan\Data\760
+ARCHIVE: no
+INFECTED: no
+
+===== 1813 =====
+FILE: g:\Scan\Data\761
+ARCHIVE: yes
+PACKERS: 
+   - NSIS
+INFECTED: yes
+INFILTRATIONS: 
+   - Win32/Adware.Cinmus application
+
+===== 1814 =====
+FILE: g:\Scan\Data\762
+ARCHIVE: no
+INFECTED: no
+
+===== 1815 =====
+FILE: g:\Scan\Data\763
+ARCHIVE: no
+INFECTED: no
+
+===== 1816 =====
+FILE: g:\Scan\Data\764
+ARCHIVE: no
+INFECTED: no
+
+===== 1817 =====
+FILE: g:\Scan\Data\765
+ARCHIVE: yes
+PACKERS: 
+   - DOTNETREACTOR
+INFECTED: no
+
+===== 1818 =====
+FILE: g:\Scan\Data\766
+ARCHIVE: no
+INFECTED: no
+
+===== 1819 =====
+FILE: g:\Scan\Data\767
+ARCHIVE: no
+INFECTED: no
+
+===== 1820 =====
+FILE: g:\Scan\Data\768
+ARCHIVE: no
+INFECTED: no
+
+===== 1821 =====
+FILE: g:\Scan\Data\769
+ARCHIVE: no
+INFECTED: no
+
+===== 1822 =====
+FILE: g:\Scan\Data\77
+ARCHIVE: no
+INFECTED: no
+
+===== 1823 =====
+FILE: g:\Scan\Data\770
+ARCHIVE: no
+INFECTED: no
+
+===== 1824 =====
+FILE: g:\Scan\Data\771
+ARCHIVE: no
+INFECTED: no
+
+===== 1825 =====
+FILE: g:\Scan\Data\772
+ARCHIVE: no
+INFECTED: no
+
+===== 1826 =====
+FILE: g:\Scan\Data\773
+ARCHIVE: no
+INFECTED: no
+
+===== 1827 =====
+FILE: g:\Scan\Data\774
+ARCHIVE: no
+INFECTED: no
+
+===== 1828 =====
+FILE: g:\Scan\Data\775
+ARCHIVE: no
+INFECTED: no
+
+===== 1829 =====
+FILE: g:\Scan\Data\776
+ARCHIVE: no
+INFECTED: no
+
+===== 1830 =====
+FILE: g:\Scan\Data\777
+ARCHIVE: no
+INFECTED: no
+
+===== 1831 =====
+FILE: g:\Scan\Data\778
+ARCHIVE: no
+INFECTED: no
+
+===== 1832 =====
+FILE: g:\Scan\Data\779
+ARCHIVE: no
+INFECTED: no
+
+===== 1833 =====
+FILE: g:\Scan\Data\78
+ARCHIVE: no
+INFECTED: no
+
+===== 1834 =====
+FILE: g:\Scan\Data\780
+ARCHIVE: no
+INFECTED: no
+
+===== 1835 =====
+FILE: g:\Scan\Data\781
+ARCHIVE: no
+INFECTED: no
+
+===== 1836 =====
+FILE: g:\Scan\Data\782
+ARCHIVE: no
+INFECTED: no
+
+===== 1837 =====
+FILE: g:\Scan\Data\783
+ARCHIVE: no
+INFECTED: no
+
+===== 1838 =====
+FILE: g:\Scan\Data\784
+ARCHIVE: no
+INFECTED: no
+
+===== 1839 =====
+FILE: g:\Scan\Data\785
+ARCHIVE: no
+INFECTED: no
+
+===== 1840 =====
+FILE: g:\Scan\Data\786
+ARCHIVE: yes
+PACKERS: 
+   - INNO
+INFECTED: yes
+INFILTRATIONS: 
+   - Win32/NoAdware potentially unwanted application
+
+===== 1841 =====
+FILE: g:\Scan\Data\787
+ARCHIVE: no
+INFECTED: no
+
+===== 1842 =====
+FILE: g:\Scan\Data\788
+ARCHIVE: no
+INFECTED: no
+
+===== 1843 =====
+FILE: g:\Scan\Data\789
+ARCHIVE: no
+INFECTED: no
+
+===== 1844 =====
+FILE: g:\Scan\Data\79
+ARCHIVE: no
+INFECTED: no
+
+===== 1845 =====
+FILE: g:\Scan\Data\790
+ARCHIVE: no
+INFECTED: no
+
+===== 1846 =====
+FILE: g:\Scan\Data\791
+ARCHIVE: no
+INFECTED: no
+
+===== 1847 =====
+FILE: g:\Scan\Data\792
+ARCHIVE: no
+INFECTED: no
+
+===== 1848 =====
+FILE: g:\Scan\Data\793
+ARCHIVE: no
+INFECTED: no
+
+===== 1849 =====
+FILE: g:\Scan\Data\794
+ARCHIVE: no
+INFECTED: no
+
+===== 1850 =====
+FILE: g:\Scan\Data\795
+ARCHIVE: no
+INFECTED: no
+
+===== 1851 =====
+FILE: g:\Scan\Data\796
+ARCHIVE: no
+INFECTED: no
+
+===== 1852 =====
+FILE: g:\Scan\Data\797
+ARCHIVE: no
+INFECTED: no
+
+===== 1853 =====
+FILE: g:\Scan\Data\798
+ARCHIVE: no
+INFECTED: no
+
+===== 1854 =====
+FILE: g:\Scan\Data\799
+ARCHIVE: no
+INFECTED: no
+
+===== 1855 =====
+FILE: g:\Scan\Data\8.exe
+ARCHIVE: no
+INFECTED: no
+
+===== 1856 =====
+FILE: g:\Scan\Data\80
+ARCHIVE: no
+INFECTED: no
+
+===== 1857 =====
+FILE: g:\Scan\Data\800
+ARCHIVE: no
+INFECTED: no
+
+===== 1858 =====
+FILE: g:\Scan\Data\801
+ARCHIVE: no
+INFECTED: no
+
+===== 1859 =====
+FILE: g:\Scan\Data\802
+ARCHIVE: no
+INFECTED: no
+
+===== 1860 =====
+FILE: g:\Scan\Data\803
+ARCHIVE: no
+INFECTED: no
+
+===== 1861 =====
+FILE: g:\Scan\Data\804
+ARCHIVE: no
+INFECTED: no
+
+===== 1862 =====
+FILE: g:\Scan\Data\805
+ARCHIVE: no
+INFECTED: no
+
+===== 1863 =====
+FILE: g:\Scan\Data\806
+ARCHIVE: no
+INFECTED: no
+
+===== 1864 =====
+FILE: g:\Scan\Data\807
+ARCHIVE: no
+INFECTED: no
+
+===== 1865 =====
+FILE: g:\Scan\Data\808
+ARCHIVE: no
+INFECTED: no
+
+===== 1866 =====
+FILE: g:\Scan\Data\809
+ARCHIVE: no
+INFECTED: no
+
+===== 1867 =====
+FILE: g:\Scan\Data\81
+ARCHIVE: no
+INFECTED: no
+
+===== 1868 =====
+FILE: g:\Scan\Data\810
+ARCHIVE: no
+INFECTED: no
+
+===== 1869 =====
+FILE: g:\Scan\Data\811
+ARCHIVE: no
+INFECTED: no
+
+===== 1870 =====
+FILE: g:\Scan\Data\812
+ARCHIVE: no
+INFECTED: no
+
+===== 1871 =====
+FILE: g:\Scan\Data\813
+ARCHIVE: no
+INFECTED: no
+
+===== 1872 =====
+FILE: g:\Scan\Data\814
+ARCHIVE: no
+INFECTED: no
+
+===== 1873 =====
+FILE: g:\Scan\Data\815
+ARCHIVE: no
+INFECTED: no
+
+===== 1874 =====
+FILE: g:\Scan\Data\816
+ARCHIVE: yes
+PACKERS: 
+   - PEBUNDLE
+INFECTED: yes
+INFILTRATIONS: 
+   - a variant of Win32/Injector.EKT trojan
+
+===== 1875 =====
+FILE: g:\Scan\Data\817
+ARCHIVE: no
+INFECTED: no
+
+===== 1876 =====
+FILE: g:\Scan\Data\818
+ARCHIVE: no
+INFECTED: no
+
+===== 1877 =====
+FILE: g:\Scan\Data\819
+ARCHIVE: no
+INFECTED: no
+
+===== 1878 =====
+FILE: g:\Scan\Data\82
+ARCHIVE: no
+INFECTED: no
+
+===== 1879 =====
+FILE: g:\Scan\Data\820
+ARCHIVE: no
+INFECTED: no
+
+===== 1880 =====
+FILE: g:\Scan\Data\821
+ARCHIVE: no
+INFECTED: no
+
+===== 1881 =====
+FILE: g:\Scan\Data\822
+ARCHIVE: no
+INFECTED: no
+
+===== 1882 =====
+FILE: g:\Scan\Data\823
+ARCHIVE: no
+INFECTED: no
+
+===== 1883 =====
+FILE: g:\Scan\Data\824
+ARCHIVE: no
+INFECTED: no
+
+===== 1884 =====
+FILE: g:\Scan\Data\825
+ARCHIVE: no
+INFECTED: no
+
+===== 1885 =====
+FILE: g:\Scan\Data\826
+ARCHIVE: no
+INFECTED: no
+
+===== 1886 =====
+FILE: g:\Scan\Data\827
+ARCHIVE: no
+INFECTED: no
+
+===== 1887 =====
+FILE: g:\Scan\Data\828
+ARCHIVE: no
+INFECTED: no
+
+===== 1888 =====
+FILE: g:\Scan\Data\829
+ARCHIVE: no
+INFECTED: no
+
+===== 1889 =====
+FILE: g:\Scan\Data\83
+ARCHIVE: no
+INFECTED: no
+
+===== 1890 =====
+FILE: g:\Scan\Data\830
+ARCHIVE: no
+INFECTED: no
+
+===== 1891 =====
+FILE: g:\Scan\Data\831
+ARCHIVE: yes
+PACKERS: 
+   - INNO
+INFECTED: yes
+INFILTRATIONS: 
+   - Win32/Adware.SpywareCease application
+   - Win32/Adware.SpywareCease.AA application
+   - Win32/Adware.SpywareCease.AD application
+
+===== 1892 =====
+FILE: g:\Scan\Data\832
+ARCHIVE: no
+INFECTED: no
+
+===== 1893 =====
+FILE: g:\Scan\Data\833
+ARCHIVE: no
+INFECTED: no
+
+===== 1894 =====
+FILE: g:\Scan\Data\834
+ARCHIVE: no
+INFECTED: no
+
+===== 1895 =====
+FILE: g:\Scan\Data\835
+ARCHIVE: no
+INFECTED: no
+
+===== 1896 =====
+FILE: g:\Scan\Data\836
+ARCHIVE: no
+INFECTED: no
+
+===== 1897 =====
+FILE: g:\Scan\Data\837
+ARCHIVE: no
+INFECTED: no
+
+===== 1898 =====
+FILE: g:\Scan\Data\838
+ARCHIVE: no
+INFECTED: no
+
+===== 1899 =====
+FILE: g:\Scan\Data\839
+ARCHIVE: no
+INFECTED: no
+
+===== 1900 =====
+FILE: g:\Scan\Data\84
+ARCHIVE: no
+INFECTED: no
+
+===== 1901 =====
+FILE: g:\Scan\Data\840
+ARCHIVE: no
+INFECTED: no
+
+===== 1902 =====
+FILE: g:\Scan\Data\841
+ARCHIVE: no
+INFECTED: no
+
+===== 1903 =====
+FILE: g:\Scan\Data\842
+ARCHIVE: no
+INFECTED: no
+
+===== 1904 =====
+FILE: g:\Scan\Data\843
+ARCHIVE: yes
+PACKERS: 
+   - ENIGMA
+INFECTED: yes
+INFILTRATIONS: 
+   - a variant of Win32/FlyStudio potentially unwanted application
+
+===== 1905 =====
+FILE: g:\Scan\Data\844
+ARCHIVE: no
+INFECTED: no
+
+===== 1906 =====
+FILE: g:\Scan\Data\845
+ARCHIVE: no
+INFECTED: no
+
+===== 1907 =====
+FILE: g:\Scan\Data\846
+ARCHIVE: no
+INFECTED: no
+
+===== 1908 =====
+FILE: g:\Scan\Data\847
+ARCHIVE: no
+INFECTED: no
+
+===== 1909 =====
+FILE: g:\Scan\Data\848
+ARCHIVE: no
+INFECTED: no
+
+===== 1910 =====
+FILE: g:\Scan\Data\849
+ARCHIVE: no
+INFECTED: no
+
+===== 1911 =====
+FILE: g:\Scan\Data\85
+ARCHIVE: no
+INFECTED: no
+
+===== 1912 =====
+FILE: g:\Scan\Data\850
+ARCHIVE: no
+INFECTED: no
+
+===== 1913 =====
+FILE: g:\Scan\Data\851
+ARCHIVE: yes
+PACKERS: 
+   - UPX v13_m2
+INFECTED: yes
+INFILTRATIONS: 
+   - a variant of Win32/Kryptik.AXFX trojan
+
+===== 1914 =====
+FILE: g:\Scan\Data\852
+ARCHIVE: no
+INFECTED: no
+
+===== 1915 =====
+FILE: g:\Scan\Data\853
+ARCHIVE: no
+INFECTED: no
+
+===== 1916 =====
+FILE: g:\Scan\Data\854
+ARCHIVE: no
+INFECTED: no
+
+===== 1917 =====
+FILE: g:\Scan\Data\855
+ARCHIVE: no
+INFECTED: no
+
+===== 1918 =====
+FILE: g:\Scan\Data\856
+ARCHIVE: no
+INFECTED: no
+
+===== 1919 =====
+FILE: g:\Scan\Data\857
+ARCHIVE: no
+INFECTED: no
+
+===== 1920 =====
+FILE: g:\Scan\Data\858
+ARCHIVE: no
+INFECTED: no
+
+===== 1921 =====
+FILE: g:\Scan\Data\859
+ARCHIVE: no
+INFECTED: no
+
+===== 1922 =====
+FILE: g:\Scan\Data\86
+ARCHIVE: no
+INFECTED: no
+
+===== 1923 =====
+FILE: g:\Scan\Data\860
+ARCHIVE: no
+INFECTED: no
+
+===== 1924 =====
+FILE: g:\Scan\Data\861
+ARCHIVE: no
+INFECTED: no
+
+===== 1925 =====
+FILE: g:\Scan\Data\862
+ARCHIVE: no
+INFECTED: no
+
+===== 1926 =====
+FILE: g:\Scan\Data\863
+ARCHIVE: no
+INFECTED: no
+
+===== 1927 =====
+FILE: g:\Scan\Data\864
+ARCHIVE: no
+INFECTED: no
+
+===== 1928 =====
+FILE: g:\Scan\Data\865
+ARCHIVE: no
+INFECTED: no
+
+===== 1929 =====
+FILE: g:\Scan\Data\866
+ARCHIVE: no
+INFECTED: no
+
+===== 1930 =====
+FILE: g:\Scan\Data\867
+ARCHIVE: no
+INFECTED: no
+
+===== 1931 =====
+FILE: g:\Scan\Data\868
+ARCHIVE: no
+INFECTED: no
+
+===== 1932 =====
+FILE: g:\Scan\Data\869
+ARCHIVE: no
+INFECTED: no
+
+===== 1933 =====
+FILE: g:\Scan\Data\87
+ARCHIVE: no
+INFECTED: no
+
+===== 1934 =====
+FILE: g:\Scan\Data\870
+ARCHIVE: no
+INFECTED: no
+
+===== 1935 =====
+FILE: g:\Scan\Data\871
+ARCHIVE: no
+INFECTED: no
+
+===== 1936 =====
+FILE: g:\Scan\Data\872
+ARCHIVE: no
+INFECTED: no
+
+===== 1937 =====
+FILE: g:\Scan\Data\873
+ARCHIVE: no
+INFECTED: no
+
+===== 1938 =====
+FILE: g:\Scan\Data\874
+ARCHIVE: no
+INFECTED: no
+
+===== 1939 =====
+FILE: g:\Scan\Data\875
+ARCHIVE: no
+INFECTED: no
+
+===== 1940 =====
+FILE: g:\Scan\Data\876
+ARCHIVE: no
+INFECTED: no
+
+===== 1941 =====
+FILE: g:\Scan\Data\877
+ARCHIVE: no
+INFECTED: no
+
+===== 1942 =====
+FILE: g:\Scan\Data\878
+ARCHIVE: no
+INFECTED: no
+
+===== 1943 =====
+FILE: g:\Scan\Data\879
+ARCHIVE: no
+INFECTED: no
+
+===== 1944 =====
+FILE: g:\Scan\Data\88
+ARCHIVE: yes
+PACKERS: 
+   - NSIS
+INFECTED: yes
+INFILTRATIONS: 
+   - Win32/Adware.NdotNet application
+   - Win32/Adware.SuperBar application
+   - Win32/Adware.WhenU potentially unwanted application
+   - a variant of Win32/Adware.SaveNow.A application
+
+===== 1945 =====
+FILE: g:\Scan\Data\880
+ARCHIVE: no
+INFECTED: no
+
+===== 1946 =====
+FILE: g:\Scan\Data\881
+ARCHIVE: no
+INFECTED: no
+
+===== 1947 =====
+FILE: g:\Scan\Data\882
+ARCHIVE: no
+INFECTED: no
+
+===== 1948 =====
+FILE: g:\Scan\Data\883
+ARCHIVE: no
+INFECTED: no
+
+===== 1949 =====
+FILE: g:\Scan\Data\884
+ARCHIVE: no
+INFECTED: no
+
+===== 1950 =====
+FILE: g:\Scan\Data\885
+ARCHIVE: no
+INFECTED: no
+
+===== 1951 =====
+FILE: g:\Scan\Data\886
+ARCHIVE: no
+INFECTED: no
+
+===== 1952 =====
+FILE: g:\Scan\Data\887
+ARCHIVE: yes
+PACKERS: 
+   - NSIS
+INFECTED: yes
+INFILTRATIONS: 
+   - Win32/Adware.1ClickDownload application
+   - Win32/Adware.1ClickDownload.AN application
+
+===== 1953 =====
+FILE: g:\Scan\Data\888
+ARCHIVE: no
+INFECTED: no
+
+===== 1954 =====
+FILE: g:\Scan\Data\889
+ARCHIVE: no
+INFECTED: no
+
+===== 1955 =====
+FILE: g:\Scan\Data\89
+ARCHIVE: no
+INFECTED: no
+
+===== 1956 =====
+FILE: g:\Scan\Data\890
+ARCHIVE: no
+INFECTED: no
+
+===== 1957 =====
+FILE: g:\Scan\Data\891
+ARCHIVE: no
+INFECTED: no
+
+===== 1958 =====
+FILE: g:\Scan\Data\892
+ARCHIVE: no
+INFECTED: no
+
+===== 1959 =====
+FILE: g:\Scan\Data\893
+ARCHIVE: no
+INFECTED: no
+
+===== 1960 =====
+FILE: g:\Scan\Data\894
+ARCHIVE: no
+INFECTED: no
+
+===== 1961 =====
+FILE: g:\Scan\Data\895
+ARCHIVE: no
+INFECTED: no
+
+===== 1962 =====
+FILE: g:\Scan\Data\896
+ARCHIVE: no
+INFECTED: no
+
+===== 1963 =====
+FILE: g:\Scan\Data\897
+ARCHIVE: no
+INFECTED: no
+
+===== 1964 =====
+FILE: g:\Scan\Data\898
+ARCHIVE: no
+INFECTED: no
+
+===== 1965 =====
+FILE: g:\Scan\Data\899
+ARCHIVE: no
+INFECTED: no
+
+===== 1966 =====
+FILE: g:\Scan\Data\9
+ARCHIVE: no
+INFECTED: no
+
+===== 1967 =====
+FILE: g:\Scan\Data\90
+ARCHIVE: no
+INFECTED: no
+
+===== 1968 =====
+FILE: g:\Scan\Data\900
+ARCHIVE: no
+INFECTED: no
+
+===== 1969 =====
+FILE: g:\Scan\Data\901
+ARCHIVE: no
+INFECTED: no
+
+===== 1970 =====
+FILE: g:\Scan\Data\902
+ARCHIVE: yes
+PACKERS: 
+   - INNO
+INFECTED: yes
+INFILTRATIONS: 
+   - a variant of Win32/Adware.MediaFinder.D application
+
+===== 1971 =====
+FILE: g:\Scan\Data\903
+ARCHIVE: no
+INFECTED: no
+
+===== 1972 =====
+FILE: g:\Scan\Data\904
+ARCHIVE: no
+INFECTED: no
+
+===== 1973 =====
+FILE: g:\Scan\Data\905
+ARCHIVE: no
+INFECTED: no
+
+===== 1974 =====
+FILE: g:\Scan\Data\906
+ARCHIVE: no
+INFECTED: no
+
+===== 1975 =====
+FILE: g:\Scan\Data\907
+ARCHIVE: no
+INFECTED: no
+
+===== 1976 =====
+FILE: g:\Scan\Data\908
+ARCHIVE: no
+INFECTED: no
+
+===== 1977 =====
+FILE: g:\Scan\Data\909
+ARCHIVE: no
+INFECTED: no
+
+===== 1978 =====
+FILE: g:\Scan\Data\91
+ARCHIVE: no
+INFECTED: no
+
+===== 1979 =====
+FILE: g:\Scan\Data\910
+ARCHIVE: no
+INFECTED: no
+
+===== 1980 =====
+FILE: g:\Scan\Data\911
+ARCHIVE: no
+INFECTED: no
+
+===== 1981 =====
+FILE: g:\Scan\Data\912
+ARCHIVE: no
+INFECTED: no
+
+===== 1982 =====
+FILE: g:\Scan\Data\913
+ARCHIVE: no
+INFECTED: no
+
+===== 1983 =====
+FILE: g:\Scan\Data\914
+ARCHIVE: no
+INFECTED: no
+
+===== 1984 =====
+FILE: g:\Scan\Data\915
+ARCHIVE: no
+INFECTED: no
+
+===== 1985 =====
+FILE: g:\Scan\Data\916
+ARCHIVE: yes
+PACKERS: 
+   - NSIS
+   - UPX v13_m2
+INFECTED: yes
+INFILTRATIONS: 
+   - Win32/DownloadAdmin.A.Gen potentially unwanted application
+   - Win32/DownloadAdmin.G potentially unwanted application
+
+===== 1986 =====
+FILE: g:\Scan\Data\917
+ARCHIVE: no
+INFECTED: no
+
+===== 1987 =====
+FILE: g:\Scan\Data\918
+ARCHIVE: no
+INFECTED: no
+
+===== 1988 =====
+FILE: g:\Scan\Data\919
+ARCHIVE: no
+INFECTED: no
+
+===== 1989 =====
+FILE: g:\Scan\Data\92
+ARCHIVE: no
+INFECTED: no
+
+===== 1990 =====
+FILE: g:\Scan\Data\920
+ARCHIVE: no
+INFECTED: no
+
+===== 1991 =====
+FILE: g:\Scan\Data\921
+ARCHIVE: no
+INFECTED: no
+
+===== 1992 =====
+FILE: g:\Scan\Data\922
+ARCHIVE: no
+INFECTED: no
+
+===== 1993 =====
+FILE: g:\Scan\Data\923
+ARCHIVE: no
+INFECTED: no
+
+===== 1994 =====
+FILE: g:\Scan\Data\924
+ARCHIVE: yes
+PACKERS: 
+   - DEEPSEA
+   - RAR
+INFECTED: no
+
+===== 1995 =====
+FILE: g:\Scan\Data\925
+ARCHIVE: no
+INFECTED: no
+
+===== 1996 =====
+FILE: g:\Scan\Data\926
+ARCHIVE: no
+INFECTED: no
+
+===== 1997 =====
+FILE: g:\Scan\Data\927
+ARCHIVE: no
+INFECTED: no
+
+===== 1998 =====
+FILE: g:\Scan\Data\928
+ARCHIVE: no
+INFECTED: no
+
+===== 1999 =====
+FILE: g:\Scan\Data\929
+ARCHIVE: no
+INFECTED: no
+
+===== 2000 =====
+FILE: g:\Scan\Data\93
+ARCHIVE: no
+INFECTED: no
+
+===== 2001 =====
+FILE: g:\Scan\Data\930
+ARCHIVE: no
+INFECTED: no
+
+===== 2002 =====
+FILE: g:\Scan\Data\931
+ARCHIVE: no
+INFECTED: no
+
+===== 2003 =====
+FILE: g:\Scan\Data\932
+ARCHIVE: no
+INFECTED: no
+
+===== 2004 =====
+FILE: g:\Scan\Data\933
+ARCHIVE: yes
+PACKERS: 
+   - Armadillo
+INFECTED: yes
+INFILTRATIONS: 
+   - a variant of Win32/HackTool.Patcher.T potentially unsafe application
+
+===== 2005 =====
+FILE: g:\Scan\Data\934
+ARCHIVE: no
+INFECTED: no
+
+===== 2006 =====
+FILE: g:\Scan\Data\935
+ARCHIVE: no
+INFECTED: no
+
+===== 2007 =====
+FILE: g:\Scan\Data\936
+ARCHIVE: yes
+PACKERS: 
+   - INNO
+INFECTED: no
+
+===== 2008 =====
+FILE: g:\Scan\Data\937
+ARCHIVE: no
+INFECTED: no
+
+===== 2009 =====
+FILE: g:\Scan\Data\938
+ARCHIVE: no
+INFECTED: no
+
+===== 2010 =====
+FILE: g:\Scan\Data\939
+ARCHIVE: no
+INFECTED: no
+
+===== 2011 =====
+FILE: g:\Scan\Data\94
+ARCHIVE: no
+INFECTED: no
+
+===== 2012 =====
+FILE: g:\Scan\Data\940
+ARCHIVE: no
+INFECTED: no
+
+===== 2013 =====
+FILE: g:\Scan\Data\941
+ARCHIVE: no
+INFECTED: no
+
+===== 2014 =====
+FILE: g:\Scan\Data\942
+ARCHIVE: no
+INFECTED: no
+
+===== 2015 =====
+FILE: g:\Scan\Data\943
+ARCHIVE: no
+INFECTED: no
+
+===== 2016 =====
+FILE: g:\Scan\Data\944
+ARCHIVE: no
+INFECTED: no
+
+===== 2017 =====
+FILE: g:\Scan\Data\945
+ARCHIVE: no
+INFECTED: no
+
+===== 2018 =====
+FILE: g:\Scan\Data\946
+ARCHIVE: no
+INFECTED: no
+
+===== 2019 =====
+FILE: g:\Scan\Data\947
+ARCHIVE: no
+INFECTED: no
+
+===== 2020 =====
+FILE: g:\Scan\Data\948
+ARCHIVE: no
+INFECTED: no
+
+===== 2021 =====
+FILE: g:\Scan\Data\949
+ARCHIVE: no
+INFECTED: no
+
+===== 2022 =====
+FILE: g:\Scan\Data\95
+ARCHIVE: no
+INFECTED: no
+
+===== 2023 =====
+FILE: g:\Scan\Data\950
+ARCHIVE: no
+INFECTED: no
+
+===== 2024 =====
+FILE: g:\Scan\Data\951
+ARCHIVE: no
+INFECTED: no
+
+===== 2025 =====
+FILE: g:\Scan\Data\952
+ARCHIVE: no
+INFECTED: no
+
+===== 2026 =====
+FILE: g:\Scan\Data\953
+ARCHIVE: no
+INFECTED: no
+
+===== 2027 =====
+FILE: g:\Scan\Data\954
+ARCHIVE: no
+INFECTED: no
+
+===== 2028 =====
+FILE: g:\Scan\Data\955
+ARCHIVE: no
+INFECTED: no
+
+===== 2029 =====
+FILE: g:\Scan\Data\956
+ARCHIVE: no
+INFECTED: no
+
+===== 2030 =====
+FILE: g:\Scan\Data\957
+ARCHIVE: no
+INFECTED: no
+
+===== 2031 =====
+FILE: g:\Scan\Data\958
+ARCHIVE: no
+INFECTED: no
+
+===== 2032 =====
+FILE: g:\Scan\Data\959
+ARCHIVE: yes
+PACKERS: 
+   - UPX v12_m5
+INFECTED: no
+
+===== 2033 =====
+FILE: g:\Scan\Data\96
+ARCHIVE: no
+INFECTED: no
+
+===== 2034 =====
+FILE: g:\Scan\Data\960
+ARCHIVE: no
+INFECTED: no
+
+===== 2035 =====
+FILE: g:\Scan\Data\961
+ARCHIVE: no
+INFECTED: no
+
+===== 2036 =====
+FILE: g:\Scan\Data\962
+ARCHIVE: no
+INFECTED: no
+
+===== 2037 =====
+FILE: g:\Scan\Data\963
+ARCHIVE: no
+INFECTED: no
+
+===== 2038 =====
+FILE: g:\Scan\Data\964
+ARCHIVE: no
+INFECTED: no
+
+===== 2039 =====
+FILE: g:\Scan\Data\965
+ARCHIVE: no
+INFECTED: no
+
+===== 2040 =====
+FILE: g:\Scan\Data\966
+ARCHIVE: no
+INFECTED: no
+
+===== 2041 =====
+FILE: g:\Scan\Data\967
+ARCHIVE: no
+INFECTED: no
+
+===== 2042 =====
+FILE: g:\Scan\Data\968
+ARCHIVE: no
+INFECTED: no
+
+===== 2043 =====
+FILE: g:\Scan\Data\969
+ARCHIVE: no
+INFECTED: no
+
+===== 2044 =====
+FILE: g:\Scan\Data\97
+ARCHIVE: no
+INFECTED: no
+
+===== 2045 =====
+FILE: g:\Scan\Data\970
+ARCHIVE: no
+INFECTED: no
+
+===== 2046 =====
+FILE: g:\Scan\Data\971
+ARCHIVE: no
+INFECTED: no
+
+===== 2047 =====
+FILE: g:\Scan\Data\972
+ARCHIVE: no
+INFECTED: no
+
+===== 2048 =====
+FILE: g:\Scan\Data\973
+ARCHIVE: no
+INFECTED: no
+
+===== 2049 =====
+FILE: g:\Scan\Data\974
+ARCHIVE: no
+INFECTED: no
+
+===== 2050 =====
+FILE: g:\Scan\Data\975
+ARCHIVE: no
+INFECTED: no
+
+===== 2051 =====
+FILE: g:\Scan\Data\976
+ARCHIVE: yes
+PACKERS: 
+   - NSIS
+INFECTED: yes
+INFILTRATIONS: 
+   - Win32/Adware.1ClickDownload.C application
+
+===== 2052 =====
+FILE: g:\Scan\Data\977
+ARCHIVE: no
+INFECTED: no
+
+===== 2053 =====
+FILE: g:\Scan\Data\978
+ARCHIVE: no
+INFECTED: no
+
+===== 2054 =====
+FILE: g:\Scan\Data\979
+ARCHIVE: no
+INFECTED: no
+
+===== 2055 =====
+FILE: g:\Scan\Data\98
+ARCHIVE: no
+INFECTED: no
+
+===== 2056 =====
+FILE: g:\Scan\Data\980
+ARCHIVE: no
+INFECTED: no
+
+===== 2057 =====
+FILE: g:\Scan\Data\981
+ARCHIVE: no
+INFECTED: no
+
+===== 2058 =====
+FILE: g:\Scan\Data\982
+ARCHIVE: no
+INFECTED: no
+
+===== 2059 =====
+FILE: g:\Scan\Data\983
+ARCHIVE: no
+INFECTED: no
+
+===== 2060 =====
+FILE: g:\Scan\Data\984
+ARCHIVE: no
+INFECTED: no
+
+===== 2061 =====
+FILE: g:\Scan\Data\985
+ARCHIVE: yes
+PACKERS: 
+   - MSI
+   - NSIS
+INFECTED: yes
+INFILTRATIONS: 
+   - NSIS/StartPage.AX trojan
+
+===== 2062 =====
+FILE: g:\Scan\Data\986
+ARCHIVE: yes
+PACKERS: 
+   - RAR
+   - UPX v12_m2
+INFECTED: yes
+INFILTRATIONS: 
+   - Win32/Agent.NVT trojan
+   - a variant of Win32/Farfli.AEY.gen trojan
+
+===== 2063 =====
+FILE: g:\Scan\Data\987
+ARCHIVE: no
+INFECTED: no
+
+===== 2064 =====
+FILE: g:\Scan\Data\988
+ARCHIVE: no
+INFECTED: no
+
+===== 2065 =====
+FILE: g:\Scan\Data\989
+ARCHIVE: no
+INFECTED: no
+
+===== 2066 =====
+FILE: g:\Scan\Data\99
+ARCHIVE: no
+INFECTED: no
+
+===== 2067 =====
+FILE: g:\Scan\Data\990
+ARCHIVE: no
+INFECTED: no
+
+===== 2068 =====
+FILE: g:\Scan\Data\991
+ARCHIVE: no
+INFECTED: no
+
+===== 2069 =====
+FILE: g:\Scan\Data\992
+ARCHIVE: yes
+PACKERS: 
+   - UPX v12_m5
+INFECTED: no
+
+===== 2070 =====
+FILE: g:\Scan\Data\993
+ARCHIVE: no
+INFECTED: no
+
+===== 2071 =====
+FILE: g:\Scan\Data\994
+ARCHIVE: no
+INFECTED: no
+
+===== 2072 =====
+FILE: g:\Scan\Data\995
+ARCHIVE: no
+INFECTED: no
+
+===== 2073 =====
+FILE: g:\Scan\Data\996
+ARCHIVE: no
+INFECTED: no
+
+===== 2074 =====
+FILE: g:\Scan\Data\997
+ARCHIVE: no
+INFECTED: no
+
+===== 2075 =====
+FILE: g:\Scan\Data\998
+ARCHIVE: no
+INFECTED: no
+
+===== 2076 =====
+FILE: g:\Scan\Data\999
