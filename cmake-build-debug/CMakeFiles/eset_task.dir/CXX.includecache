@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/michaelab/eset-task/main.cpp
+iostream
+-
+fstream
+-
+string
+-
+parser.h
+/Users/michaelab/eset-task/parser.h
+
+/Users/michaelab/eset-task/parser.cpp
+parser.h
+/Users/michaelab/eset-task/parser.h
+
+/Users/michaelab/eset-task/parser.h
+iostream
+-
+string
+-
+set
+-
+
